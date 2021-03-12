@@ -1,0 +1,544 @@
+{
+ "stocks": [
+  {
+   "code": "PL11BTS00015",
+   "name": "11BIT",
+   "ticker": "11B",
+   "market_sector": "Video games",
+   "number_of_shares": 2361445,
+   "market_value_mln": 1206.7,
+   "PE": 7.58
+  },
+  {
+   "code": "PLALIOR00045",
+   "name": "ALIOR",
+   "ticker": "ALR",
+   "market_sector": "commercial banks",
+   "number_of_shares": 130553991,
+   "market_value_mln": 3017.1,
+   "PE": 0.46
+  },
+  {
+   "code": "LU2237380790",
+   "name": "ALLEGRO",
+   "ticker": "ALE",
+   "market_sector": "E-Trade",
+   "number_of_shares": 1023255814,
+   "market_value_mln": 66276.28,
+   "PE": 8.19
+  },
+  {
+   "code": "PLAMICA00010",
+   "name": "AMICA",
+   "ticker": "AMC",
+   "market_sector": "electrical & electronic equipment",
+   "number_of_shares": 7775273,
+   "market_value_mln": 1128.97,
+   "PE": 1.12
+  },
+  {
+   "code": "ES0105375002",
+   "name": "AMREST",
+   "ticker": "EAT",
+   "market_sector": "hotels & restaurants",
+   "number_of_shares": 219554183,
+   "market_value_mln": 7212.35,
+   "PE": 6.11
+  },
+  {
+   "code": "PLSOFTB00016",
+   "name": "ASSECOPOL",
+   "ticker": "ACP",
+   "market_sector": "IT systems",
+   "number_of_shares": 83000303,
+   "market_value_mln": 5561.02,
+   "PE": 0.95
+  },
+  {
+   "code": "PLASSEE00014",
+   "name": "ASSECOSEE",
+   "ticker": "ASE",
+   "market_sector": "software",
+   "number_of_shares": 51894251,
+   "market_value_mln": 2075.77,
+   "PE": 2.28
+  },
+  {
+   "code": "PLBNFTS00018",
+   "name": "BENEFIT",
+   "ticker": "BFT",
+   "market_sector": "other - leisure facilities",
+   "number_of_shares": 2894287,
+   "market_value_mln": 2384.89,
+   "PE": 4.02
+  },
+  {
+   "code": "PLBMDLB00018",
+   "name": "BIOMEDLUB",
+   "ticker": "BML",
+   "market_sector": "Pharmaceuticals",
+   "number_of_shares": 62260410,
+   "market_value_mln": 681.75,
+   "PE": 18.27
+  },
+  {
+   "code": "PLBGZ0000010",
+   "name": "BNPPPL",
+   "ticker": "BNP",
+   "market_sector": "commercial banks",
+   "number_of_shares": 147418918,
+   "market_value_mln": 10201.39,
+   "PE": 0.85
+  },
+  {
+   "code": "PLBUDMX00013",
+   "name": "BUDIMEX",
+   "ticker": "BDX",
+   "market_sector": "general construction",
+   "number_of_shares": 25530098,
+   "market_value_mln": 7837.74,
+   "PE": 8.26
+  },
+  {
+   "code": "PLCCC0000016",
+   "name": "CCC",
+   "ticker": "CCC",
+   "market_sector": "clothes & footwear",
+   "number_of_shares": 54868000,
+   "market_value_mln": 5352.92,
+   "PE": 11.01
+  },
+  {
+   "code": "PLOPTTC00011",
+   "name": "CDPROJEKT",
+   "ticker": "CDR",
+   "market_sector": "Video games",
+   "number_of_shares": 100654624,
+   "market_value_mln": 22244.67,
+   "PE": 20.57
+  },
+  {
+   "code": "PLCIECH00018",
+   "name": "CIECH",
+   "ticker": "CIE",
+   "market_sector": "basic chemicals",
+   "number_of_shares": 52699909,
+   "market_value_mln": 1865.58,
+   "PE": 0.91
+  },
+  {
+   "code": "PLCTINT00018",
+   "name": "CIGAMES",
+   "ticker": "CIG",
+   "market_sector": "Video games",
+   "number_of_shares": 182943015,
+   "market_value_mln": 259.05,
+   "PE": 2.74
+  },
+  {
+   "code": "PLCLNPH00015",
+   "name": "CLNPHARMA",
+   "ticker": "CLN",
+   "market_sector": "Pharmaceuticals",
+   "number_of_shares": 45000000,
+   "market_value_mln": 2254.5,
+   "PE": 5.08
+  },
+  {
+   "code": "PLCOMAR00012",
+   "name": "COMARCH",
+   "ticker": "CMR",
+   "market_sector": "IT systems",
+   "number_of_shares": 8133349,
+   "market_value_mln": 1651.07,
+   "PE": 1.53
+  },
+  {
+   "code": "PLCMRAY00029",
+   "name": "CORMAY",
+   "ticker": "CRM",
+   "market_sector": "Pharmaceuticals",
+   "number_of_shares": 84205008,
+   "market_value_mln": 117.04,
+   "PE": 1.78
+  },
+  {
+   "code": "PLCFRPT00013",
+   "name": "CYFRPLSAT",
+   "ticker": "CPS",
+   "market_sector": "Telecom",
+   "number_of_shares": 639546016,
+   "market_value_mln": 18546.83,
+   "PE": 1.33
+  },
+  {
+   "code": "PLPILAB00012",
+   "name": "DATAWALK",
+   "ticker": "DAT",
+   "market_sector": "software",
+   "number_of_shares": 4886048,
+   "market_value_mln": 977.21,
+   "PE": 65.88
+  },
+  {
+   "code": "PLLCCRP00017",
+   "name": "DEVELIA",
+   "ticker": "DVL",
+   "market_sector": "real estate sales",
+   "number_of_shares": 447558311,
+   "market_value_mln": 1060.71,
+   "PE": 0.72
+  },
+  {
+   "code": "PLDINPL00011",
+   "name": "DINOPL",
+   "ticker": "DNP",
+   "market_sector": "consumer discretionary",
+   "number_of_shares": 98040000,
+   "market_value_mln": 25980.6,
+   "PE": 12.6
+  },
+  {
+   "code": "PLDMDVL00012",
+   "name": "DOMDEV",
+   "ticker": "DOM",
+   "market_sector": "real estate sales",
+   "number_of_shares": 25398422,
+   "market_value_mln": 3047.81,
+   "PE": 2.97
+  },
+  {
+   "code": "PLECHPS00019",
+   "name": "ECHO",
+   "ticker": "ECH",
+   "market_sector": "real estate rent",
+   "number_of_shares": 412690582,
+   "market_value_mln": 1815.84,
+   "PE": 1.1
+  },
+  {
+   "code": "PLENEA000013",
+   "name": "ENEA",
+   "ticker": "ENA",
+   "market_sector": "power",
+   "number_of_shares": 441442578,
+   "market_value_mln": 2849.51,
+   "PE": 0.2
+  },
+  {
+   "code": "PLEURCH00011",
+   "name": "EUROCASH",
+   "ticker": "EUR",
+   "market_sector": "consumer discretionary",
+   "number_of_shares": 139163286,
+   "market_value_mln": 1843.91,
+   "PE": 1.97
+  },
+  {
+   "code": "PLFAMUR00012",
+   "name": "FAMUR",
+   "ticker": "FMF",
+   "market_sector": "industrial machinery",
+   "number_of_shares": 574763212,
+   "market_value_mln": 1436.91,
+   "PE": 0.86
+  },
+  {
+   "code": "PLGPW0000017",
+   "name": "GPW",
+   "ticker": "GPW",
+   "market_sector": "exchanges and brokers",
+   "number_of_shares": 41972000,
+   "market_value_mln": 1939.11,
+   "PE": 2.21
+  },
+  {
+   "code": "PLZATRM00012",
+   "name": "GRUPAAZOTY",
+   "ticker": "ATT",
+   "market_sector": "basic chemicals",
+   "number_of_shares": 99195484,
+   "market_value_mln": 3144.5,
+   "PE": 0.43
+  },
+  {
+   "code": "PLGTC0000037",
+   "name": "GTC",
+   "ticker": "GTC",
+   "market_sector": "real estate rent",
+   "number_of_shares": 485555122,
+   "market_value_mln": 3253.22,
+   "PE": 0.71
+  },
+  {
+   "code": "PLBH00000012",
+   "name": "HANDLOWY",
+   "ticker": "BHW",
+   "market_sector": "commercial banks",
+   "number_of_shares": 130659600,
+   "market_value_mln": 5226.38,
+   "PE": 0.69
+  },
+  {
+   "code": "PLBSK0000017",
+   "name": "INGBSK",
+   "ticker": "ING",
+   "market_sector": "commercial banks",
+   "number_of_shares": 130100000,
+   "market_value_mln": 23938.4,
+   "PE": 1.29
+  },
+  {
+   "code": "PLINTCS00010",
+   "name": "INTERCARS",
+   "ticker": "CAR",
+   "market_sector": "components",
+   "number_of_shares": 14168100,
+   "market_value_mln": 4604.63,
+   "PE": 2.02
+  },
+  {
+   "code": "PLJSW0000015",
+   "name": "JSW",
+   "ticker": "JSW",
+   "market_sector": "coal mining",
+   "number_of_shares": 117411596,
+   "market_value_mln": 4015.48,
+   "PE": 0.55
+  },
+  {
+   "code": "LU0327357389",
+   "name": "KERNEL",
+   "ticker": "KER",
+   "market_sector": "food",
+   "number_of_shares": 84031230,
+   "market_value_mln": 4537.69,
+   "PE": 0.69
+  },
+  {
+   "code": "PLKETY000011",
+   "name": "KETY",
+   "ticker": "KTY",
+   "market_sector": "non-ferrous metallurgy",
+   "number_of_shares": 9629507,
+   "market_value_mln": 4930.31,
+   "PE": 3.32
+  },
+  {
+   "code": "PLKGHM000017",
+   "name": "KGHM",
+   "ticker": "KGH",
+   "market_sector": "metals mining",
+   "number_of_shares": 200000000,
+   "market_value_mln": 38310.0,
+   "PE": 1.83
+  },
+  {
+   "code": "PLKRK0000010",
+   "name": "KRUK",
+   "ticker": "KRU",
+   "market_sector": "Mortgage",
+   "number_of_shares": 19011045,
+   "market_value_mln": 3669.13,
+   "PE": 1.78
+  },
+  {
+   "code": "PLLVTSF00010",
+   "name": "LIVECHAT",
+   "ticker": "LVC",
+   "market_sector": "software",
+   "number_of_shares": 25750000,
+   "market_value_mln": 3203.3,
+   "PE": 31.2
+  },
+  {
+   "code": "PLLOTOS00025",
+   "name": "LOTOS",
+   "ticker": "LTS",
+   "market_sector": "oil & gas exploration & production",
+   "number_of_shares": 184873362,
+   "market_value_mln": 8763.0,
+   "PE": 0.76
+  },
+  {
+   "code": "PLLPP0000011",
+   "name": "LPP",
+   "ticker": "LPP",
+   "market_sector": "clothes & footwear",
+   "number_of_shares": 1852423,
+   "market_value_mln": 14930.53,
+   "PE": 4.94
+  },
+  {
+   "code": "PLMBION00016",
+   "name": "MABION",
+   "ticker": "MAB",
+   "market_sector": "Pharmaceuticals",
+   "number_of_shares": 13730772,
+   "market_value_mln": 1139.65,
+   "PE": 0
+  },
+  {
+   "code": "PLBRE0000012",
+   "name": "MBANK",
+   "ticker": "MBK",
+   "market_sector": "commercial banks",
+   "number_of_shares": 42367040,
+   "market_value_mln": 9769.84,
+   "PE": 0.59
+  },
+  {
+   "code": "PLMRCTR00015",
+   "name": "MERCATOR",
+   "ticker": "MRC",
+   "market_sector": "Health care equipment",
+   "number_of_shares": 10604525,
+   "market_value_mln": 4040.32,
+   "PE": 5.92
+  },
+  {
+   "code": "PLBIG0000016",
+   "name": "MILLENNIUM",
+   "ticker": "MIL",
+   "market_sector": "commercial banks",
+   "number_of_shares": 1213116777,
+   "market_value_mln": 4852.47,
+   "PE": 0.53
+  },
+  {
+   "code": "PLTRFRM00018",
+   "name": "NEUCA",
+   "ticker": "NEU",
+   "market_sector": "Pharmaceuticals wholesales ",
+   "number_of_shares": 4453999,
+   "market_value_mln": 3157.89,
+   "PE": 4.14
+  },
+  {
+   "code": "PLTLKPL00017",
+   "name": "ORANGEPL",
+   "ticker": "OPL",
+   "market_sector": "Telecom",
+   "number_of_shares": 1312357479,
+   "market_value_mln": 8392.53,
+   "PE": 0.79
+  },
+  {
+   "code": "PLPEKAO00016",
+   "name": "PEKAO",
+   "ticker": "PEO",
+   "market_sector": "commercial banks",
+   "number_of_shares": 262470034,
+   "market_value_mln": 19055.32,
+   "PE": 0.75
+  },
+  {
+   "code": "PLPGER000010",
+   "name": "PGE",
+   "ticker": "PGE",
+   "market_sector": "power",
+   "number_of_shares": 1869760829,
+   "market_value_mln": 12658.28,
+   "PE": 0.3
+  },
+  {
+   "code": "PLPGNIG00014",
+   "name": "PGNIG",
+   "ticker": "PGN",
+   "market_sector": "oil & gas exploration & production",
+   "number_of_shares": 5778314857,
+   "market_value_mln": 33964.93,
+   "PE": 0.78
+  },
+  {
+   "code": "PLPKN0000018",
+   "name": "PKNORLEN",
+   "ticker": "PKN",
+   "market_sector": "oil & gas exploration & production",
+   "number_of_shares": 427709061,
+   "market_value_mln": 29289.52,
+   "PE": 0.69
+  },
+  {
+   "code": "PLPKO0000016",
+   "name": "PKOBP",
+   "ticker": "PKO",
+   "market_sector": "commercial banks",
+   "number_of_shares": 1250000000,
+   "market_value_mln": 39675.0,
+   "PE": 0.88
+  },
+  {
+   "code": "PLPKPCR00011",
+   "name": "PKPCARGO",
+   "ticker": "PKP",
+   "market_sector": "transport",
+   "number_of_shares": 44786917,
+   "market_value_mln": 864.39,
+   "PE": 0.27
+  },
+  {
+   "code": "PLPLAYW00015",
+   "name": "PLAYWAY",
+   "ticker": "PLW",
+   "market_sector": "Video games",
+   "number_of_shares": 6600000,
+   "market_value_mln": 3696.0,
+   "PE": 11.98
+  },
+  {
+   "code": "PLPZU0000011",
+   "name": "PZU",
+   "ticker": "PZU",
+   "market_sector": "insurance offices",
+   "number_of_shares": 863523000,
+   "market_value_mln": 28496.26,
+   "PE": 1.59
+  },
+  {
+   "code": "PLBZ00000044",
+   "name": "SANPL",
+   "ticker": "SPL",
+   "market_sector": "commercial banks",
+   "number_of_shares": 102189314,
+   "market_value_mln": 22256.83,
+   "PE": 0.82
+  },
+  {
+   "code": "PLTAURN00011",
+   "name": "TAURONPE",
+   "ticker": "TPE",
+   "market_sector": "power",
+   "number_of_shares": 1752549394,
+   "market_value_mln": 4588.17,
+   "PE": 0.25
+  },
+  {
+   "code": "PLTSQGM00016",
+   "name": "TSGAMES",
+   "ticker": "TEN",
+   "market_sector": "Video games",
+   "number_of_shares": 7267311,
+   "market_value_mln": 3640.92,
+   "PE": 18.27
+  },
+  {
+   "code": "PLWRTPL00027",
+   "name": "WIRTUALNA",
+   "ticker": "WPL",
+   "market_sector": "internet",
+   "number_of_shares": 29188959,
+   "market_value_mln": 2767.11,
+   "PE": 5.07
+  },
+  {
+   "code": "PLXTRDM00011",
+   "name": "XTB",
+   "ticker": "XTB",
+   "market_sector": "exchanges and brokers",
+   "number_of_shares": 117383635,
+   "market_value_mln": 2007.26,
+   "PE": 2.26
+  }
+ ]
+}

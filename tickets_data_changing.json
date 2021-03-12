@@ -1,0 +1,3664 @@
+{
+ "stocks": [
+  {
+   "ticker": "11B",
+   "articles": [
+    {
+     "title": "dzień na gpw: wig20 pozostaje pod kreską; mocno rosną spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1408342&search=+11+bit+",
+     "day": "5 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora gamingowego",
+     "url": "https://stooq.pl/n/?f=1407006&search=+11bit+",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy mocno tracą; wig-telekomunikacja w górę",
+     "url": "https://stooq.pl/n/?f=1406973&search=+11+bit+",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: indeksy zwyżkują; kurs cd projektu idzie w dół",
+     "url": "https://stooq.pl/n/?f=1406690&search=+11+bit+",
+     "day": "25 lut"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=+11+bit+",
+     "day": "25 lut"
+    },
+    {
+     "title": "dzień na gpw: spadkowa pierwsza sesja w tygodniu; wig20 stracił blisko 1,2 proc.",
+     "url": "https://stooq.pl/n/?f=1406051&search=+11+bit+",
+     "day": "22 lut"
+    },
+    {
+     "title": "gpw: giełda w warszawie światowym liderem spółek z branży gamedev",
+     "url": "https://stooq.pl/n/?f=1405995&search=+11+bit+",
+     "day": "22 lut"
+    },
+    {
+     "title": "dzień na gpw: indeksy idą w dół; najmocniej traci wig20",
+     "url": "https://stooq.pl/n/?f=1405963&search=+11+bit+",
+     "day": "22 lut"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy tracą ok. 1 proc.",
+     "url": "https://stooq.pl/n/?f=1405909&search=+11+bit+",
+     "day": "22 lut"
+    },
+    {
+     "title": "dzień na gpw: indeksy mogą zniżkować na początku sesji",
+     "url": "https://stooq.pl/n/?f=1405895&search=+11+bit+",
+     "day": "22 lut"
+    }
+   ],
+   "predictions": {
+    "up": "2",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "8078"
+  },
+  {
+   "ticker": "ALR",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17772&search=alior",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=alior",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 najsłabszym europejskim indeksem; spadkom przewodzą banki",
+     "url": "https://stooq.pl/n/?f=1409377&search=alior",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy oddały poranne wzrosty; wig20 poniżej 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1409335&search=alior",
+     "day": "11 mar"
+    },
+    {
+     "title": "problemy byków na bankach",
+     "url": "https://stooq.pl/nol/?id=17747&search=alior",
+     "day": "11 mar"
+    },
+    {
+     "title": "cyfryzacja kprm: od początku roku profil zaufany założyło ponad milion osób",
+     "url": "https://stooq.pl/n/?f=1409215&search=alior",
+     "day": "10 mar"
+    },
+    {
+     "title": "raport: wracają hipoteki z 10-proc. wkładem własnym",
+     "url": "https://stooq.pl/n/?f=1409129&search=alior",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: duże spółki przewodziły wzrostom; pod kreską cd projekt",
+     "url": "https://stooq.pl/n/?f=1408997&search=alior",
+     "day": "9 mar"
+    },
+    {
+     "title": "pzu cash: z platformy może korzystać ok. 160 tys. pracowników, w tym tvp i pgg",
+     "url": "https://stooq.pl/n/?f=1408883&search=alior",
+     "day": "9 mar"
+    },
+    {
+     "title": "monitor kadrowy - zestawienie od 2 do 8 marca",
+     "url": "https://stooq.pl/n/?f=1408872&search=alior",
+     "day": "9 mar"
+    }
+   ],
+   "predictions": {
+    "up": "35",
+    "same": "0",
+    "down": "2"
+   },
+   "average_daily_volume": 6560000000
+  },
+  {
+   "ticker": "ALE",
+   "articles": [
+    {
+     "title": "na zako&#197;&#132;czenie - szeroki wig na granicy wybicia",
+     "url": "https://stooq.pl/nol/?id=17738&search=allegro",
+     "day": "10 mar"
+    },
+    {
+     "title": "amazon w długim terminie może zdobyć dużo ponad 10 proc. polskiego rynku e-commerce - prezes inpostu",
+     "url": "https://stooq.pl/n/?f=1408961&search=allegro",
+     "day": "9 mar"
+    },
+    {
+     "title": "spokojny początek sesji na gpw",
+     "url": "https://stooq.pl/nol/?id=17680&search=allegro",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy skorzystały z dobrego globalnego sentymentu",
+     "url": "https://stooq.pl/n/?f=1408805&search=allegro",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: lekkie wzrosty głównych indeksów, wyra&#197;&#186;nie rosną spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1408636&search=allegro",
+     "day": "8 mar"
+    },
+    {
+     "title": "spółki zmieniły swoje nastawienie do debiutu na gpw, biura maklerskie mówią o kolejce chętnych",
+     "url": "https://stooq.pl/n/?f=1408499&search=allegro",
+     "day": "6 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy pod kreską; sektor paliwowy mocno w górę",
+     "url": "https://stooq.pl/n/?f=1408461&search=allegro",
+     "day": "5 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1408369&search=allegro",
+     "day": "5 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 pozostaje pod kreską; mocno rosną spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1408342&search=allegro",
+     "day": "5 mar"
+    },
+    {
+     "title": "powell wprowadza nasdaq w korektę",
+     "url": "https://stooq.pl/n/?f=1408258&search=allegro",
+     "day": "5 mar"
+    }
+   ],
+   "predictions": {
+    "up": "43",
+    "same": "0",
+    "down": "28"
+   },
+   "average_daily_volume": "1704368"
+  },
+  {
+   "ticker": "AMC",
+   "articles": [
+    {
+     "title": "dzień na gpw: duże spółki przewodziły wzrostom; pod kreską cd projekt",
+     "url": "https://stooq.pl/n/?f=1408997&search=+amica+",
+     "day": "9 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1408995&search=+amica+",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: wzrostom przewodzą duże spółki; wig20 rośnie o 2 proc. do 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1408922&search=+amica+",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: niewielkie zmiany głównych indeksów, mocno rośnie kurs ryvu therapeutics",
+     "url": "https://stooq.pl/n/?f=1408860&search=+amiki+",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: spodziewane neutralne otwarcie notowa&#197;&#132;",
+     "url": "https://stooq.pl/n/?f=1408848&search=+amica+",
+     "day": "9 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408839&search=+amica+",
+     "day": "9 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408831&search=+amica+",
+     "day": "9 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1408012&search=+amica+",
+     "day": "4 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1407982&search=+amica+",
+     "day": "3 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407815&search=+amica+",
+     "day": "3 mar"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "1",
+    "down": "0"
+   },
+   "average_daily_volume": "7397"
+  },
+  {
+   "ticker": "EAT",
+   "articles": [
+    {
+     "title": "walka o ustanowienie dołka na technologii",
+     "url": "https://stooq.pl/n/?f=1408631&search=amrest",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 pozostaje pod kreską; mocno rosną spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1408342&search=amrest",
+     "day": "5 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1407256&search=amrest",
+     "day": "1 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1407100&search=amrest",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: spadki głównych indeksów; wig20 stracił ponad 1,5 proc.",
+     "url": "https://stooq.pl/n/?f=1407082&search=amrest",
+     "day": "26 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407079&search=amrest",
+     "day": "26 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407009&search=amrest",
+     "day": "26 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406991&search=amrest",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy mocno tracą; wig-telekomunikacja w górę",
+     "url": "https://stooq.pl/n/?f=1406973&search=amrest",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy zniżkują; mocno w górę kurs alior banku i cyfrowego polsatu",
+     "url": "https://stooq.pl/n/?f=1406910&search=amrest",
+     "day": "26 lut"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": 1180000000
+  },
+  {
+   "ticker": "ACP",
+   "articles": [
+    {
+     "title": "dzień na gpw: na początku notowa&#197;&#132; przewaga spadków indeksów, wśród bluechipów najbardziej traci dino",
+     "url": "https://stooq.pl/n/?f=1409549&search=asseco+poland",
+     "day": "12 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409520&search=asseco+poland",
+     "day": "12 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=asseco+poland",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy rosną, liderami w wig20 paliwa i surowce",
+     "url": "https://stooq.pl/n/?f=1409315&search=asseco+poland",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: dobre nastroje na rynkach zapowiadają wzrosty",
+     "url": "https://stooq.pl/n/?f=1409299&search=asseco+poland",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409290&search=asseco+poland",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409259&search=asseco+poland",
+     "day": "10 mar"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=asseco+poland",
+     "day": "8 mar"
+    },
+    {
+     "title": "&#197;&#154;ląskie - ztm likwiduje sieć punktów obsługi klienta",
+     "url": "https://stooq.pl/n/?f=1408223&search=asseco+poland",
+     "day": "4 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 lekko w dół, mocno drożeją comarch i intercars po wynikach",
+     "url": "https://stooq.pl/n/?f=1407530&search=asseco+poland",
+     "day": "2 mar"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "2"
+   },
+   "average_daily_volume": "80746"
+  },
+  {
+   "ticker": "ASE",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408633&search=asseco+see",
+     "day": "8 mar"
+    },
+    {
+     "title": "porcja nowych rekomendacji",
+     "url": "https://stooq.pl/nol/?id=17582&search=asseco+see",
+     "day": "4 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17509&search=asseco+south+eastern",
+     "day": "2 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1407012&search=asseco+see",
+     "day": "26 lut"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1406851&search=asseco+see",
+     "day": "26 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1406796&search=asseco+see",
+     "day": "25 lut"
+    },
+    {
+     "title": "dzień na gpw: indeksy zwyżkują; kurs cd projektu idzie w dół",
+     "url": "https://stooq.pl/n/?f=1406690&search=asseco+south+eastern",
+     "day": "25 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406670&search=asseco+see",
+     "day": "25 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406668&search=asseco+see",
+     "day": "25 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406667&search=asseco+see",
+     "day": "25 lut"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "13922"
+  },
+  {
+   "ticker": "BFT",
+   "articles": [
+    {
+     "title": "badanie: niespełna jedna trzecia polaków jest zadowolona z otrzymywanych wynagrodze&#197;&#132;",
+     "url": "https://stooq.pl/n/?f=1409576&search=+benefit+",
+     "day": "12 mar"
+    },
+    {
+     "title": "fpp: bon 500+ na posiłki pracowników bez zus, pit to 0,5 mld zł wpływów budżetu",
+     "url": "https://stooq.pl/n/?f=1407621&search=+benefit+",
+     "day": "2 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy rosną po ok. 1 proc.; zwyżkom przewodzą banki",
+     "url": "https://stooq.pl/n/?f=1407375&search=+benefit+",
+     "day": "1 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 lekko w dół; dobra sesja banków",
+     "url": "https://stooq.pl/n/?f=1406780&search=+benefit+",
+     "day": "25 lut"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy zyskały; najmocniej wzrósł mwig40",
+     "url": "https://stooq.pl/n/?f=1406529&search=+benefit+",
+     "day": "24 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1402710&search=+benefit+",
+     "day": "4 lut"
+    },
+    {
+     "title": "zestawienie giełdowych spółek o największym udziale ofe w akcjonariacie",
+     "url": "https://stooq.pl/n/?f=1399582&search=+benefit+",
+     "day": "18 sty"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1397382&search=+benefit+",
+     "day": "5 sty"
+    },
+    {
+     "title": "fpp: bon 500+ na posiłki pracowników bez zus, pit dodałby 560 mln zł rolnictwu",
+     "url": "https://stooq.pl/n/?f=1392717&search=+benefit+",
+     "day": "8 gru"
+    },
+    {
+     "title": "fpp:bon 500+ na posiłki pracowników bez zus, pit to 100 tys. nowych miejsc pracy",
+     "url": "https://stooq.pl/n/?f=1391528&search=+benefit+",
+     "day": "1 gru"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": "2019"
+  },
+  {
+   "ticker": "BML",
+   "articles": [
+    {
+     "title": "niejasne oczekiwania wobec ebc",
+     "url": "https://stooq.pl/n/?f=1409301&search=biomed+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17720&search=biomed+",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: czwartkowe notowania mogą rozpocząć się od spadków",
+     "url": "https://stooq.pl/n/?f=1408034&search=biomed+",
+     "day": "4 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408031&search=biomed+",
+     "day": "4 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408014&search=biomed+",
+     "day": "4 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy mocno tracą; wig-telekomunikacja w górę",
+     "url": "https://stooq.pl/n/?f=1406973&search=biomedu+",
+     "day": "26 lut"
+    },
+    {
+     "title": "kontrakty i umowy spółek - przegląd tygodniowy",
+     "url": "https://stooq.pl/n/?f=1405921&search=biomed+",
+     "day": "22 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1405717&search=biomed+",
+     "day": "19 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1405695&search=biomed+",
+     "day": "19 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17239&search=biomedu+",
+     "day": "18 lut"
+    }
+   ],
+   "predictions": {
+    "up": "7",
+    "same": "1",
+    "down": "12"
+   },
+   "average_daily_volume": "1407380"
+  },
+  {
+   "ticker": "BNP",
+   "articles": [
+    {
+     "title": "eurocash może rozważyć kolejne emisje obligacji przy dobrych warunkach na rynku",
+     "url": "https://stooq.pl/n/?f=1409384&search=+bnp+paribas",
+     "day": "11 mar"
+    },
+    {
+     "title": "problemy byków na bankach",
+     "url": "https://stooq.pl/nol/?id=17747&search=+bnp+paribas",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: dobre nastroje na rynkach zapowiadają wzrosty",
+     "url": "https://stooq.pl/n/?f=1409299&search=+bnp+paribas",
+     "day": "11 mar"
+    },
+    {
+     "title": "raport: wracają hipoteki z 10-proc. wkładem własnym",
+     "url": "https://stooq.pl/n/?f=1409129&search=+bnp+paribas",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 będzie zmagał się z oporem w okolicy 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1409052&search=+bnp+paribas",
+     "day": "10 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1408995&search=+bnp+paribas",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na fx/fi: eur/pln wróci do 4,60; korekta na rynku długu",
+     "url": "https://stooq.pl/n/?f=1408973&search=+bnp+paribas",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: spodziewane neutralne otwarcie notowa&#197;&#132;",
+     "url": "https://stooq.pl/n/?f=1408848&search=+bnp+paribas",
+     "day": "9 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408844&search=+bnp+paribas",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: rynek pod wpływem nastrojów zewnętrznych; notowania mogą rozpocząć się od wzrostów",
+     "url": "https://stooq.pl/n/?f=1408629&search=+bnp+paribas",
+     "day": "8 mar"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "2175"
+  },
+  {
+   "ticker": "BDX",
+   "articles": [
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409520&search=budimex",
+     "day": "12 mar"
+    },
+    {
+     "title": "&#197;&#154;ląskie - plk zako&#197;&#132;czyły część prac na odcinku czechowice-dziedzice - zabrzeg",
+     "url": "https://stooq.pl/n/?f=1409488&search=budimeks",
+     "day": "11 mar"
+    },
+    {
+     "title": "pozna&#197;&#132; - podpisano umowę na budowę tunelu i węzła przesiadkowego na granicy z plewiskami",
+     "url": "https://stooq.pl/n/?f=1409483&search=budimex",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=budimeks",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409438&search=budimex",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409287&search=budimeks",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409250&search=budimex",
+     "day": "10 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409091&search=budimex",
+     "day": "10 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409088&search=budimex",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy rosną po blisko 1 proc.; wzrostom przewodzą paliwa",
+     "url": "https://stooq.pl/n/?f=1408717&search=budimex",
+     "day": "8 mar"
+    }
+   ],
+   "predictions": {
+    "up": "2",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": "11821"
+  },
+  {
+   "ticker": "CCC",
+   "articles": [
+    {
+     "title": "dzień na gpw: na początku notowa&#197;&#132; przewaga spadków indeksów, wśród bluechipów najbardziej traci dino",
+     "url": "https://stooq.pl/n/?f=1409549&search=+ccc+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409511&search=+ccc+",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: wzrosty głównych indeksów, najwięcej w wig20 zyskuje jsw",
+     "url": "https://stooq.pl/n/?f=1409067&search=+ccc+",
+     "day": "10 mar"
+    },
+    {
+     "title": "rotacja trwa w najlepsze",
+     "url": "https://stooq.pl/n/?f=1408852&search=+ccc+",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy skorzystały z dobrego globalnego sentymentu",
+     "url": "https://stooq.pl/n/?f=1408805&search=+ccc+",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy rosną po blisko 1 proc.; wzrostom przewodzą paliwa",
+     "url": "https://stooq.pl/n/?f=1408717&search=+ccc+",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: lekkie wzrosty głównych indeksów, wyra&#197;&#186;nie rosną spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1408636&search=+ccc+",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy zako&#197;&#132;czyły sesję pod kreską; w wig20 najsłabszy cdr",
+     "url": "https://stooq.pl/n/?f=1407964&search=+ccc+",
+     "day": "3 mar"
+    },
+    {
+     "title": "dzień na gpw: druga wzrostowa sesja z rzędu; w wig20 najmocniejsze allegro",
+     "url": "https://stooq.pl/n/?f=1407710&search=+ccc+",
+     "day": "2 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy w górę; sektor bankowy wrócił do poziomu sprzed roku",
+     "url": "https://stooq.pl/n/?f=1407465&search=+ccc+",
+     "day": "1 mar"
+    }
+   ],
+   "predictions": {
+    "up": "23",
+    "same": "0",
+    "down": "16"
+   },
+   "average_daily_volume": 486000000
+  },
+  {
+   "ticker": "CDR",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17773&search=+cd+projekt",
+     "day": "12 mar"
+    },
+    {
+     "title": "ebc planuje większe zakupy",
+     "url": "https://stooq.pl/n/?f=1409541&search=+cd+projekt",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=+cd+projekt",
+     "day": "11 mar"
+    },
+    {
+     "title": "indeks wig20 spadł o 0,46% na zamknięciu w czwartek",
+     "url": "https://stooq.pl/n/?f=1409465&search=+cd+projekt",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17761&search=+cd+projekcie",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 najsłabszym europejskim indeksem; spadkom przewodzą banki",
+     "url": "https://stooq.pl/n/?f=1409377&search=+cd+projekt",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409330&search=+cd+projekt",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17746&search=+cd+projekt",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy rosną, liderami w wig20 paliwa i surowce",
+     "url": "https://stooq.pl/n/?f=1409315&search=+cd+projekt",
+     "day": "11 mar"
+    },
+    {
+     "title": "niejasne oczekiwania wobec ebc",
+     "url": "https://stooq.pl/n/?f=1409301&search=+cd+projekt",
+     "day": "11 mar"
+    }
+   ],
+   "predictions": {
+    "up": "20",
+    "same": "1",
+    "down": "35"
+   },
+   "average_daily_volume": "1282160"
+  },
+  {
+   "ticker": "CIE",
+   "articles": [
+    {
+     "title": "kontrakty i umowy spółek - przegląd tygodniowy",
+     "url": "https://stooq.pl/n/?f=1408698&search=+ciech+",
+     "day": "8 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1407497&search=+ciech+",
+     "day": "2 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1407458&search=+ciech+",
+     "day": "1 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407346&search=+ciech+",
+     "day": "1 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407344&search=+ciechu+",
+     "day": "1 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy zwyżkują; kurs cd projektu idzie w dół",
+     "url": "https://stooq.pl/n/?f=1406690&search=+ciech+",
+     "day": "25 lut"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=+ciech+",
+     "day": "25 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1406276&search=+ciech+",
+     "day": "23 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406166&search=+ciech+",
+     "day": "23 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406159&search=+ciech+",
+     "day": "23 lut"
+    }
+   ],
+   "predictions": {
+    "up": "3",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "118529"
+  },
+  {
+   "ticker": "CIG",
+   "articles": [
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora gamingowego",
+     "url": "https://stooq.pl/n/?f=1408372&search=ci+games",
+     "day": "5 mar"
+    },
+    {
+     "title": "gpw: mercator medical zastąpi alior bank w indeksie wig20 po sesji 19 iii",
+     "url": "https://stooq.pl/n/?f=1408251&search=ci+games",
+     "day": "5 mar"
+    },
+    {
+     "title": "mercator medical zastąpi alior bank w składzie indeksu wig20 po sesji 19 marca",
+     "url": "https://stooq.pl/n/?f=1408217&search=ci+games",
+     "day": "4 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 na lekkim plusie; wzrostom przewodził alior",
+     "url": "https://stooq.pl/n/?f=1408211&search=ci+games",
+     "day": "4 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1408209&search=ci+games",
+     "day": "4 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408159&search=ci+games",
+     "day": "4 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408148&search=ci+games",
+     "day": "4 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408141&search=ci+games",
+     "day": "4 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17511&search=ci+games",
+     "day": "2 mar"
+    },
+    {
+     "title": "mercator zastąpi aliora w wig20 - trigon dm",
+     "url": "https://stooq.pl/n/?f=1406122&search=ci+games",
+     "day": "23 lut"
+    }
+   ],
+   "predictions": {
+    "up": "2",
+    "same": "0",
+    "down": "2"
+   },
+   "average_daily_volume": "1080744"
+  },
+  {
+   "ticker": "CLN",
+   "articles": [
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=+celon+pharma",
+     "day": "11 mar"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=+celon+pharma",
+     "day": "8 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1407982&search=+celon+pharma",
+     "day": "3 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy zako&#197;&#132;czyły sesję pod kreską; w wig20 najsłabszy cdr",
+     "url": "https://stooq.pl/n/?f=1407964&search=+celon+pharma",
+     "day": "3 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407832&search=+celon+pharma",
+     "day": "3 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407812&search=+celon+pharma",
+     "day": "3 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407807&search=+celon+pharma",
+     "day": "3 mar"
+    },
+    {
+     "title": "dzień na gpw: początek środowych notowa&#197;&#132; może przynieść wzrosty",
+     "url": "https://stooq.pl/n/?f=1407754&search=+celon+pharma",
+     "day": "3 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407746&search=+celon+pharma",
+     "day": "3 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407714&search=+celon+pharma",
+     "day": "2 mar"
+    }
+   ],
+   "predictions": {
+    "up": "2",
+    "same": "0",
+    "down": "2"
+   },
+   "average_daily_volume": "68071"
+  },
+  {
+   "ticker": "CMR",
+   "articles": [
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1408369&search=comarch",
+     "day": "5 mar"
+    },
+    {
+     "title": "azja lekceważy spadki w nowym jorku",
+     "url": "https://stooq.pl/n/?f=1407757&search=comarch",
+     "day": "3 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1407742&search=comarch",
+     "day": "3 mar"
+    },
+    {
+     "title": "dzień na gpw: druga wzrostowa sesja z rzędu; w wig20 najmocniejsze allegro",
+     "url": "https://stooq.pl/n/?f=1407710&search=comarch",
+     "day": "2 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1407703&search=comarch",
+     "day": "2 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407627&search=comarch",
+     "day": "2 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407622&search=comarch",
+     "day": "2 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 zyskuje po początkowym spadku, mocno rosną allegro i sektor finansowy",
+     "url": "https://stooq.pl/n/?f=1407587&search=comarch",
+     "day": "2 mar"
+    },
+    {
+     "title": "pomimo odbicia w usa i niemczech, na gpw panuje atmosfera wyczekiwania",
+     "url": "https://stooq.pl/n/?f=1407558&search=comarch",
+     "day": "2 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407530&search=comarch",
+     "day": "2 mar"
+    }
+   ],
+   "predictions": {
+    "up": "2",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "2922"
+  },
+  {
+   "ticker": "CRM",
+   "articles": [
+    {
+     "title": "dzień na gpw: wzrostom przewodzą duże spółki; wig20 rośnie o 2 proc. do 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1408922&search=cormay",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy skorzystały z dobrego globalnego sentymentu",
+     "url": "https://stooq.pl/n/?f=1408805&search=cormay",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy rosną po blisko 1 proc.; wzrostom przewodzą paliwa",
+     "url": "https://stooq.pl/n/?f=1408717&search=cormay",
+     "day": "8 mar"
+    },
+    {
+     "title": "gpw: mercator medical zastąpi alior bank w indeksie wig20 po sesji 19 iii",
+     "url": "https://stooq.pl/n/?f=1408251&search=cormay",
+     "day": "5 mar"
+    },
+    {
+     "title": "mercator medical zastąpi alior bank w składzie indeksu wig20 po sesji 19 marca",
+     "url": "https://stooq.pl/n/?f=1408217&search=cormay",
+     "day": "4 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 na lekkim plusie; wzrostom przewodził alior",
+     "url": "https://stooq.pl/n/?f=1408211&search=cormay",
+     "day": "4 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy pod kreską; najmocniej tracą spółki górnicze",
+     "url": "https://stooq.pl/n/?f=1408125&search=cormay",
+     "day": "4 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy zako&#197;&#132;czyły sesję pod kreską; w wig20 najsłabszy cdr",
+     "url": "https://stooq.pl/n/?f=1407964&search=cormay",
+     "day": "3 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy w górę; sektor bankowy wrócił do poziomu sprzed roku",
+     "url": "https://stooq.pl/n/?f=1407465&search=cormay",
+     "day": "1 mar"
+    },
+    {
+     "title": "dzień na gpw: spadki głównych indeksów; wig20 stracił ponad 1,5 proc.",
+     "url": "https://stooq.pl/n/?f=1407082&search=cormay",
+     "day": "26 lut"
+    }
+   ],
+   "predictions": {
+    "up": "14",
+    "same": "0",
+    "down": "2"
+   },
+   "average_daily_volume": 65900000
+  },
+  {
+   "ticker": "CPS",
+   "articles": [
+    {
+     "title": "dzień na gpw: na początku notowa&#197;&#132; przewaga spadków indeksów, wśród bluechipów najbardziej traci dino",
+     "url": "https://stooq.pl/n/?f=1409549&search=cyfrowego+polsatu",
+     "day": "12 mar"
+    },
+    {
+     "title": "ccc negocjuje sprzedaż 20% eobuwie.pl z cyfrowym polsatem, a&amp;r inv. za 1 mld zł",
+     "url": "https://stooq.pl/n/?f=1409528&search=cyfrowy+polsat",
+     "day": "12 mar"
+    },
+    {
+     "title": "ccc chce sprzedać cyfrowemu polsatowi i a&amp;r investments łącznie 20 proc. eobuwie za 1 mld zł",
+     "url": "https://stooq.pl/n/?f=1409511&search=cyfrowy+polsat",
+     "day": "12 mar"
+    },
+    {
+     "title": "asseco poland miało szacunkowo 401,6 mln zł zysku netto w 2020 roku",
+     "url": "https://stooq.pl/n/?f=1409290&search=cyfrowy+polsat",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: duże spółki przewodziły wzrostom; pod kreską cd projekt",
+     "url": "https://stooq.pl/n/?f=1408997&search=cyfrowy+polsat",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: wzrostom przewodzą duże spółki; wig20 rośnie o 2 proc. do 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1408922&search=cyfrowy+polsat",
+     "day": "9 mar"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=cyfrowy+polsat",
+     "day": "8 mar"
+    },
+    {
+     "title": "esg i zielony &#197;&#129;ad zmienią rynek kapitałowy, przed spółkami i inwestorami trudne wyzwania",
+     "url": "https://stooq.pl/n/?f=1408498&search=cyfrowego+polsatu",
+     "day": "6 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy pod kreską; sektor paliwowy mocno w górę",
+     "url": "https://stooq.pl/n/?f=1408461&search=cyfrowy+polsat",
+     "day": "5 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1408369&search=cyfrowy+polsat",
+     "day": "5 mar"
+    }
+   ],
+   "predictions": {
+    "up": "3",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": "583387"
+  },
+  {
+   "ticker": "DAT",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408633&search=datawalk",
+     "day": "8 mar"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=datawalk",
+     "day": "25 lut"
+    },
+    {
+     "title": "dzień na gpw: indeksy lekko w górę; wzrostom przewodzi kghm",
+     "url": "https://stooq.pl/n/?f=1405564&search=datawalk",
+     "day": "19 lut"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy poszły w dół; najmocniej stracił mwig40",
+     "url": "https://stooq.pl/n/?f=1405501&search=datawalk",
+     "day": "18 lut"
+    },
+    {
+     "title": "dzień na gpw: przewaga wzrostów; wig20 ponad poziomem 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1405392&search=datawalk",
+     "day": "18 lut"
+    },
+    {
+     "title": "dzień na gpw: indeksy pod kreską; korekta w sektorze bankowym",
+     "url": "https://stooq.pl/n/?f=1405253&search=datawalk",
+     "day": "17 lut"
+    },
+    {
+     "title": "dzień na gpw: wig20 utrzymał się powyżej 2.000 pkt.; wzrostom przewodziły banki",
+     "url": "https://stooq.pl/n/?f=1405010&search=datawalk",
+     "day": "16 lut"
+    },
+    {
+     "title": "dzień na gpw: wig20 i wig lekko zyskują w początkowej fazie notowa&#197;&#132;",
+     "url": "https://stooq.pl/n/?f=1402285&search=datawalk",
+     "day": "2 lut"
+    },
+    {
+     "title": "dzień na gpw: wig20 i wig pod kreską; duże wahania jsw",
+     "url": "https://stooq.pl/n/?f=1399776&search=datawalk",
+     "day": "19 sty"
+    },
+    {
+     "title": "zestawienie największych zmian w zaangażowaniu ofe w kapitał zakładowy spółek",
+     "url": "https://stooq.pl/n/?f=1399597&search=datawalk",
+     "day": "18 sty"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": 14800000
+  },
+  {
+   "ticker": "DVL",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409555&search=develia",
+     "day": "12 mar"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=develia",
+     "day": "25 lut"
+    },
+    {
+     "title": "monitor kadrowy - zestawienie od 16 do 22 lutego",
+     "url": "https://stooq.pl/n/?f=1406140&search=develia",
+     "day": "23 lut"
+    },
+    {
+     "title": "dzień na gpw: indeksy lekko w górę; wzrostom przewodzi kghm",
+     "url": "https://stooq.pl/n/?f=1405564&search=develia",
+     "day": "19 lut"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1405542&search=develia",
+     "day": "19 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1405503&search=develia",
+     "day": "18 lut"
+    },
+    {
+     "title": "cele develii to sprzedaż 1 750-1 850 lokali, przekazanie 1 800 -1 900 w 2021 r.",
+     "url": "https://stooq.pl/n/?f=1405485&search=develia",
+     "day": "18 lut"
+    },
+    {
+     "title": "strategia develii zakłada wzrost sprzedaży do 3,1 tys. mieszka&#197;&#132; w 2025 r.",
+     "url": "https://stooq.pl/n/?f=1405480&search=develia",
+     "day": "18 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1405476&search=develia",
+     "day": "18 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1405469&search=develia",
+     "day": "18 lut"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": 1480000000
+  },
+  {
+   "ticker": "DNP",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409619&search=+dino+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409613&search=+dino+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409609&search=+dino+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409601&search=+dino+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409583&search=+dino+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409567&search=+dino+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17774&search=+dino+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409549&search=+dino+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409533&search=+dino+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409529&search=+dino+",
+     "day": "12 mar"
+    }
+   ],
+   "predictions": {
+    "up": "3",
+    "same": "0",
+    "down": "12"
+   },
+   "average_daily_volume": "188086"
+  },
+  {
+   "ticker": "DOM",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409615&search=dom+development",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409594&search=dom+development",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409577&search=dom+development",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409574&search=dom+development",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: na początku notowa&#197;&#132; przewaga spadków indeksów, wśród bluechipów najbardziej traci dino",
+     "url": "https://stooq.pl/n/?f=1409549&search=dom+development",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409522&search=dom+development",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409532&search=dom+development",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409531&search=dom+development",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409523&search=dom+development",
+     "day": "12 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1408830&search=dom+development",
+     "day": "9 mar"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "0",
+    "down": "11"
+   },
+   "average_daily_volume": "4841"
+  },
+  {
+   "ticker": "ECH",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17776&search=+echo+",
+     "day": "12 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=+echo+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409328&search=+echo+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409320&search=+echo+",
+     "day": "11 mar"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=+echo+",
+     "day": "8 mar"
+    },
+    {
+     "title": "resi4rent powiększyło ofertę o 372 lokale w warszawie",
+     "url": "https://stooq.pl/n/?f=1408063&search=+echo+",
+     "day": "4 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1407458&search=+echo+",
+     "day": "1 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407274&search=+echo+",
+     "day": "1 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1406796&search=+echo+",
+     "day": "25 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406674&search=+echo+",
+     "day": "25 lut"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "74620"
+  },
+  {
+   "ticker": "ENA",
+   "articles": [
+    {
+     "title": "pge planuje przeznaczyć kilkaset mln zł na budowę sieci łączności lte 450",
+     "url": "https://stooq.pl/n/?f=1408944&search=+enei+",
+     "day": "9 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1408804&search=+enea",
+     "day": "8 mar"
+    },
+    {
+     "title": "ostrożnie z eneą",
+     "url": "https://stooq.pl/nol/?id=17661&search=+enei+",
+     "day": "8 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408680&search=+enea",
+     "day": "8 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408130&search=+enea",
+     "day": "4 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1407100&search=+enea",
+     "day": "26 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406898&search=+enea",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: negatywne nastroje na rynkach, oczekiwane spadki także na gpw",
+     "url": "https://stooq.pl/n/?f=1406877&search=+enea",
+     "day": "26 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406822&search=+enea",
+     "day": "25 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406813&search=+enea",
+     "day": "25 lut"
+    }
+   ],
+   "predictions": {
+    "up": "9",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": 14200000000
+  },
+  {
+   "ticker": "EUR",
+   "articles": [
+    {
+     "title": "ebc planuje większe zakupy",
+     "url": "https://stooq.pl/n/?f=1409541&search=eurocash",
+     "day": "12 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409520&search=eurocash",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=eurocash",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=eurocash",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409469&search=eurocash",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409466&search=eurocash",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409384&search=eurocash",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409383&search=eurocash",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409382&search=eurocash",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 najsłabszym europejskim indeksem; spadkom przewodzą banki",
+     "url": "https://stooq.pl/n/?f=1409377&search=eurocash",
+     "day": "11 mar"
+    }
+   ],
+   "predictions": {
+    "up": "9",
+    "same": "0",
+    "down": "3"
+   },
+   "average_daily_volume": "369809"
+  },
+  {
+   "ticker": "FMF",
+   "articles": [
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409520&search=famur",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17718&search=famur",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy skorzystały z dobrego globalnego sentymentu",
+     "url": "https://stooq.pl/n/?f=1408805&search=famur",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy rosną po blisko 1 proc.; wzrostom przewodzą paliwa",
+     "url": "https://stooq.pl/n/?f=1408717&search=famur",
+     "day": "8 mar"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=famur",
+     "day": "8 mar"
+    },
+    {
+     "title": "tdj equity ii ogłosił przymusowy wykup 4,39% akcji pgo po 1,45 za akcję",
+     "url": "https://stooq.pl/n/?f=1406901&search=famur",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: wig20 stracił ok. 2 proc.; huuuge w dół o prawie 12 proc.",
+     "url": "https://stooq.pl/n/?f=1406281&search=famur",
+     "day": "23 lut"
+    },
+    {
+     "title": "dzień na gpw: wig20 utrzymał się powyżej 2.000 pkt.; wzrostom przewodziły banki",
+     "url": "https://stooq.pl/n/?f=1405010&search=famur",
+     "day": "16 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1404937&search=famur",
+     "day": "16 lut"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1404821&search=famur",
+     "day": "16 lut"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "2"
+   },
+   "average_daily_volume": "1136748"
+  },
+  {
+   "ticker": "GPW",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409612&search=+gpw+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409610&search=+gpw+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409605&search=+gpw+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409604&search=+gpw+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409602&search=+gpw+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409588&search=+gpw+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17723&search=+gpw+",
+     "day": "10 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17493&search=+gpw+",
+     "day": "1 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406607&search=+gpw+",
+     "day": "25 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17278&search=+gpw+",
+     "day": "19 lut"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "79187"
+  },
+  {
+   "ticker": "ATT",
+   "articles": [
+    {
+     "title": "dzień na gpw: druga wzrostowa sesja z rzędu; w wig20 najmocniejsze allegro",
+     "url": "https://stooq.pl/n/?f=1407710&search=grupy+azoty",
+     "day": "2 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17510&search=grupa+azoty",
+     "day": "2 mar"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=grupa+azoty",
+     "day": "25 lut"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1406313&search=grupa+azoty",
+     "day": "24 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1406276&search=grupa+azoty",
+     "day": "23 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406254&search=grupa+azoty",
+     "day": "23 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406243&search=grupa+azoty",
+     "day": "23 lut"
+    },
+    {
+     "title": "wiceprezes azotów puławy: droższe nawozy to skutek wzrostu cen gazu",
+     "url": "https://stooq.pl/n/?f=1406227&search=grupa+azoty",
+     "day": "23 lut"
+    },
+    {
+     "title": "wiceprezes azotów: grupa zapowiada inwestycje w tzw. zielone nawozy",
+     "url": "https://stooq.pl/n/?f=1406207&search=grupa+azoty",
+     "day": "23 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406200&search=grupa+azoty",
+     "day": "23 lut"
+    }
+   ],
+   "predictions": {
+    "up": "6",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": "149675"
+  },
+  {
+   "ticker": "GTC",
+   "articles": [
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=+gtc+",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy idą w górę; allegro najmocniejsze w wig20",
+     "url": "https://stooq.pl/n/?f=1404146&search=+gtc+",
+     "day": "11 lut"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał dino, unibep, asseco poland i asseco see do listy długich pozycji",
+     "url": "https://stooq.pl/n/?f=1402992&search=+gtc+",
+     "day": "5 lut"
+    },
+    {
+     "title": "jll: w 2020 r. przybyło 430 tys. m2 powierzchni handlowych, 41% w parkach handl.",
+     "url": "https://stooq.pl/n/?f=1400008&search=+gtc+",
+     "day": "20 sty"
+    },
+    {
+     "title": "zestawienie giełdowych spółek o największym udziale ofe w akcjonariacie",
+     "url": "https://stooq.pl/n/?f=1399582&search=+gtc+",
+     "day": "18 sty"
+    },
+    {
+     "title": "zestawienie akcji giełdowych spółek w portfelu metlife ofe",
+     "url": "https://stooq.pl/n/?f=1399308&search=+gtc+",
+     "day": "16 sty"
+    },
+    {
+     "title": "zestawienie akcji giełdowych spółek w portfelu nn ofe",
+     "url": "https://stooq.pl/n/?f=1399272&search=+gtc+",
+     "day": "15 sty"
+    },
+    {
+     "title": "zestawienie akcji giełdowych spółek w portfelu axa ofe",
+     "url": "https://stooq.pl/n/?f=1399270&search=+gtc+",
+     "day": "15 sty"
+    },
+    {
+     "title": "zestawienie akcji giełdowych spółek w portfelu aviva ofe",
+     "url": "https://stooq.pl/n/?f=1399268&search=+gtc+",
+     "day": "15 sty"
+    },
+    {
+     "title": "zestawienie akcji giełdowych spółek w portfelu allianz ofe",
+     "url": "https://stooq.pl/n/?f=1399262&search=+gtc+",
+     "day": "15 sty"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": 4600000000
+  },
+  {
+   "ticker": "BHW",
+   "articles": [
+    {
+     "title": "problemy byków na bankach",
+     "url": "https://stooq.pl/nol/?id=17747&search=handlowy+",
+     "day": "11 mar"
+    },
+    {
+     "title": "deloitte: ryzyko kredytowe na skutek pandemii dużym problemem banków",
+     "url": "https://stooq.pl/n/?f=1409134&search=banku+handlowego",
+     "day": "10 mar"
+    },
+    {
+     "title": "sektor bankowy w ii poł. '21 i na początku '22 czeka dalsze zwiększanie rezerw",
+     "url": "https://stooq.pl/n/?f=1408396&search=banku+handlowego",
+     "day": "5 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 pozostaje pod kreską; mocno rosną spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1408342&search=handlowy+",
+     "day": "5 mar"
+    },
+    {
+     "title": "miłe złego początki (w marcu)?",
+     "url": "https://stooq.pl/n/?f=1408278&search=handlowy+",
+     "day": "5 mar"
+    },
+    {
+     "title": "w wezwaniu na akcje zpue osiągnięto minimalny próg zapisów",
+     "url": "https://stooq.pl/n/?f=1407700&search=banku+handlowego",
+     "day": "2 mar"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=handlowy+",
+     "day": "25 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1406063&search=handlowy+",
+     "day": "22 lut"
+    },
+    {
+     "title": "atal wprowadził do oferty 164 lokale w ramach i etapu osiedla poematu na wawrze",
+     "url": "https://stooq.pl/n/?f=1405916&search=handlowy+",
+     "day": "22 lut"
+    },
+    {
+     "title": "pk: umowa transakcji na rynku walutowym nie wyklucza uznania jej strony za konsumenta",
+     "url": "https://stooq.pl/n/?f=1405545&search=handlowy+",
+     "day": "19 lut"
+    }
+   ],
+   "predictions": {
+    "up": "2",
+    "same": "1",
+    "down": "2"
+   },
+   "average_daily_volume": "42295"
+  },
+  {
+   "ticker": "ING",
+   "articles": [
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409287&search=ing+bsk",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409250&search=banku+%C5%9Bl%C4%85skiego",
+     "day": "10 mar"
+    },
+    {
+     "title": "cyfryzacja kprm: od początku roku profil zaufany założyło ponad milion osób",
+     "url": "https://stooq.pl/n/?f=1409215&search=ing+bank+%C5%9Bl%C4%85ski",
+     "day": "10 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409125&search=ing+bsk",
+     "day": "10 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409119&search=ing+bsk",
+     "day": "10 mar"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=ing+bsk",
+     "day": "8 mar"
+    },
+    {
+     "title": "gpw: mercator medical zastąpi alior bank w indeksie wig20 po sesji 19 iii",
+     "url": "https://stooq.pl/n/?f=1408251&search=ing+bank+%C5%9Bl%C4%85ski",
+     "day": "5 mar"
+    },
+    {
+     "title": "mercator medical zastąpi alior bank w składzie indeksu wig20 po sesji 19 marca",
+     "url": "https://stooq.pl/n/?f=1408217&search=ing+bank+%C5%9Bl%C4%85ski",
+     "day": "4 mar"
+    },
+    {
+     "title": "bofa liderem obrotów na rynku akcji gpw w lutym, na drugim miejscu bm pko bp",
+     "url": "https://stooq.pl/n/?f=1407488&search=ing+bsk",
+     "day": "1 mar"
+    },
+    {
+     "title": "dzień na fx/fi: eur/pln może spadać; rentowności mogą rosnąć",
+     "url": "https://stooq.pl/n/?f=1407300&search=banku+%C5%9Bl%C4%85skiego",
+     "day": "1 mar"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "10065"
+  },
+  {
+   "ticker": "CAR",
+   "articles": [
+    {
+     "title": "dzień na gpw: wig20 broni poziomu 2.000 pkt., mocno w górę biomed-lublin",
+     "url": "https://stooq.pl/n/?f=1409172&search=inter+cars",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wzrosty głównych indeksów, najwięcej w wig20 zyskuje jsw",
+     "url": "https://stooq.pl/n/?f=1409067&search=inter+cars",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 będzie zmagał się z oporem w okolicy 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1409052&search=inter+cars",
+     "day": "10 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409036&search=inter+cars",
+     "day": "10 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1408995&search=inter+cars",
+     "day": "9 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408986&search=inter+cars",
+     "day": "9 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408983&search=inter+cars",
+     "day": "9 mar"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=inter+cars",
+     "day": "8 mar"
+    },
+    {
+     "title": "walka o ustanowienie dołka na technologii",
+     "url": "https://stooq.pl/n/?f=1408631&search=intercars",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy pod kreską; sektor paliwowy mocno w górę",
+     "url": "https://stooq.pl/n/?f=1408461&search=inter+cars",
+     "day": "5 mar"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": "2874"
+  },
+  {
+   "ticker": "JSW",
+   "articles": [
+    {
+     "title": "pgg spodziewa się pożyczki w ramach tarczy z pfr do ko&#197;&#132;ca marca",
+     "url": "https://stooq.pl/n/?f=1409422&search=jastrz%C4%99bska+sp%C3%B3%C5%82ka+w%C4%99glowa",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy rosną, liderami w wig20 paliwa i surowce",
+     "url": "https://stooq.pl/n/?f=1409315&search=+jsw+",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 powyżej 2.000 pkt. cd projekt z nowym minimum",
+     "url": "https://stooq.pl/n/?f=1409247&search=+jsw+",
+     "day": "10 mar"
+    },
+    {
+     "title": "modernizacja baterii koksowniczej w dąbrowie górniczej ze wsparciem publicznym",
+     "url": "https://stooq.pl/n/?f=1409196&search=+jsw+",
+     "day": "10 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409067&search=+jsw+",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: niewielkie zmiany głównych indeksów, mocno rośnie kurs ryvu therapeutics",
+     "url": "https://stooq.pl/n/?f=1408860&search=+jsw+",
+     "day": "9 mar"
+    },
+    {
+     "title": "komentarz giełdowy: dobry początek tygodnia na rynku akcji",
+     "url": "https://stooq.pl/n/?f=1408815&search=jastrz%C4%99bskiej+sp%C3%B3%C5%82ki+w%C4%99glowej",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy rosną po blisko 1 proc.; wzrostom przewodzą paliwa",
+     "url": "https://stooq.pl/n/?f=1408717&search=+jsw+",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: lekkie wzrosty głównych indeksów, wyra&#197;&#186;nie rosną spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1408636&search=+jsw+",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy pod kreską; sektor paliwowy mocno w górę",
+     "url": "https://stooq.pl/n/?f=1408461&search=+jsw+",
+     "day": "5 mar"
+    }
+   ],
+   "predictions": {
+    "up": "9",
+    "same": "0",
+    "down": "21"
+   },
+   "average_daily_volume": 7360000000
+  },
+  {
+   "ticker": "KER",
+   "articles": [
+    {
+     "title": "gpw: mercator medical zastąpi alior bank w indeksie wig20 po sesji 19 iii",
+     "url": "https://stooq.pl/n/?f=1408251&search=kernel",
+     "day": "5 mar"
+    },
+    {
+     "title": "mercator medical zastąpi alior bank w składzie indeksu wig20 po sesji 19 marca",
+     "url": "https://stooq.pl/n/?f=1408217&search=kernel",
+     "day": "4 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1407256&search=kernel",
+     "day": "1 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1407100&search=kernel",
+     "day": "26 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406894&search=kernel",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: negatywne nastroje na rynkach, oczekiwane spadki także na gpw",
+     "url": "https://stooq.pl/n/?f=1406877&search=kernel",
+     "day": "26 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406847&search=kernel",
+     "day": "26 lut"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=kernel",
+     "day": "25 lut"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy poszły w dół; najmocniej stracił mwig40",
+     "url": "https://stooq.pl/n/?f=1405501&search=kernel",
+     "day": "18 lut"
+    },
+    {
+     "title": "dzień na gpw: niewielkie zwyżki indeksów; w wig20 najbardziej rośnie jsw",
+     "url": "https://stooq.pl/n/?f=1403904&search=kernel",
+     "day": "10 lut"
+    }
+   ],
+   "predictions": {
+    "up": "7",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": "129105"
+  },
+  {
+   "ticker": "KTY",
+   "articles": [
+    {
+     "title": "gpw: mercator medical zastąpi alior bank w indeksie wig20 po sesji 19 iii",
+     "url": "https://stooq.pl/n/?f=1408251&search=+k%C4%99ty+",
+     "day": "5 mar"
+    },
+    {
+     "title": "mercator medical zastąpi alior bank w składzie indeksu wig20 po sesji 19 marca",
+     "url": "https://stooq.pl/n/?f=1408217&search=+k%C4%99ty+",
+     "day": "4 mar"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=+kety",
+     "day": "25 lut"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1403824&search=+k%C4%99ty+",
+     "day": "10 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1403777&search=+k%C4%99ty+",
+     "day": "9 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1403753&search=+k%C4%99ty+",
+     "day": "9 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1403752&search=+k%C4%99ty+",
+     "day": "9 lut"
+    },
+    {
+     "title": "dzień na gpw: indeksy idą w dół; duże wzrosty i obroty cd projektu",
+     "url": "https://stooq.pl/n/?f=1401278&search=+k%C4%99ty+",
+     "day": "27 sty"
+    },
+    {
+     "title": "druga linia ponownie najsłabsza",
+     "url": "https://stooq.pl/nol/?id=368&search=+k%C4%99ty+",
+     "day": "21 sty"
+    },
+    {
+     "title": "zestawienie giełdowych spółek o największym udziale ofe w akcjonariacie",
+     "url": "https://stooq.pl/n/?f=1399582&search=+kety",
+     "day": "18 sty"
+    }
+   ],
+   "predictions": {
+    "up": "2",
+    "same": "0",
+    "down": "10"
+   },
+   "average_daily_volume": "5915"
+  },
+  {
+   "ticker": "KGH",
+   "articles": [
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409520&search=kghm",
+     "day": "12 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=kghm",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409416&search=kghm",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409407&search=kghm",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy oddały poranne wzrosty; wig20 poniżej 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1409335&search=kghm",
+     "day": "11 mar"
+    },
+    {
+     "title": "dolnośląskie - silny wstrząs w kopalni rudna w polkowicach",
+     "url": "https://stooq.pl/n/?f=1409329&search=kghm",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409321&search=kghm",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy rosną, liderami w wig20 paliwa i surowce",
+     "url": "https://stooq.pl/n/?f=1409315&search=kghm",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: niewielkie zmiany głównych indeksów, mocno rośnie kurs ryvu therapeutics",
+     "url": "https://stooq.pl/n/?f=1408860&search=kghm",
+     "day": "9 mar"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=kghm",
+     "day": "8 mar"
+    }
+   ],
+   "predictions": {
+    "up": "3",
+    "same": "0",
+    "down": "6"
+   },
+   "average_daily_volume": "571452"
+  },
+  {
+   "ticker": "KRU",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17762&search=+kruk+",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 broni poziomu 2.000 pkt., mocno w górę biomed-lublin",
+     "url": "https://stooq.pl/n/?f=1409172&search=+kruk+",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 będzie zmagał się z oporem w okolicy 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1409052&search=+kruk+",
+     "day": "10 mar"
+    },
+    {
+     "title": "walka o ustanowienie dołka na technologii",
+     "url": "https://stooq.pl/n/?f=1408631&search=+kruk+",
+     "day": "8 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407607&search=+kruk+",
+     "day": "2 mar"
+    },
+    {
+     "title": "pomorskie - rusza postój remontowy rafinerii grupy lotos",
+     "url": "https://stooq.pl/n/?f=1406966&search=+kruk+",
+     "day": "26 lut"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=+kruk+",
+     "day": "25 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1405503&search=+kruk+",
+     "day": "18 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1405470&search=+kruk+",
+     "day": "18 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17241&search=+kruk+",
+     "day": "18 lut"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "26396"
+  },
+  {
+   "ticker": "LVC",
+   "articles": [
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=livechat",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 broni poziomu 2.000 pkt., mocno w górę biomed-lublin",
+     "url": "https://stooq.pl/n/?f=1409172&search=livechat",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: spadki głównych indeksów; wig20 stracił ponad 1,5 proc.",
+     "url": "https://stooq.pl/n/?f=1407082&search=livechat",
+     "day": "26 lut"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1407012&search=livechat",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy mocno tracą; wig-telekomunikacja w górę",
+     "url": "https://stooq.pl/n/?f=1406973&search=livechat",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: negatywne nastroje na rynkach, oczekiwane spadki także na gpw",
+     "url": "https://stooq.pl/n/?f=1406877&search=livechat",
+     "day": "26 lut"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1406851&search=livechat",
+     "day": "26 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1406796&search=livechat",
+     "day": "25 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406792&search=livechat",
+     "day": "25 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1406789&search=livechat",
+     "day": "25 lut"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "0",
+    "down": "2"
+   },
+   "average_daily_volume": "31191"
+  },
+  {
+   "ticker": "LTS",
+   "articles": [
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=+lotos",
+     "day": "11 mar"
+    },
+    {
+     "title": "pern zamierza przełożyć głębiej rurociągi biegnące pod dnem wisły w płocku",
+     "url": "https://stooq.pl/n/?f=1409435&search=+lotos",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 najsłabszym europejskim indeksem; spadkom przewodzą banki",
+     "url": "https://stooq.pl/n/?f=1409377&search=+lotos",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy rosną, liderami w wig20 paliwa i surowce",
+     "url": "https://stooq.pl/n/?f=1409315&search=+lotos",
+     "day": "11 mar"
+    },
+    {
+     "title": "niejasne oczekiwania wobec ebc",
+     "url": "https://stooq.pl/n/?f=1409301&search=+lotos",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 powyżej 2.000 pkt. cd projekt z nowym minimum",
+     "url": "https://stooq.pl/n/?f=1409247&search=+lotos",
+     "day": "10 mar"
+    },
+    {
+     "title": "pern rozbudowuje infrastrukturę swoich baz paliw dla biokomponentów",
+     "url": "https://stooq.pl/n/?f=1409190&search=+lotos",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: duże spółki przewodziły wzrostom; pod kreską cd projekt",
+     "url": "https://stooq.pl/n/?f=1408997&search=+lotos",
+     "day": "9 mar"
+    },
+    {
+     "title": "zyska: w pierwszej kolejności wodór znajdzie zastosowanie w transporcie",
+     "url": "https://stooq.pl/n/?f=1408974&search=+lotos",
+     "day": "9 mar"
+    },
+    {
+     "title": "monitor kadrowy - zestawienie od 2 do 8 marca",
+     "url": "https://stooq.pl/n/?f=1408872&search=+lotos",
+     "day": "9 mar"
+    }
+   ],
+   "predictions": {
+    "up": "13",
+    "same": "0",
+    "down": "9"
+   },
+   "average_daily_volume": 11500000000
+  },
+  {
+   "ticker": "LPP",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17775&search=+lpp+",
+     "day": "12 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=+lpp+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17757&search=+lpp+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409344&search=+lpp+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409324&search=+lpp+",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 broni poziomu 2.000 pkt., mocno w górę biomed-lublin",
+     "url": "https://stooq.pl/n/?f=1409172&search=+lpp+",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: spadki głównych indeksów, wig20 zniżkuje o 0,67 proc.",
+     "url": "https://stooq.pl/n/?f=1408264&search=+lpp+",
+     "day": "5 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy zako&#197;&#132;czyły sesję pod kreską; w wig20 najsłabszy cdr",
+     "url": "https://stooq.pl/n/?f=1407964&search=+lpp+",
+     "day": "3 mar"
+    },
+    {
+     "title": "unity group: amazon może nie być tak dopasowany do polskiego rynku jak allegro",
+     "url": "https://stooq.pl/n/?f=1407630&search=+lpp+",
+     "day": "2 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 lekko w dół, mocno drożeją comarch i intercars po wynikach",
+     "url": "https://stooq.pl/n/?f=1407530&search=+lpp+",
+     "day": "2 mar"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "0",
+    "down": "3"
+   },
+   "average_daily_volume": "2309"
+  },
+  {
+   "ticker": "MAB",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409561&search=mabion",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: na początku notowa&#197;&#132; przewaga spadków indeksów, wśród bluechipów najbardziej traci dino",
+     "url": "https://stooq.pl/n/?f=1409549&search=mabion",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=mabion",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 najsłabszym europejskim indeksem; spadkom przewodzą banki",
+     "url": "https://stooq.pl/n/?f=1409377&search=mabion",
+     "day": "11 mar"
+    },
+    {
+     "title": "niejasne oczekiwania wobec ebc",
+     "url": "https://stooq.pl/n/?f=1409301&search=mabion",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409287&search=mabion",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409250&search=mabion",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 powyżej 2.000 pkt. cd projekt z nowym minimum",
+     "url": "https://stooq.pl/n/?f=1409247&search=mabion",
+     "day": "10 mar"
+    },
+    {
+     "title": "giełdowy indeks produkcji gip60 wzrósł o 3,2% m/m do 898,31 pkt w lutym",
+     "url": "https://stooq.pl/n/?f=1409226&search=mabion",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 broni poziomu 2.000 pkt., mocno w górę biomed-lublin",
+     "url": "https://stooq.pl/n/?f=1409172&search=mabion",
+     "day": "10 mar"
+    }
+   ],
+   "predictions": {
+    "up": "17",
+    "same": "0",
+    "down": "9"
+   },
+   "average_daily_volume": 61500000
+  },
+  {
+   "ticker": "MBK",
+   "articles": [
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=+mbank+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409350&search=+mbank+",
+     "day": "11 mar"
+    },
+    {
+     "title": "problemy byków na bankach",
+     "url": "https://stooq.pl/nol/?id=17747&search=+mbank+",
+     "day": "11 mar"
+    },
+    {
+     "title": "cyfryzacja kprm: od początku roku profil zaufany założyło ponad milion osób",
+     "url": "https://stooq.pl/n/?f=1409215&search=+mbank+",
+     "day": "10 mar"
+    },
+    {
+     "title": "cena emisyjna akcji mabionu ustalona na 55 zł, inwestorzy chcą objąć całą oferowaną pulę",
+     "url": "https://stooq.pl/n/?f=1409023&search=+mbank+",
+     "day": "9 mar"
+    },
+    {
+     "title": "monitor kadrowy - zestawienie od 2 do 8 marca",
+     "url": "https://stooq.pl/n/?f=1408872&search=+mbank+",
+     "day": "9 mar"
+    },
+    {
+     "title": "mabion otrzymał od trzech akcjonariuszy deklaracje złożenia zapisów na akcje serii u",
+     "url": "https://stooq.pl/n/?f=1408784&search=+mbank+",
+     "day": "8 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1408369&search=+mbank+",
+     "day": "5 mar"
+    },
+    {
+     "title": "&#197;&#154;ląskie - ztm likwiduje sieć punktów obsługi klienta",
+     "url": "https://stooq.pl/n/?f=1408223&search=+mbank+",
+     "day": "4 mar"
+    },
+    {
+     "title": "mabion rozpoczyna proces budowania księgi popytu w ramach oferty akcji serii u",
+     "url": "https://stooq.pl/n/?f=1408035&search=+mbank+",
+     "day": "4 mar"
+    }
+   ],
+   "predictions": {
+    "up": "8",
+    "same": "0",
+    "down": "4"
+   },
+   "average_daily_volume": "75208"
+  },
+  {
+   "ticker": "MRC",
+   "articles": [
+    {
+     "title": "dzień na gpw: wig20 powyżej 2.000 pkt. cd projekt z nowym minimum",
+     "url": "https://stooq.pl/n/?f=1409247&search=mercator",
+     "day": "10 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17727&search=mercator",
+     "day": "10 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1408622&search=mercator",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy pod kreską; sektor paliwowy mocno w górę",
+     "url": "https://stooq.pl/n/?f=1408461&search=mercator",
+     "day": "5 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1408454&search=mercator",
+     "day": "5 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 pozostaje pod kreską; mocno rosną spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1408342&search=mercator",
+     "day": "5 mar"
+    },
+    {
+     "title": "dzień na gpw: spadki głównych indeksów, wig20 zniżkuje o 0,67 proc.",
+     "url": "https://stooq.pl/n/?f=1408264&search=mercator",
+     "day": "5 mar"
+    },
+    {
+     "title": "dzień na gpw: na otwarciu prawdopodobny scenariusz spadkowy",
+     "url": "https://stooq.pl/n/?f=1408256&search=mercator",
+     "day": "5 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408251&search=mercator",
+     "day": "5 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408217&search=mercator",
+     "day": "4 mar"
+    }
+   ],
+   "predictions": {
+    "up": "26",
+    "same": "2",
+    "down": "4"
+   },
+   "average_daily_volume": "107300"
+  },
+  {
+   "ticker": "MIL",
+   "articles": [
+    {
+     "title": "dzień na fx/fi: kurs eur/pln poniżej 4,60; rentowności spw będą stabilne",
+     "url": "https://stooq.pl/n/?f=1409564&search=millennium",
+     "day": "12 mar"
+    },
+    {
+     "title": "problemy byków na bankach",
+     "url": "https://stooq.pl/nol/?id=17747&search=millennium",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na fx/fi: sygnały z ebc mogą mieć wpływ na eur/pln i rentowności spw",
+     "url": "https://stooq.pl/n/?f=1409317&search=millennium",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na fx/fi: eur/pln może wrócić do 4,60; rentowności stabilne",
+     "url": "https://stooq.pl/n/?f=1409224&search=millennium",
+     "day": "10 mar"
+    },
+    {
+     "title": "cyfryzacja kprm: od początku roku profil zaufany założyło ponad milion osób",
+     "url": "https://stooq.pl/n/?f=1409215&search=millennium",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na fx - fi: złoty będzie się stabilizować; spw pod wpływem czynników globalnych",
+     "url": "https://stooq.pl/n/?f=1409080&search=millennium",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na fx/fi: kurs eur/pln będzie rósł powyżej 4,60; polskie obligacje umocnią się",
+     "url": "https://stooq.pl/n/?f=1408866&search=millennium",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na fx/fi: kurs eur/pln może rosnąć; rentowności spw pod wpływem rynków bazowych",
+     "url": "https://stooq.pl/n/?f=1408642&search=millennium",
+     "day": "8 mar"
+    },
+    {
+     "title": "tydzień w kraju: raport o inflacji, rozwój epidemii, wyniki spółek",
+     "url": "https://stooq.pl/n/?f=1408617&search=millennium",
+     "day": "8 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1408369&search=millennium",
+     "day": "5 mar"
+    }
+   ],
+   "predictions": {
+    "up": "2",
+    "same": "0",
+    "down": "0"
+   },
+   "average_daily_volume": "2494677"
+  },
+  {
+   "ticker": "NEU",
+   "articles": [
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=neuca",
+     "day": "8 mar"
+    },
+    {
+     "title": "akcjonariusze neuki zdecydowali o skupie do 100 tys. akcji za maks. 90 mln zł",
+     "url": "https://stooq.pl/n/?f=1407763&search=neuca",
+     "day": "3 mar"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=neuca",
+     "day": "25 lut"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1403575&search=neuca",
+     "day": "9 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1403518&search=neuca",
+     "day": "8 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1403340&search=neuca",
+     "day": "8 lut"
+    },
+    {
+     "title": "dm bo&#197;&#154; dodał dino, unibep, asseco poland i asseco see do listy długich pozycji",
+     "url": "https://stooq.pl/n/?f=1402992&search=neuca",
+     "day": "5 lut"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1402259&search=neuca",
+     "day": "2 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1402216&search=neuca",
+     "day": "1 lut"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1402076&search=neuca",
+     "day": "1 lut"
+    }
+   ],
+   "predictions": {
+    "up": "5",
+    "same": "0",
+    "down": "8"
+   },
+   "average_daily_volume": "2119"
+  },
+  {
+   "ticker": "OPL",
+   "articles": [
+    {
+     "title": "dzień na gpw: duże spółki przewodziły wzrostom; pod kreską cd projekt",
+     "url": "https://stooq.pl/n/?f=1408997&search=+orange+",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: wzrostom przewodzą duże spółki; wig20 rośnie o 2 proc. do 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1408922&search=+orange+",
+     "day": "9 mar"
+    },
+    {
+     "title": "komentarz giełdowy: dobry początek tygodnia na rynku akcji",
+     "url": "https://stooq.pl/n/?f=1408815&search=+orange+",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy skorzystały z dobrego globalnego sentymentu",
+     "url": "https://stooq.pl/n/?f=1408805&search=+orange+",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy rosną po blisko 1 proc.; wzrostom przewodzą paliwa",
+     "url": "https://stooq.pl/n/?f=1408717&search=+orange+",
+     "day": "8 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1408369&search=+orange+",
+     "day": "5 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 pozostaje pod kreską; mocno rosną spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1408342&search=+orange+",
+     "day": "5 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1407982&search=+orange+",
+     "day": "3 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1407801&search=+orange+",
+     "day": "3 mar"
+    },
+    {
+     "title": "dzień na gpw: spadki głównych indeksów; wig20 stracił ponad 1,5 proc.",
+     "url": "https://stooq.pl/n/?f=1407082&search=+orange+",
+     "day": "26 lut"
+    }
+   ],
+   "predictions": {
+    "up": "16",
+    "same": "0",
+    "down": "8"
+   },
+   "average_daily_volume": "2300339"
+  },
+  {
+   "ticker": "PEO",
+   "articles": [
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=pekao",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 najsłabszym europejskim indeksem; spadkom przewodzą banki",
+     "url": "https://stooq.pl/n/?f=1409377&search=pekao",
+     "day": "11 mar"
+    },
+    {
+     "title": "problemy byków na bankach",
+     "url": "https://stooq.pl/nol/?id=17747&search=pekao",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na fx/fi: sygnały z ebc mogą mieć wpływ na eur/pln i rentowności spw",
+     "url": "https://stooq.pl/n/?f=1409317&search=pekao",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409287&search=pekao",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409250&search=pekao",
+     "day": "10 mar"
+    },
+    {
+     "title": "cyfryzacja kprm: od początku roku profil zaufany założyło ponad milion osób",
+     "url": "https://stooq.pl/n/?f=1409215&search=pekao",
+     "day": "10 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409167&search=pekao",
+     "day": "10 mar"
+    },
+    {
+     "title": "deloitte: ryzyko kredytowe na skutek pandemii dużym problemem banków",
+     "url": "https://stooq.pl/n/?f=1409134&search=pekao",
+     "day": "10 mar"
+    },
+    {
+     "title": "raport: wracają hipoteki z 10-proc. wkładem własnym",
+     "url": "https://stooq.pl/n/?f=1409129&search=pekao",
+     "day": "10 mar"
+    }
+   ],
+   "predictions": {
+    "up": "5",
+    "same": "0",
+    "down": "3"
+   },
+   "average_daily_volume": "957220"
+  },
+  {
+   "ticker": "PGE",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409590&search=+pge+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409589&search=+pge+",
+     "day": "12 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409520&search=+pge+",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=+pge+",
+     "day": "11 mar"
+    },
+    {
+     "title": "powodzenie \"zielonego ładu\" na polskiej kolei będzie zależało od klientów",
+     "url": "https://stooq.pl/n/?f=1409427&search=+pge+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409421&search=+pge+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409398&search=+pge+",
+     "day": "11 mar"
+    },
+    {
+     "title": "pomorskie - udany pilotaż systemu chroniącego ptaki przed turbinami wiatrowymi",
+     "url": "https://stooq.pl/n/?f=1409387&search=+pge+",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 broni poziomu 2.000 pkt., mocno w górę biomed-lublin",
+     "url": "https://stooq.pl/n/?f=1409172&search=+pge+",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: duże spółki przewodziły wzrostom; pod kreską cd projekt",
+     "url": "https://stooq.pl/n/?f=1408997&search=+pge+",
+     "day": "9 mar"
+    }
+   ],
+   "predictions": {
+    "up": "17",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": 41800000000
+  },
+  {
+   "ticker": "PGN",
+   "articles": [
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=pgnig",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17765&search=pgnig",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy rosną, liderami w wig20 paliwa i surowce",
+     "url": "https://stooq.pl/n/?f=1409315&search=pgnig",
+     "day": "11 mar"
+    },
+    {
+     "title": "tauron będzie analizował opcję przejęcia wybranych aktywów &#196;&#140;ez w polsce",
+     "url": "https://stooq.pl/n/?f=1409217&search=pgnig",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 broni poziomu 2.000 pkt., mocno w górę biomed-lublin",
+     "url": "https://stooq.pl/n/?f=1409172&search=pgnig",
+     "day": "10 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409036&search=pgnig",
+     "day": "10 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1408995&search=pgnig",
+     "day": "9 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408923&search=pgnig",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: wzrostom przewodzą duże spółki; wig20 rośnie o 2 proc. do 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1408922&search=pgnig",
+     "day": "9 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17685&search=pgnig",
+     "day": "9 mar"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": "4089887"
+  },
+  {
+   "ticker": "PKN",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409590&search=+pkn+",
+     "day": "12 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409589&search=+pkn+",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=+pkn+",
+     "day": "11 mar"
+    },
+    {
+     "title": "pern zamierza przełożyć głębiej rurociągi biegnące pod dnem wisły w płocku",
+     "url": "https://stooq.pl/n/?f=1409435&search=+pkn+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17749&search=+pkn+",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy oddały poranne wzrosty; wig20 poniżej 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1409335&search=+orlen+",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy rosną, liderami w wig20 paliwa i surowce",
+     "url": "https://stooq.pl/n/?f=1409315&search=+pkn+",
+     "day": "11 mar"
+    },
+    {
+     "title": "niejasne oczekiwania wobec ebc",
+     "url": "https://stooq.pl/n/?f=1409301&search=+orlen+",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409287&search=+orlen+",
+     "day": "11 mar"
+    },
+    {
+     "title": "wiceszefowa ke sugeruje: w polsce ogranicza się wolność mediów; włoski europoseł: proszę o dowody",
+     "url": "https://stooq.pl/n/?f=1409258&search=+orlen+",
+     "day": "10 mar"
+    }
+   ],
+   "predictions": {
+    "up": "46",
+    "same": "0",
+    "down": "7"
+   },
+   "average_daily_volume": "1376604"
+  },
+  {
+   "ticker": "PKO",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409578&search=+pko+",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=+pko+",
+     "day": "11 mar"
+    },
+    {
+     "title": "fundusze inwestycyjne w lutym kupiły netto akcje na gpw za 434 mln zł - trigon dm",
+     "url": "https://stooq.pl/n/?f=1409467&search=+pko+",
+     "day": "11 mar"
+    },
+    {
+     "title": "eurocash może rozważyć kolejne emisje obligacji przy dobrych warunkach na rynku",
+     "url": "https://stooq.pl/n/?f=1409384&search=+pko+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409365&search=+pko+",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: indeksy oddały poranne wzrosty; wig20 poniżej 2.000 pkt.",
+     "url": "https://stooq.pl/n/?f=1409335&search=+pko+",
+     "day": "11 mar"
+    },
+    {
+     "title": "problemy byków na bankach",
+     "url": "https://stooq.pl/nol/?id=17747&search=+pko+",
+     "day": "11 mar"
+    },
+    {
+     "title": "analizy.pl: fundusze inwestycyjne pozyskały netto 4,65 mld zł w lutym&#194;&#160;",
+     "url": "https://stooq.pl/n/?f=1409251&search=+pko+",
+     "day": "10 mar"
+    },
+    {
+     "title": "cyfryzacja kprm: od początku roku profil zaufany założyło ponad milion osób",
+     "url": "https://stooq.pl/n/?f=1409215&search=+pko+",
+     "day": "10 mar"
+    },
+    {
+     "title": "w lutym bilans sprzedaży w funduszach ponownie wyniósł blisko 5 mld zł - analizy.pl",
+     "url": "https://stooq.pl/n/?f=1409214&search=+pko+",
+     "day": "10 mar"
+    }
+   ],
+   "predictions": {
+    "up": "14",
+    "same": "0",
+    "down": "11"
+   },
+   "average_daily_volume": "2884868"
+  },
+  {
+   "ticker": "PKP",
+   "articles": [
+    {
+     "title": "pkp chce zwiększyć udział transportu kolejowego w przewozie żywności",
+     "url": "https://stooq.pl/n/?f=1409472&search=pkp+cargo",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 powyżej 2.000 pkt. cd projekt z nowym minimum",
+     "url": "https://stooq.pl/n/?f=1409247&search=pkp+cargo",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 broni poziomu 2.000 pkt., mocno w górę biomed-lublin",
+     "url": "https://stooq.pl/n/?f=1409172&search=pkp+cargo",
+     "day": "10 mar"
+    },
+    {
+     "title": "rotacja trwa w najlepsze",
+     "url": "https://stooq.pl/n/?f=1408852&search=pkp+cargo",
+     "day": "9 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy skorzystały z dobrego globalnego sentymentu",
+     "url": "https://stooq.pl/n/?f=1408805&search=pkp+cargo",
+     "day": "8 mar"
+    },
+    {
+     "title": "dzień na gpw: główne indeksy rosną po blisko 1 proc.; wzrostom przewodzą paliwa",
+     "url": "https://stooq.pl/n/?f=1408717&search=pkp+cargo",
+     "day": "8 mar"
+    },
+    {
+     "title": "kontrakty i umowy spółek - przegląd tygodniowy",
+     "url": "https://stooq.pl/n/?f=1408698&search=pkp+cargo",
+     "day": "8 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1408622&search=pkp+cargo",
+     "day": "8 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1408454&search=pkp+cargo",
+     "day": "5 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1408277&search=pkp+cargo",
+     "day": "5 mar"
+    }
+   ],
+   "predictions": {
+    "up": "18",
+    "same": "0",
+    "down": "5"
+   },
+   "average_daily_volume": 3160000000
+  },
+  {
+   "ticker": "PLW",
+   "articles": [
+    {
+     "title": "monitor kadrowy - zestawienie od 2 do 8 marca",
+     "url": "https://stooq.pl/n/?f=1408872&search=playway",
+     "day": "9 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora gamingowego",
+     "url": "https://stooq.pl/n/?f=1408372&search=playway",
+     "day": "5 mar"
+    },
+    {
+     "title": "image power planuje debiut na rynku newconnect w i poł. 2021 r.",
+     "url": "https://stooq.pl/n/?f=1408110&search=playway",
+     "day": "4 mar"
+    },
+    {
+     "title": "image power planuje zadebiut na rynku newconnect w i poł. 2021 r.",
+     "url": "https://stooq.pl/n/?f=1408086&search=playway",
+     "day": "4 mar"
+    },
+    {
+     "title": "live motion games rusza jutro z ofertą publiczną akcji, chce pozyskać 4 mln zł",
+     "url": "https://stooq.pl/n/?f=1407853&search=playway",
+     "day": "3 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora gamingowego",
+     "url": "https://stooq.pl/n/?f=1407006&search=playway",
+     "day": "26 lut"
+    },
+    {
+     "title": "dzień na gpw: wig20 lekko w dół; dobra sesja banków",
+     "url": "https://stooq.pl/n/?f=1406780&search=playway",
+     "day": "25 lut"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=playway",
+     "day": "25 lut"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1406525&search=playway",
+     "day": "24 lut"
+    },
+    {
+     "title": "ultimate games zawiązał trzy nowe spółki w celu dywersyfikacji działalności",
+     "url": "https://stooq.pl/n/?f=1406353&search=playway",
+     "day": "24 lut"
+    }
+   ],
+   "predictions": {
+    "up": "1",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": "4488"
+  },
+  {
+   "ticker": "PZU",
+   "articles": [
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409520&search=pzu",
+     "day": "12 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=pzu",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409357&search=pzu",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409346&search=pzu",
+     "day": "11 mar"
+    },
+    {
+     "title": "na zako&#197;&#132;czenie - szeroki wig na granicy wybicia",
+     "url": "https://stooq.pl/nol/?id=17738&search=pzu",
+     "day": "10 mar"
+    },
+    {
+     "title": "szczyt na rentownościach?",
+     "url": "https://stooq.pl/n/?f=1409061&search=pzu",
+     "day": "10 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409036&search=pzu",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: duże spółki przewodziły wzrostom; pod kreską cd projekt",
+     "url": "https://stooq.pl/n/?f=1408997&search=pzu",
+     "day": "9 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1408995&search=pzu",
+     "day": "9 mar"
+    },
+    {
+     "title": "na zako&#197;&#132;czenie - wig20 bliższy wybicia w górę",
+     "url": "https://stooq.pl/nol/?id=17705&search=pzu",
+     "day": "9 mar"
+    }
+   ],
+   "predictions": {
+    "up": "24",
+    "same": "2",
+    "down": "2"
+   },
+   "average_daily_volume": "2314820"
+  },
+  {
+   "ticker": "SPL",
+   "articles": [
+    {
+     "title": "dzień na fx/fi: kurs eur/pln poniżej 4,60; rentowności spw będą stabilne",
+     "url": "https://stooq.pl/n/?f=1409564&search=santander",
+     "day": "12 mar"
+    },
+    {
+     "title": "fundusze inwestycyjne w lutym kupiły netto akcje na gpw za 434 mln zł - trigon dm",
+     "url": "https://stooq.pl/n/?f=1409467&search=santander",
+     "day": "11 mar"
+    },
+    {
+     "title": "problemy byków na bankach",
+     "url": "https://stooq.pl/nol/?id=17747&search=santander",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na fx/fi: sygnały z ebc mogą mieć wpływ na eur/pln i rentowności spw",
+     "url": "https://stooq.pl/n/?f=1409317&search=santander",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409287&search=santander",
+     "day": "11 mar"
+    },
+    {
+     "title": "rozbudowany terminal b na lotnisku katowice ma zostać otwarty w czerwcu br.",
+     "url": "https://stooq.pl/n/?f=1409257&search=santander",
+     "day": "10 mar"
+    },
+    {
+     "title": "cyfryzacja kprm: od początku roku profil zaufany założyło ponad milion osób",
+     "url": "https://stooq.pl/n/?f=1409215&search=santander",
+     "day": "10 mar"
+    },
+    {
+     "title": "indeks fri dot. nastrojów w branży rolno-spoż. wzrósł o 3 pkt kw/kw do 56,2 pkt",
+     "url": "https://stooq.pl/n/?f=1409176&search=santander",
+     "day": "10 mar"
+    },
+    {
+     "title": "raport: wracają hipoteki z 10-proc. wkładem własnym",
+     "url": "https://stooq.pl/n/?f=1409129&search=santander",
+     "day": "10 mar"
+    },
+    {
+     "title": "pkn orlen złożył do uokik wniosek ws. przejęcia farmy wiatrowej nowotna",
+     "url": "https://stooq.pl/n/?f=1409073&search=santander",
+     "day": "10 mar"
+    }
+   ],
+   "predictions": {
+    "up": "2",
+    "same": "0",
+    "down": "11"
+   },
+   "average_daily_volume": "89099"
+  },
+  {
+   "ticker": "TPE",
+   "articles": [
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409520&search=tauron",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=tauron",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=tauron",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409459&search=tauron",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409455&search=tauron",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409436&search=tauron",
+     "day": "11 mar"
+    },
+    {
+     "title": "tychy - 6,2 mln m sześc. biogazu z osadów ściekowych i odpadów",
+     "url": "https://stooq.pl/n/?f=1409431&search=tauron",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409421&search=tauron",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409398&search=tauron",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409287&search=tauron",
+     "day": "11 mar"
+    }
+   ],
+   "predictions": {
+    "up": "9",
+    "same": "0",
+    "down": "7"
+   },
+   "average_daily_volume": 18100000000
+  },
+  {
+   "ticker": "TEN",
+   "articles": [
+    {
+     "title": "dm bo&#197;&#154; dodał datawalk do listy długich pozycji, usunął asseco see, sanok oraz unibep",
+     "url": "https://stooq.pl/n/?f=1408633&search=ten+square+games",
+     "day": "8 mar"
+    },
+    {
+     "title": "walka o ustanowienie dołka na technologii",
+     "url": "https://stooq.pl/n/?f=1408631&search=ten+square+games",
+     "day": "8 mar"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora gamingowego",
+     "url": "https://stooq.pl/n/?f=1408372&search=ten+square+games",
+     "day": "5 mar"
+    },
+    {
+     "title": "gpw: mercator medical zastąpi alior bank w indeksie wig20 po sesji 19 iii",
+     "url": "https://stooq.pl/n/?f=1408251&search=ten+square+games",
+     "day": "5 mar"
+    },
+    {
+     "title": "mercator medical zastąpi alior bank w składzie indeksu wig20 po sesji 19 marca",
+     "url": "https://stooq.pl/n/?f=1408217&search=ten+square+games",
+     "day": "4 mar"
+    },
+    {
+     "title": "przychody gry \"fishing clash\" w lutym wyniosły ok. 7 mln usd - sensor tower",
+     "url": "https://stooq.pl/n/?f=1407423&search=ten+square+games",
+     "day": "1 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 lekko w dół; dobra sesja banków",
+     "url": "https://stooq.pl/n/?f=1406780&search=ten+square+games",
+     "day": "25 lut"
+    },
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=ten+square+games",
+     "day": "25 lut"
+    },
+    {
+     "title": "dzień na gpw: spadkowa pierwsza sesja w tygodniu; wig20 stracił blisko 1,2 proc.",
+     "url": "https://stooq.pl/n/?f=1406051&search=ten+square+games",
+     "day": "22 lut"
+    },
+    {
+     "title": "gpw: giełda w warszawie światowym liderem spółek z branży gamedev",
+     "url": "https://stooq.pl/n/?f=1405995&search=ten+square+games",
+     "day": "22 lut"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "0",
+    "down": "15"
+   },
+   "average_daily_volume": "27921"
+  },
+  {
+   "ticker": "WPL",
+   "articles": [
+    {
+     "title": "wartość akcji spółek z gpw w portfelu funduszu norges bank wzrosła w '20 o 7,18 proc.",
+     "url": "https://stooq.pl/n/?f=1406620&search=wirtualna+polska",
+     "day": "25 lut"
+    },
+    {
+     "title": "dzień na gpw: spadkowa pierwsza sesja w tygodniu; wig20 stracił blisko 1,2 proc.",
+     "url": "https://stooq.pl/n/?f=1406051&search=wirtualna+polska",
+     "day": "22 lut"
+    },
+    {
+     "title": "branża mediów protestuje przeciw wprowadzeniu podatku od reklam&#194;&#160;",
+     "url": "https://stooq.pl/n/?f=1403834&search=wirtualna+polska",
+     "day": "10 lut"
+    },
+    {
+     "title": "wprowadzenie składki z tytułu reklamy spowoduje osłabienie części mediów w polsce - branża mediowa",
+     "url": "https://stooq.pl/n/?f=1403808&search=wirtualnej+polski",
+     "day": "9 lut"
+    },
+    {
+     "title": "niedzielski: rekomenduję, by nie posyłać do szkół starszych uczniów jeszcze przez dwa tygodnie",
+     "url": "https://stooq.pl/n/?f=1401471&search=wirtualna+polska",
+     "day": "28 sty"
+    },
+    {
+     "title": "dzień na gpw: wig20 zyskał 1,86 proc.; duże wzrosty cd projektu i allegro",
+     "url": "https://stooq.pl/n/?f=1401106&search=wirtualna+polska",
+     "day": "26 sty"
+    },
+    {
+     "title": "wiceszef ms: paszport dyplomatyczny dla polaka ze szpitala w plymouth został wysłany do konsulatu w londynie",
+     "url": "https://stooq.pl/n/?f=1400490&search=wirtualna+polska",
+     "day": "22 sty"
+    },
+    {
+     "title": "dzień na gpw: indeksy ponownie zniżkują; pozytywnie wyróżnia się pgnig",
+     "url": "https://stooq.pl/n/?f=1398717&search=wirtualnej+polski",
+     "day": "13 sty"
+    },
+    {
+     "title": "haitong: aukcja 5g i potencjalne transakcje infrastrukturalne kluczowe w 2021",
+     "url": "https://stooq.pl/n/?f=1394694&search=wirtualna+polska",
+     "day": "17 gru"
+    },
+    {
+     "title": "wyższa wycena wp",
+     "url": "https://stooq.pl/nol/?id=16854&search=wirtualnej+polski",
+     "day": "16 gru"
+    }
+   ],
+   "predictions": {
+    "up": "0",
+    "same": "0",
+    "down": "1"
+   },
+   "average_daily_volume": "9508"
+  },
+  {
+   "ticker": "XTB",
+   "articles": [
+    {
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17777&search=+xtb+",
+     "day": "12 mar"
+    },
+    {
+     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
+     "url": "https://stooq.pl/n/?f=1409479&search=+xtb+",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409474&search=+x-trade",
+     "day": "11 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 najsłabszym europejskim indeksem; spadkom przewodzą banki",
+     "url": "https://stooq.pl/n/?f=1409377&search=+xtb+",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409353&search=+x-trade",
+     "day": "11 mar"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1409352&search=+x-trade",
+     "day": "11 mar"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1409250&search=+x-trade",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 powyżej 2.000 pkt. cd projekt z nowym minimum",
+     "url": "https://stooq.pl/n/?f=1409247&search=+x-trade",
+     "day": "10 mar"
+    },
+    {
+     "title": "dzień na gpw: wig20 broni poziomu 2.000 pkt., mocno w górę biomed-lublin",
+     "url": "https://stooq.pl/n/?f=1409172&search=+x-trade",
+     "day": "10 mar"
+    },
+    {
+     "title": "szczyt na rentownościach?",
+     "url": "https://stooq.pl/n/?f=1409061&search=+xtb+",
+     "day": "10 mar"
+    }
+   ],
+   "predictions": {
+    "up": "27",
+    "same": "0",
+    "down": "13"
+   },
+   "average_daily_volume": "680784"
+  }
+ ]
+}
