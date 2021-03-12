@@ -196,6 +196,14 @@ def getChangingData():
     saveData('tickets_data_changing.json', data)
 
 ### get not changing data from html file
-setup('data.html')
+# setup('data.html')
 ### get changing data based on tickers
 # getChangingData()
+
+
+def getStockGraph(ticker, timeframe):
+    times = ['1d', '3d', '5d', '10d', '1m', '3m', '5m', '1r']
+    if timeframe not in times:
+        raise ValueError
+    url = f'https://stooq.pl/c/?s={ticker.lower()}&c={timeframe}&t=l&a=lg'
+    urllib.request.urlretrieve(url, f'graphs/{ticker}.png')
