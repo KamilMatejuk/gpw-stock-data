@@ -1,7 +1,7 @@
 import re
 import ssl
 import json
-import lxml
+from lxml import html, etree
 import certifi
 import requests
 import urllib.request
@@ -40,8 +40,8 @@ def setup(file):
         try:
             url = f'https://stooq.pl/q/g/?s={d["name"]}'
             resp = requests.get(url)
-            root = lxml.html.fromstring(resp.text)
-            font = str(lxml.etree.tostring(root.find('.//font[@id = "f16"]').getparent()), 'utf-8')
+            root = html.fromstring(resp.text)
+            font = str(etree.tostring(root.find('.//font[@id = "f16"]').getparent()), 'utf-8')
             ticker = re.split(r'\(|\)', font)
             d['ticker'] = ticker[1]
         except Exception as e:
@@ -75,7 +75,40 @@ def setup(file):
         return d
     data = list(map(financials, data))
 
-    # saveData('tickets_data_static.json', data)
+    # links to extrenal websites
+    print('\033[33;1mGetting external links ...\033[0m')
+    def links(d):
+        try:
+            # infostrefa
+            url = f'http://infostrefa.com/infostrefa/pl/wiadomosci/szukaj/1?keyword={d["name"]}'
+            resp = requests.get(url)
+            root = html.fromstring(resp.text)
+            node = root.xpath('/html/body/div[1]/div[2]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div/div[3]/div/div/table/tbody/tr[2]/td[1]/a')[0]
+            a = str(etree.tostring(node), 'utf-8')
+            link1 = 'http://infostrefa.com' + a.split('"')[1]
+            # marketscreener
+            name = d["name"].lower().replace(' ', '')
+            url = f'https://www.marketscreener.com/search/?lien=recherche&mots={name}&RewriteLast=recherche&noredirect=0&type_recherche=0'
+            resp = requests.get(url)
+            root = html.fromstring(resp.text)
+            node = root.find('.//*[@id="ALNI0"]').findall('.//a')[0]
+            a = str(etree.tostring(node), 'utf-8')
+            link2 = 'https://www.marketscreener.com/' + a.split('"')[1]
+            # all
+            d['links'] = {
+                'infostrefa': link1,
+                'marketscreener': link2
+            }
+        except:
+            d['links'] = {
+                'infostrefa': link1,
+                'marketscreener': ''
+            }
+        print(d['ticker'])
+        return d
+    data = list(map(links, data))
+
+    saveData('tickets_data_static.json', data)
     
 
 def getChangingData():
@@ -87,7 +120,7 @@ def getChangingData():
     def articles(d):
         url = f'https://stooq.pl/q/g/?s={d["ticker"]}'
         resp = requests.get(url)
-        root = lxml.html.fromstring(resp.text)
+        root = html.fromstring(resp.text)
         table = root.xpath('//*[@id="f13"]/tr/td[1]/table[2]')[0].findall('.//tr')
         articles = []
         for row in table:
@@ -95,7 +128,7 @@ def getChangingData():
             date = row.find('.//font[@id = "a"]')
             if link is None or date is None:
                 continue
-            text = str(lxml.etree.tostring(link), 'ascii')[1:]
+            text = str(etree.tostring(link), 'ascii')[1:]
             url = 'https://stooq.pl/n' + text[9:text.find('>')-1].replace('&amp;', '&')
             title = text[text.find('>')+2:text.find('<')]
             title = title.replace(r'&#197;&#131;', 'ń')
@@ -107,7 +140,7 @@ def getChangingData():
             title = title.replace(r'&#196;&#153;', 'ę')
             title = title.replace(r'&#197;&#155;', 'ś')
             title = title.lower()
-            date = str(lxml.etree.tostring(date), 'ascii')
+            date = str(etree.tostring(date), 'ascii')
             day = date[13:19].replace(',', '')
             articles.append({
                 'title': title,
@@ -126,9 +159,9 @@ def getChangingData():
         resp = requests.get(url)
         with open('test.html', 'w+') as f:
             f.write(str(resp.text))
-        root = lxml.html.fromstring(resp.text)
+        root = html.fromstring(resp.text)
         tables = root.findall('.//table')
-        table = str(lxml.etree.tostring(tables[38]), 'utf-8').split('(')
+        table = str(etree.tostring(tables[38]), 'utf-8').split('(')
         up = table[1].split(')')[0]
         same = table[2].split(')')[0]
         down = table[3].split(')')[0]
@@ -146,10 +179,10 @@ def getChangingData():
     def avgVolume(d):
         url = f'https://stooq.pl/q/g/?s={d["ticker"]}'
         resp = requests.get(url)
-        root = lxml.html.fromstring(resp.text)
+        root = html.fromstring(resp.text)
         tables = root.findall('.//table')
         row = tables[25].findall('.//tr')
-        avg = str(lxml.etree.tostring(row[14]), 'utf-8').split('<td>')[1]
+        avg = str(etree.tostring(row[14]), 'utf-8').split('<td>')[1]
         avg = avg[:avg.find('</')].replace(',', '')
         if 'mld' in avg:
             avg = int(float(avg.split(' ')[0]) * 1000000000)
@@ -163,7 +196,6 @@ def getChangingData():
     saveData('tickets_data_changing.json', data)
 
 ### get not changing data from html file
-# setup('data.html')
+setup('data.html')
 ### get changing data based on tickers
 # getChangingData()
-

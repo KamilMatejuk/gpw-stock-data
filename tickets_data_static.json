@@ -7,7 +7,11 @@
    "market_sector": "Video games",
    "number_of_shares": 2361445,
    "market_value_mln": 1206.7,
-   "PE": 7.58
+   "PE": 7.58,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/2,11BIT",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/11-BIT-STUDIOS-S-A-25398936/"
+   }
   },
   {
    "code": "PLALIOR00045",
@@ -16,7 +20,11 @@
    "market_sector": "commercial banks",
    "number_of_shares": 130553991,
    "market_value_mln": 3017.1,
-   "PE": 0.46
+   "PE": 0.46,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1427,ALIOR",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/ALIOR-BANK-S-A-12615788/"
+   }
   },
   {
    "code": "LU2237380790",
@@ -25,7 +33,11 @@
    "market_sector": "E-Trade",
    "number_of_shares": 1023255814,
    "market_value_mln": 66276.28,
-   "PE": 8.19
+   "PE": 8.19,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/2068,ALLEGRO",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/ALLEGRO-EU-SA-119083493/"
+   }
   },
   {
    "code": "PLAMICA00010",
@@ -34,7 +46,11 @@
    "market_sector": "electrical & electronic equipment",
    "number_of_shares": 7775273,
    "market_value_mln": 1128.97,
-   "PE": 1.12
+   "PE": 1.12,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/30,AMICA",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/AMICA-S-A-10129677/"
+   }
   },
   {
    "code": "ES0105375002",
@@ -43,7 +59,11 @@
    "market_sector": "hotels & restaurants",
    "number_of_shares": 219554183,
    "market_value_mln": 7212.35,
-   "PE": 6.11
+   "PE": 6.11,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/32,AMREST",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/AMREST-HOLDINGS-SE-6498610/"
+   }
   },
   {
    "code": "PLSOFTB00016",
@@ -52,7 +72,11 @@
    "market_sector": "IT systems",
    "number_of_shares": 83000303,
    "market_value_mln": 5561.02,
-   "PE": 0.95
+   "PE": 0.95,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/50,ASSECOPOL",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLASSEE00014",
@@ -61,7 +85,11 @@
    "market_sector": "software",
    "number_of_shares": 51894251,
    "market_value_mln": 2075.77,
-   "PE": 2.28
+   "PE": 2.28,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/51,ASSECOSEE",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLBNFTS00018",
@@ -70,7 +98,11 @@
    "market_sector": "other - leisure facilities",
    "number_of_shares": 2894287,
    "market_value_mln": 2384.89,
-   "PE": 4.02
+   "PE": 4.02,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/84,BENEFIT",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/BENEFIT-ONE-INC-6497242/"
+   }
   },
   {
    "code": "PLBMDLB00018",
@@ -79,7 +111,11 @@
    "market_sector": "Pharmaceuticals",
    "number_of_shares": 62260410,
    "market_value_mln": 681.75,
-   "PE": 18.27
+   "PE": 18.27,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/94,BIOMEDLUB",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLBGZ0000010",
@@ -88,7 +124,11 @@
    "market_sector": "commercial banks",
    "number_of_shares": 147418918,
    "market_value_mln": 10201.39,
-   "PE": 0.85
+   "PE": 0.85,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/73,BNPPPL",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLBUDMX00013",
@@ -97,7 +137,11 @@
    "market_sector": "general construction",
    "number_of_shares": 25530098,
    "market_value_mln": 7837.74,
-   "PE": 8.26
+   "PE": 8.26,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/113,BUDIMEX",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/BUDIMEX-SA-6491723/"
+   }
   },
   {
    "code": "PLCCC0000016",
@@ -106,7 +150,11 @@
    "market_sector": "clothes & footwear",
    "number_of_shares": 54868000,
    "market_value_mln": 5352.92,
-   "PE": 11.01
+   "PE": 11.01,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/458,CCC",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/COMPUTACENTER-PLC-38481129/"
+   }
   },
   {
    "code": "PLOPTTC00011",
@@ -115,7 +163,11 @@
    "market_sector": "Video games",
    "number_of_shares": 100654624,
    "market_value_mln": 22244.67,
-   "PE": 20.57
+   "PE": 20.57,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/478,CDPROJEKT",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLCIECH00018",
@@ -124,7 +176,11 @@
    "market_sector": "basic chemicals",
    "number_of_shares": 52699909,
    "market_value_mln": 1865.58,
-   "PE": 0.91
+   "PE": 0.91,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/136,CIECH",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/CIECH-S-A-6497690/"
+   }
   },
   {
    "code": "PLCTINT00018",
@@ -133,7 +189,11 @@
    "market_sector": "Video games",
    "number_of_shares": 182943015,
    "market_value_mln": 259.05,
-   "PE": 2.74
+   "PE": 2.74,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/138,CIGAMES",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLCLNPH00015",
@@ -142,7 +202,11 @@
    "market_sector": "Pharmaceuticals",
    "number_of_shares": 45000000,
    "market_value_mln": 2254.5,
-   "PE": 5.08
+   "PE": 5.08,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1846,CLNPHARMA",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLCOMAR00012",
@@ -151,7 +215,11 @@
    "market_sector": "IT systems",
    "number_of_shares": 8133349,
    "market_value_mln": 1651.07,
-   "PE": 1.53
+   "PE": 1.53,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/143,COMARCH",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/COMARCH-S-A-6494668/"
+   }
   },
   {
    "code": "PLCMRAY00029",
@@ -160,7 +228,11 @@
    "market_sector": "Pharmaceuticals",
    "number_of_shares": 84205008,
    "market_value_mln": 117.04,
-   "PE": 1.78
+   "PE": 1.78,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/149,CORMAY",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/PZ-CORMAY-S-A-10721417/"
+   }
   },
   {
    "code": "PLCFRPT00013",
@@ -169,7 +241,11 @@
    "market_sector": "Telecom",
    "number_of_shares": 639546016,
    "market_value_mln": 18546.83,
-   "PE": 1.33
+   "PE": 1.33,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/153,CYFRPLSAT",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLPILAB00012",
@@ -178,7 +254,11 @@
    "market_sector": "software",
    "number_of_shares": 4886048,
    "market_value_mln": 977.21,
-   "PE": 65.88
+   "PE": 65.88,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1358,DATAWALK",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/DATAWALK-S-A-47418868/"
+   }
   },
   {
    "code": "PLLCCRP00017",
@@ -187,7 +267,11 @@
    "market_sector": "real estate sales",
    "number_of_shares": 447558311,
    "market_value_mln": 1060.71,
-   "PE": 0.72
+   "PE": 0.72,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/375,DEVELIA",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/DEVELIA-S-A-6499724/"
+   }
   },
   {
    "code": "PLDINPL00011",
@@ -196,7 +280,11 @@
    "market_sector": "consumer discretionary",
    "number_of_shares": 98040000,
    "market_value_mln": 25980.6,
-   "PE": 12.6
+   "PE": 12.6,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1878,DINOPL",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLDMDVL00012",
@@ -205,7 +293,11 @@
    "market_sector": "real estate sales",
    "number_of_shares": 25398422,
    "market_value_mln": 3047.81,
-   "PE": 2.97
+   "PE": 2.97,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/169,DOMDEV",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLECHPS00019",
@@ -214,7 +306,11 @@
    "market_sector": "real estate rent",
    "number_of_shares": 412690582,
    "market_value_mln": 1815.84,
-   "PE": 1.1
+   "PE": 1.1,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/185,ECHO",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/ECHO-GLOBAL-LOGISTICS-IN-5628268/"
+   }
   },
   {
    "code": "PLENEA000013",
@@ -223,7 +319,11 @@
    "market_sector": "power",
    "number_of_shares": 441442578,
    "market_value_mln": 2849.51,
-   "PE": 0.2
+   "PE": 0.2,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/208,ENEA",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/ENEA-AB-PUBL-34912608/"
+   }
   },
   {
    "code": "PLEURCH00011",
@@ -232,7 +332,11 @@
    "market_sector": "consumer discretionary",
    "number_of_shares": 139163286,
    "market_value_mln": 1843.91,
-   "PE": 1.97
+   "PE": 1.97,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/221,EUROCASH",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/EUROCASH-S-A-6497626/"
+   }
   },
   {
    "code": "PLFAMUR00012",
@@ -241,7 +345,11 @@
    "market_sector": "industrial machinery",
    "number_of_shares": 574763212,
    "market_value_mln": 1436.91,
-   "PE": 0.86
+   "PE": 0.86,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/234,FAMUR",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/FAMUR-S-A-6499031/"
+   }
   },
   {
    "code": "PLGPW0000017",
@@ -250,7 +358,11 @@
    "market_sector": "exchanges and brokers",
    "number_of_shares": 41972000,
    "market_value_mln": 1939.11,
-   "PE": 2.21
+   "PE": 2.21,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/268,GPW",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/GIELDA-PAPIER-W-WARTOSCIO-7649998/"
+   }
   },
   {
    "code": "PLZATRM00012",
@@ -259,7 +371,11 @@
    "market_sector": "basic chemicals",
    "number_of_shares": 99195484,
    "market_value_mln": 3144.5,
-   "PE": 0.43
+   "PE": 0.43,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/68,GRUPAAZOTY",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLGTC0000037",
@@ -268,7 +384,11 @@
    "market_sector": "real estate rent",
    "number_of_shares": 485555122,
    "market_value_mln": 3253.22,
-   "PE": 0.71
+   "PE": 0.71,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/263,GTC",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/GLOBE-TRADE-CENTRE-S-A-1413326/"
+   }
   },
   {
    "code": "PLBH00000012",
@@ -277,7 +397,11 @@
    "market_sector": "commercial banks",
    "number_of_shares": 130659600,
    "market_value_mln": 5226.38,
-   "PE": 0.69
+   "PE": 0.69,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/75,HANDLOWY",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/BANK-HANDLOWY-W-WARSZAWIE-1413321/"
+   }
   },
   {
    "code": "PLBSK0000017",
@@ -286,7 +410,11 @@
    "market_sector": "commercial banks",
    "number_of_shares": 130100000,
    "market_value_mln": 23938.4,
-   "PE": 1.29
+   "PE": 1.29,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/308,INGBSK",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLINTCS00010",
@@ -295,7 +423,11 @@
    "market_sector": "components",
    "number_of_shares": 14168100,
    "market_value_mln": 4604.63,
-   "PE": 2.02
+   "PE": 2.02,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/316,INTERCARS",
+    "marketscreener": "https://www.marketscreener.com/text-decoration:none;"
+   }
   },
   {
    "code": "PLJSW0000015",
@@ -304,7 +436,11 @@
    "market_sector": "coal mining",
    "number_of_shares": 117411596,
    "market_value_mln": 4015.48,
-   "PE": 0.55
+   "PE": 0.55,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/342,JSW",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/JASTRZEBSKA-SP-LKA-WEGLOW-9062129/"
+   }
   },
   {
    "code": "LU0327357389",
@@ -313,7 +449,11 @@
    "market_sector": "food",
    "number_of_shares": 84031230,
    "market_value_mln": 4537.69,
-   "PE": 0.69
+   "PE": 0.69,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/350,KERNEL",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/KERNEL-HOLDING-S-A-6500047/"
+   }
   },
   {
    "code": "PLKETY000011",
@@ -322,7 +462,11 @@
    "market_sector": "non-ferrous metallurgy",
    "number_of_shares": 9629507,
    "market_value_mln": 4930.31,
-   "PE": 3.32
+   "PE": 3.32,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/275,KETY",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/GRUPA-KETY-S-A-1413333/"
+   }
   },
   {
    "code": "PLKGHM000017",
@@ -331,7 +475,11 @@
    "market_sector": "metals mining",
    "number_of_shares": 200000000,
    "market_value_mln": 38310.0,
-   "PE": 1.83
+   "PE": 1.83,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/351,KGHM",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/KGHM-POLSKA-MIEDZ-S-A-1413331/"
+   }
   },
   {
    "code": "PLKRK0000010",
@@ -340,7 +488,11 @@
    "market_sector": "Mortgage",
    "number_of_shares": 19011045,
    "market_value_mln": 3669.13,
-   "PE": 1.78
+   "PE": 1.78,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/368,KRUK",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/KRUK-SP-LKA-AKCYJNA-10258298/"
+   }
   },
   {
    "code": "PLLVTSF00010",
@@ -349,7 +501,11 @@
    "market_sector": "software",
    "number_of_shares": 25750000,
    "market_value_mln": 3203.3,
-   "PE": 31.2
+   "PE": 31.2,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1645,LIVECHAT",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/LIVECHAT-SOFTWARE-S-A-16290112/"
+   }
   },
   {
    "code": "PLLOTOS00025",
@@ -358,7 +514,11 @@
    "market_sector": "oil & gas exploration & production",
    "number_of_shares": 184873362,
    "market_value_mln": 8763.0,
-   "PE": 0.76
+   "PE": 0.76,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/276,LOTOS",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/GRUPA-LOTOS-S-A-1413334/"
+   }
   },
   {
    "code": "PLLPP0000011",
@@ -367,7 +527,11 @@
    "market_sector": "clothes & footwear",
    "number_of_shares": 1852423,
    "market_value_mln": 14930.53,
-   "PE": 4.94
+   "PE": 4.94,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/381,LPP",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/LPP-SA-6496786/"
+   }
   },
   {
    "code": "PLMBION00016",
@@ -376,7 +540,11 @@
    "market_sector": "Pharmaceuticals",
    "number_of_shares": 13730772,
    "market_value_mln": 1139.65,
-   "PE": 0
+   "PE": 0,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/390,MABION",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/MABION-S-A-13291415/"
+   }
   },
   {
    "code": "PLBRE0000012",
@@ -385,7 +553,11 @@
    "market_sector": "commercial banks",
    "number_of_shares": 42367040,
    "market_value_mln": 9769.84,
-   "PE": 0.59
+   "PE": 0.59,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/110,MBANK",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/COMMERZBANK-AG-13057331/"
+   }
   },
   {
    "code": "PLMRCTR00015",
@@ -394,7 +566,11 @@
    "market_sector": "Health care equipment",
    "number_of_shares": 10604525,
    "market_value_mln": 4040.32,
-   "PE": 5.92
+   "PE": 5.92,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1592,MERCATOR",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/MERCATOR-MEDICAL-S-A-16816867/"
+   }
   },
   {
    "code": "PLBIG0000016",
@@ -403,7 +579,11 @@
    "market_sector": "commercial banks",
    "number_of_shares": 1213116777,
    "market_value_mln": 4852.47,
-   "PE": 0.53
+   "PE": 0.53,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/76,MILLENNIUM",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/CITY-DEVELOPMENTS-LIMITED-6491120/"
+   }
   },
   {
    "code": "PLTRFRM00018",
@@ -412,7 +592,11 @@
    "market_sector": "Pharmaceuticals wholesales ",
    "number_of_shares": 4453999,
    "market_value_mln": 3157.89,
-   "PE": 4.14
+   "PE": 4.14,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/450,NEUCA",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/NEUCA-S-A-6497688/"
+   }
   },
   {
    "code": "PLTLKPL00017",
@@ -421,7 +605,11 @@
    "market_sector": "Telecom",
    "number_of_shares": 1312357479,
    "market_value_mln": 8392.53,
-   "PE": 0.79
+   "PE": 0.79,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/640,ORANGEPL",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLPEKAO00016",
@@ -430,7 +618,11 @@
    "market_sector": "commercial banks",
    "number_of_shares": 262470034,
    "market_value_mln": 19055.32,
-   "PE": 0.75
+   "PE": 0.75,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/77,PEKAO",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/BANK-PEKAO-4002700/"
+   }
   },
   {
    "code": "PLPGER000010",
@@ -439,7 +631,11 @@
    "market_sector": "power",
    "number_of_shares": 1869760829,
    "market_value_mln": 12658.28,
-   "PE": 0.3
+   "PE": 0.3,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/505,PGE",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/PGE-POLSKA-GRUPA-ENERGETY-6500421/"
+   }
   },
   {
    "code": "PLPGNIG00014",
@@ -448,7 +644,11 @@
    "market_sector": "oil & gas exploration & production",
    "number_of_shares": 5778314857,
    "market_value_mln": 33964.93,
-   "PE": 0.78
+   "PE": 0.78,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/507,PGNIG",
+    "marketscreener": "https://www.marketscreener.com/text-decoration:none;"
+   }
   },
   {
    "code": "PLPKN0000018",
@@ -457,7 +657,11 @@
    "market_sector": "oil & gas exploration & production",
    "number_of_shares": 427709061,
    "market_value_mln": 29289.52,
-   "PE": 0.69
+   "PE": 0.69,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/513,PKNORLEN",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLPKO0000016",
@@ -466,7 +670,11 @@
    "market_sector": "commercial banks",
    "number_of_shares": 1250000000,
    "market_value_mln": 39675.0,
-   "PE": 0.88
+   "PE": 0.88,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/514,PKOBP",
+    "marketscreener": "https://www.marketscreener.com//quote/certificate/UNLIMITED-TURBO-BULL-PK-51623816/"
+   }
   },
   {
    "code": "PLPKPCR00011",
@@ -475,7 +683,11 @@
    "market_sector": "transport",
    "number_of_shares": 44786917,
    "market_value_mln": 864.39,
-   "PE": 0.27
+   "PE": 0.27,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1578,PKPCARGO",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLPLAYW00015",
@@ -484,7 +696,11 @@
    "market_sector": "Video games",
    "number_of_shares": 6600000,
    "market_value_mln": 3696.0,
-   "PE": 11.98
+   "PE": 11.98,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1852,PLAYWAY",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/PLAYWAY-S-A-31647337/"
+   }
   },
   {
    "code": "PLPZU0000011",
@@ -493,7 +709,11 @@
    "market_sector": "insurance offices",
    "number_of_shares": 863523000,
    "market_value_mln": 28496.26,
-   "PE": 1.59
+   "PE": 1.59,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/561,PZU",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/POWSZECHNY-ZAKLAD-UBEZPIE-6500935/"
+   }
   },
   {
    "code": "PLBZ00000044",
@@ -502,7 +722,11 @@
    "market_sector": "commercial banks",
    "number_of_shares": 102189314,
    "market_value_mln": 22256.83,
-   "PE": 0.82
+   "PE": 0.82,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/118,SANPL",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLTAURN00011",
@@ -511,7 +735,11 @@
    "market_sector": "power",
    "number_of_shares": 1752549394,
    "market_value_mln": 4588.17,
-   "PE": 0.25
+   "PE": 0.25,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/636,TAURONPE",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLTSQGM00016",
@@ -520,7 +748,11 @@
    "market_sector": "Video games",
    "number_of_shares": 7267311,
    "market_value_mln": 3640.92,
-   "PE": 18.27
+   "PE": 18.27,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1977,TSGAMES",
+    "marketscreener": ""
+   }
   },
   {
    "code": "PLWRTPL00027",
@@ -529,7 +761,11 @@
    "market_sector": "internet",
    "number_of_shares": 29188959,
    "market_value_mln": 2767.11,
-   "PE": 5.07
+   "PE": 5.07,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1738,WIRTUALNA",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/WIRTUALNA-POLSKA-HOLDING-22094633/"
+   }
   },
   {
    "code": "PLXTRDM00011",
@@ -538,7 +774,11 @@
    "market_sector": "exchanges and brokers",
    "number_of_shares": 117383635,
    "market_value_mln": 2007.26,
-   "PE": 2.26
+   "PE": 2.26,
+   "links": {
+    "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1908,NEXTBIKE",
+    "marketscreener": "https://www.marketscreener.com//quote/stock/X-TRADE-BROKERS-DOM-MAKLE-27436409/"
+   }
   }
  ]
 }
