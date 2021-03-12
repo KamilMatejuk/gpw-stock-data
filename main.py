@@ -1,21 +1,22 @@
 import re
 import ssl
 import json
-from lxml import html, etree
 import certifi
 import requests
+import datetime
 import urllib.request
+from lxml import html, etree
 
 
-def saveData(file, data):
-    with open(file, 'w+') as f:
+def saveData(data):
+    with open('data.json', 'w+') as f:
         json.dump({
             'stocks': data
         }, f, indent = True,  ensure_ascii=False)
 
 
-def getData(file):
-    with open(file, 'rb') as f:
+def getData():
+    with open('data.json', 'rb') as f:
         data = json.load(f)
     return data['stocks']
 
@@ -108,49 +109,103 @@ def setup(file):
         return d
     data = list(map(links, data))
 
-    saveData('tickets_data_static.json', data)
+    saveData(data)
     
 
 def getChangingData():
-    stocks = getData('tickets_data.json')
-    data = [{'ticker': s['ticker']} for s in stocks]
+    data = getData()
     
     # articles
     print('\033[33;1mGetting articles ...\033[0m')
     def articles(d):
+        # stooq
         url = f'https://stooq.pl/q/g/?s={d["ticker"]}'
         resp = requests.get(url)
         root = html.fromstring(resp.text)
         table = root.xpath('//*[@id="f13"]/tr/td[1]/table[2]')[0].findall('.//tr')
         articles = []
         for row in table:
-            link = row.find('.//a')
-            date = row.find('.//font[@id = "a"]')
-            if link is None or date is None:
+            try:
+                link = row.find('.//a')
+                date = row.find('.//font[@id = "a"]')
+                if link is None or date is None:
+                    continue
+                text = str(etree.tostring(link), 'ascii')[1:]
+                url = 'https://stooq.pl/n' + text[9:text.find('>')-1].replace('&amp;', '&')
+                title = text[text.find('>')+2:text.find('<')]
+                title = title.replace(r'&#197;&#131;', 'ń')
+                title = title.replace(r'&#196;&#133;', 'ą')
+                title = title.replace(r'&#195;&#179;', 'ó')
+                title = title.replace(r'&#197;&#130;', 'ł')
+                title = title.replace(r'&#197;&#188;', 'ż')
+                title = title.replace(r'&#196;&#135;', 'ć')
+                title = title.replace(r'&#196;&#153;', 'ę')
+                title = title.replace(r'&#197;&#155;', 'ś')
+                title = title.lower()
+                date = str(etree.tostring(date), 'ascii')
+                date = date[13:19].replace(',', '')
+                day, month = date.split(' ')
+                months = ['sty', 'lut', 'mar', 'kwi', 'maj', 'cze', 'lip', 'sie', 'wrz', 'lis', 'gru']
+                if month not in months:
+                    continue
+                month = months.index(month) + 1
+                month = f'0{month}' if month < 10 else str(month)
+                date_str = f'{day}.{month}.{datetime.datetime.today().year}'
+                date = datetime.datetime.strptime(date_str, '%d.%m.%Y')
+                diff = (datetime.datetime.today() - date).days
+                if diff <= 7:
+                    articles.append({
+                        'title': title,
+                        'url': url,
+                        'date': date_str
+                    })
+            except:
                 continue
-            text = str(etree.tostring(link), 'ascii')[1:]
-            url = 'https://stooq.pl/n' + text[9:text.find('>')-1].replace('&amp;', '&')
-            title = text[text.find('>')+2:text.find('<')]
-            title = title.replace(r'&#197;&#131;', 'ń')
-            title = title.replace(r'&#196;&#133;', 'ą')
-            title = title.replace(r'&#195;&#179;', 'ó')
-            title = title.replace(r'&#197;&#130;', 'ł')
-            title = title.replace(r'&#197;&#188;', 'ż')
-            title = title.replace(r'&#196;&#135;', 'ć')
-            title = title.replace(r'&#196;&#153;', 'ę')
-            title = title.replace(r'&#197;&#155;', 'ś')
-            title = title.lower()
-            date = str(etree.tostring(date), 'ascii')
-            day = date[13:19].replace(',', '')
-            articles.append({
-                'title': title,
-                'url': url,
-                'day': day
-            })
+            # infostrefa
+            url = d['links']['infostrefa']
+            company_nr = re.split('/|,', url)[-2]
+            url = 'http://infostrefa.com/infostrefa/pl/wiadomosci/wszystko/1?company=' + company_nr
+            resp = requests.get(url)
+            root = html.fromstring(resp.text)
+            table = root.xpath('/html/body/div[1]/div[2]/div/div[1]/div[3]/div/div/div/div[3]/div/div/div/table/tbody')[0].findall('.//tr')
+            date_str = datetime.datetime.strftime(datetime.datetime.today(), "%d.%m.%Y")
+            for row in table:
+                try:
+                    row_str = str(etree.tostring(row), 'utf-8')
+                    if 'divider' in row_str:
+                        date_str = row.find('.//td').text_content().replace('/', '.')
+                        date = datetime.datetime.strptime(date_str, '%d.%m.%Y')
+                        diff = (datetime.datetime.today() - date).days
+                        if diff > 7:
+                            break
+                    else:
+                        text = row.findall('.//td')[2].find('.//a')
+                        text = str(etree.tostring(text), 'utf-8')
+                        title = re.split('<|>', text)[2]
+                        title = title.replace(r'&#197;&#131;', 'ń')
+                        title = title.replace(r'&#196;&#133;', 'ą')
+                        title = title.replace(r'&#195;&#179;', 'ó')
+                        title = title.replace(r'&#197;&#130;', 'ł')
+                        title = title.replace(r'&#197;&#188;', 'ż')
+                        title = title.replace(r'&#196;&#135;', 'ć')
+                        title = title.replace(r'&#196;&#153;', 'ę')
+                        title = title.replace(r'&#197;&#155;', 'ś')
+                        title = title.lower()
+                        url = 'http://infostrefa.com' + text.split('"')[1]
+                        if url not in [i['url'] for i in articles if i['url']]:
+                            articles.append({
+                                'title': title,
+                                'url': url,
+                                'date': date_str
+                            })
+                except:
+                    continue
         d['articles'] = articles[:10]
-        print(d['ticker'])
+        print(d['ticker'], len(articles[:10]))
         return d
     data = list(map(articles, data))
+    saveData(data)
+    return
 
     # predictions
     print('\033[33;1mGetting predictions ...\033[0m')
@@ -193,15 +248,16 @@ def getChangingData():
         return d
     data = list(map(avgVolume, data))
 
-    saveData('tickets_data_changing.json', data)
+    saveData(data)
 
 ### get not changing data from html file
-# setup('data.html')
+# setup('data_tickers.html')
 ### get changing data based on tickers
-# getChangingData()
+getChangingData()
 
 
 def getStockGraph(ticker, timeframe):
+    # TODO dodać graf ze strony https://www.marketscreener.com/quote/stock/11-BIT-STUDIOS-S-A-25398936/ (graf zaawansowany)
     times = ['1d', '3d', '5d', '10d', '1m', '3m', '5m', '1r']
     if timeframe not in times:
         raise ValueError
