@@ -43,12 +43,11 @@ def financials(d):
         d['number_of_shares'] = int(resp[7].replace('>', '').replace(' </', '').replace('</', '').replace(',', ''))
         d['market_value_mln'] = float(resp[9].replace('>', '').replace(' </', '').replace('</', '').replace(',', ''))
         d['PE'] = float(resp[13].replace('>', '').replace(' </', '').replace('</', '').replace(',', ''))
-        print(d['ticker'])
     except Exception as e:
         if type(e) == KeyboardInterrupt:
             exit(0)
         d['PE'] = 0
-        print('error for', d['name'])
+    print(d['ticker'])
     return d
 
 
