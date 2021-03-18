@@ -1,5 +1,7 @@
 import re
 import ssl
+import time
+import random
 import certifi
 import requests
 import datetime
@@ -26,7 +28,8 @@ def articles(d):
             if link is None or date is None:
                 continue
             text = str(etree.tostring(link), 'ascii')[1:]
-            url = 'https://stooq.pl/n' + text[9:text.find('>')-1].replace('&amp;', '&')
+            url = 'https://stooq.pl/n' + \
+                text[9:text.find('>')-1].replace('&amp;', '&')
             title = text[text.find('>')+2:text.find('<')]
             title = title.replace(r'&#197;&#131;', 'ń')
             title = title.replace(r'&#196;&#133;', 'ą')
@@ -40,7 +43,8 @@ def articles(d):
             date = str(etree.tostring(date), 'ascii')
             date = date[13:19].replace(',', '')
             day, month = date.split(' ')
-            months = ['sty', 'lut', 'mar', 'kwi', 'maj', 'cze', 'lip', 'sie', 'wrz', 'lis', 'gru']
+            months = ['sty', 'lut', 'mar', 'kwi', 'maj',
+                'cze', 'lip', 'sie', 'wrz', 'lis', 'gru']
             if month not in months:
                 continue
             month = months.index(month) + 1
@@ -62,13 +66,16 @@ def articles(d):
         url = 'http://infostrefa.com/infostrefa/pl/wiadomosci/wszystko/1?company=' + company_nr
         resp = requests.get(url)
         root = html.fromstring(resp.text)
-        table = root.xpath('/html/body/div[1]/div[2]/div/div[1]/div[3]/div/div/div/div[3]/div/div/div/table/tbody')[0].findall('.//tr')
-        date_str = datetime.datetime.strftime(datetime.datetime.today(), "%d.%m.%Y")
+        table = root.xpath(
+            '/html/body/div[1]/div[2]/div/div[1]/div[3]/div/div/div/div[3]/div/div/div/table/tbody')[0].findall('.//tr')
+        date_str = datetime.datetime.strftime(
+            datetime.datetime.today(), "%d.%m.%Y")
         for row in table:
             try:
                 row_str = str(etree.tostring(row), 'utf-8')
                 if 'divider' in row_str:
-                    date_str = row.find('.//td').text_content().replace('/', '.')
+                    date_str = row.find(
+                        './/td').text_content().replace('/', '.')
                     date = datetime.datetime.strptime(date_str, '%d.%m.%Y')
                     diff = (datetime.datetime.today() - date).days
                     if diff > 7:
@@ -102,24 +109,47 @@ def articles(d):
 
 """
 Adds price prediction on given stock,
-from stooq.pl
+from stooq.pl and investing.com
 """
 def prediction(d):
+    # stooq.pl
     url = f'https://stooq.pl/q/g/?s={d["ticker"]}'
     resp = requests.get(url)
-    with open('test.html', 'w+') as f:
-        f.write(str(resp.text))
     root = html.fromstring(resp.text)
     tables = root.findall('.//table')
     table = str(etree.tostring(tables[38]), 'utf-8').split('(')
-    up = table[1].split(')')[0]
-    same = table[2].split(')')[0]
-    down = table[3].split(')')[0]
-    d['predictions'] = {
-        'up': up,
-        'same': same,
-        'down': down
-    }
+    up = int(table[1].split(')')[0])
+    same = int(table[2].split(')')[0])
+    down = int(table[3].split(')')[0])
+
+    # investing.com
+    try:
+        url = f'https://pl.investing.com/equities/{d["name"].lower()}-technical'
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36'
+        }
+        resp = requests.get(url, headers=headers)
+        with open('test.html', 'w+') as f:
+            f.write(str(resp.text))
+        root = html.fromstring(resp.text)
+        buy1 = int(re.split('\(|\)', str(etree.tostring(
+            root.xpath('//*[@id="maBuy"]')[0]), 'utf-8'))[1])
+        buy2 = int(re.split('\(|\)', str(etree.tostring(
+            root.xpath('//*[@id="tiBuy"]')[0]), 'utf-8'))[1])
+        sell1 = int(re.split('\(|\)', str(etree.tostring(
+            root.xpath('//*[@id="maSell"]')[0]), 'utf-8'))[1])
+        sell2 = int(re.split('\(|\)', str(etree.tostring(
+            root.xpath('//*[@id="tiSell"]')[0]), 'utf-8'))[1])
+        d['predictions'] = {
+            'buy': up + buy1 + buy2,
+            'sell': same + down + sell1 + sell2
+        }
+        time.sleep(3)
+    except:
+        d['predictions'] = {
+            'buy': up,
+            'sell': same + down
+        }
     print(d['ticker'])
     return d
 
@@ -137,10 +167,10 @@ def avgVolume(d):
     avg = str(etree.tostring(row[14]), 'utf-8').split('<td>')[1]
     avg = avg[:avg.find('</')].replace(',', '')
     if 'mld' in avg:
-        avg = int(float(avg.split(' ')[0]) * 1000000000)
+        avg = abs(int(float(avg.split(' ')[0]) * 1000000000))
     elif 'mln' in avg:
-        avg = int(float(avg.split(' ')[0]) * 1000000)
-    d['average_daily_volume'] = abs(avg)
+        avg = abs(int(float(avg.split(' ')[0]) * 1000000))
+    d['average_daily_volume'] = avg
     print(d['ticker'])
     return d
 
