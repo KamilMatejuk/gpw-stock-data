@@ -1,0 +1,45 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.stock {
+    padding: 20px 0;
+    border: 1px solid #555;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+.stock img {
+    grid-area: img;
+    height: 25vh;
+}
+.stock .data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#t {
+    font-weight: bold;
+}
+#t .sector {
+    font-weight: normal;
+    font-style: italic;
+    padding: 5px 10px;
+    background: #ddd;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+.stock .data > * {
+    margin: 5px;
+    padding: 0;
+}
+.stock .green {
+    font-weight: bold;
+    color: green;
+}
+.stock .red {
+    color: red;
+}
