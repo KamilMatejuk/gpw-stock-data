@@ -1,9 +1,15 @@
+import os
 import json
+from datetime import datetime
+
 
 """
 Saves data as a json file
 """
 def saveData(data):
+    if os.path.exists('data.json'):
+        date = datetime.now().strftime('%d.%m.%Y.%H:%M:%S')
+        os.rename('data.json', f'data-old-{date}.json')
     with open('data.json', 'w+') as f:
         json.dump({
             'stocks': data
