@@ -6,6 +6,7 @@ This is a program written for [INDEX Investment Chellange](https://iichallenge.g
 * [gpw.pl](https://www.gpw.pl/ajaxindex.php?start=indicatorsTab&format=html&action=GPWListaSp&gls_isin=PL11BTS00015&lang=EN)
 * [infostrefa.com](http://infostrefa.com/infostrefa/pl/profil/2,11BIT)
 * [marketscreener.com](https://www.marketscreener.com/quote/stock/11-BIT-STUDIOS-S-A-25398936/consensus/)
+* [investing.com](https://pl.investing.com/equities/11bit)
 
 ## Avaliable information
 * interantional code `PL11BTS00015`
@@ -16,7 +17,7 @@ This is a program written for [INDEX Investment Chellange](https://iichallenge.g
 * market value of company `1206.7 mln`
 * PE ratio `7.58`
 * average daily volume `8078`
-* short time predictions `up`
+* short time predictions `buy`
 * list of latest articles
 
 ## Stocks
