@@ -200,18 +200,29 @@ def graphAdvanced(d, timeframe):
 
 
 """
+Downloads simple graphs for each stock
+"""
+def getAllSimpleGraphs(timeframe):
+    for d in getData():
+        graphSimple(d, timeframe)
+
+
+"""
 Runs most of above methods, to collect all current data,
 and later use for filtering / displaing purposes 
 """
-def getAllChangingData():
+def getAllChangingData(reload):
     data = getData()
-    # articles
-    print('\033[33;1mGetting articles ...\033[0m')
-    data = list(map(articles, data))
-    # predictions
-    print('\033[33;1mGetting predictions ...\033[0m')
-    data = list(map(prediction, data))
-    # average volume (over 3 months)
-    print('\033[33;1mGetting volume ...\033[0m')
-    data = list(map(avgVolume, data))
+    if 'articles' in reload:
+        print('\033[33;1mGetting articles ...\033[0m')
+        data = list(map(articles, data))
+    if 'predictions' in reload:
+        print('\033[33;1mGetting predictions ...\033[0m')
+        data = list(map(prediction, data))
+    if 'volume' in reload:
+        print('\033[33;1mGetting volume ...\033[0m')
+        data = list(map(avgVolume, data))
+    if 'graphs' in reload:
+        print('\033[33;1mGetting graphs for 5d ...\033[0m')
+        getAllSimpleGraphs('5d')
     saveData(data)
