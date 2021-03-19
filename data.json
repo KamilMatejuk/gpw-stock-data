@@ -17,7 +17,7 @@
     "buy": 1,
     "sell": 0
    },
-   "average_daily_volume": "7858"
+   "average_daily_volume": "7764"
   },
   {
    "code": "PLALIOR00045",
@@ -33,9 +33,14 @@
    },
    "articles": [
     {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410860&search=alior",
-     "date": "18.03.2021"
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1410904&search=alior",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "haitong podni&#243;s&#322; cen&#281; docelow&#261; alior banku do 23,3 z&#322;",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38772198,haitong-podniosl-cene-docelowa-alior-banku-do-23-3-zl",
+     "date": "19.03.2021"
     },
     {
      "title": "alior bank sa (4/2021) delegowanie cz&#322;onka rady nadzorczej do czasowego pe&#322;nienia obowi&#261;zk&#243;w wiceprezesa zarz&#261;du alior banku s.a.",
@@ -46,6 +51,11 @@
      "title": "gpw: komunikat - alior bank",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38744053,gpw-komunikat-alior-bank",
      "date": "16.03.2021"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1410860&search=alior",
+     "date": "18.03.2021"
     },
     {
      "title": "",
@@ -71,20 +81,10 @@
      "title": "dzień na gpw: główne indeksy w dół; spadkom przewodziły paliwa",
      "url": "https://stooq.pl/n/?f=1410338&search=alior",
      "date": "16.03.2021"
-    },
-    {
-     "title": "nfo&#197;&#154;igw: osiem banków zgłosiło się do \"czystego powietrza\"",
-     "url": "https://stooq.pl/n/?f=1410305&search=alior",
-     "date": "16.03.2021"
-    },
-    {
-     "title": "nfo&#197;&#154;igw: osiem banków zgłosiło akces do programu 'czyste powietrze'",
-     "url": "https://stooq.pl/n/?f=1410185&search=alior",
-     "date": "16.03.2021"
     }
    ],
    "predictions": {
-    "buy": 37,
+    "buy": 34,
     "sell": 2
    },
    "average_daily_volume": 6560000000
@@ -103,9 +103,9 @@
    },
    "articles": [
     {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410877&search=allegro",
-     "date": "18.03.2021"
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1411060&search=allegro",
+     "date": "19.03.2021"
     },
     {
      "title": "trigon dm spodziewa si&#281; zwi&#281;kszenia wagi allegro w wig20, wig, msci i ftse po sprzeda&#380;y akcji",
@@ -128,36 +128,36 @@
      "date": "15.03.2021"
     },
     {
-     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
-     "url": "https://stooq.pl/n/?f=1410865&search=allegro",
-     "date": "18.03.2021"
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=allegro",
+     "date": "19.03.2021"
     },
     {
-     "title": "indeks wig20 wzrósł o 1,12% na zamknięciu w czwartek",
-     "url": "https://stooq.pl/n/?f=1410853&search=allegro",
-     "date": "18.03.2021"
+     "title": "wig20 - idea rgr wciąż się ciągnie za rynkiem",
+     "url": "https://stooq.pl/nol/?id=17938&search=allegro",
+     "date": "19.03.2021"
     },
     {
-     "title": "okolice 1980 pkt. ponownie realne",
-     "url": "https://stooq.pl/nol/?id=17925&search=allegro",
-     "date": "18.03.2021"
+     "title": "fed wierzy w potężny wzrost pkb i niską inflację&#226;&#128;&#166;",
+     "url": "https://stooq.pl/n/?f=1410959&search=allegro",
+     "date": "19.03.2021"
     },
     {
-     "title": "pmr: rynek spożywczy wzrośnie o ponad 3% r/r do 306 mld zł w 2021 r.",
-     "url": "https://stooq.pl/n/?f=1410790&search=allegro",
-     "date": "18.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17934&search=allegro",
+     "date": "19.03.2021"
     },
     {
-     "title": "dzień na gpw: indeksy lekko w górę; spółki odzieżowe odrabiają środowe spadki",
-     "url": "https://stooq.pl/n/?f=1410784&search=allegro",
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1410877&search=allegro",
      "date": "18.03.2021"
     }
    ],
    "predictions": {
-    "buy": 44,
-    "sell": 34
+    "buy": 43,
+    "sell": 33
    },
-   "average_daily_volume": "1838096"
+   "average_daily_volume": "1913028"
   },
   {
    "code": "PLAMICA00010",
@@ -176,7 +176,7 @@
     "buy": 0,
     "sell": 1
    },
-   "average_daily_volume": "7154"
+   "average_daily_volume": "7054"
   },
   {
    "code": "ES0105375002",
@@ -228,6 +228,16 @@
    "articles": [
     {
      "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1411060&search=asseco+poland",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1410904&search=asseco+poland",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
      "url": "https://stooq.pl/n/?f=1409656&search=asseco+poland",
      "date": "12.03.2021"
     },
@@ -240,33 +250,13 @@
      "title": "przegląd prasy",
      "url": "https://stooq.pl/n/?f=1409520&search=asseco+poland",
      "date": "12.03.2021"
-    },
-    {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1409474&search=asseco+poland",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "dzień na gpw: indeksy rosną, liderami w wig20 paliwa i surowce",
-     "url": "https://stooq.pl/n/?f=1409315&search=asseco+poland",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "dzień na gpw: dobre nastroje na rynkach zapowiadają wzrosty",
-     "url": "https://stooq.pl/n/?f=1409299&search=asseco+poland",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1409290&search=asseco+poland",
-     "date": "11.03.2021"
     }
    ],
    "predictions": {
     "buy": 1,
     "sell": 2
    },
-   "average_daily_volume": "77180"
+   "average_daily_volume": "76829"
   },
   {
    "code": "PLASSEE00014",
@@ -285,7 +275,7 @@
     "buy": 1,
     "sell": 0
    },
-   "average_daily_volume": "12756"
+   "average_daily_volume": "12568"
   },
   {
    "code": "PLBNFTS00018",
@@ -304,6 +294,21 @@
      "title": "badanie: niespełna jedna trzecia polaków jest zadowolona z otrzymywanych wynagrodze&#197;&#132;",
      "url": "https://stooq.pl/n/?f=1409576&search=+benefit+",
      "date": "12.03.2021"
+    },
+    {
+     "title": "potrzebna jest interwencja w sprawie czynsz&#243;w dla bran&#380; gastronomicznej, fitness i handlu - borys, pfr",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38771482,potrzebna-jest-interwencja-w-sprawie-czynszow-dla-branz-gastronomicznej-fitness-i-handlu-borys-pfr",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "benefit systems ujmie w raporcie rocznym kilka zdarze&#324; jednorazowych",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38767914,benefit-systems-ujmie-w-raporcie-rocznym-kilka-zdarzen-jednorazowych",
+     "date": "18.03.2021"
+    },
+    {
+     "title": "benefit systems sa (12/2021) zdarzenia o charakterze jednorazowym maj&#261;ce wp&#322;yw na wyniki finansowe za 4 kwarta&#322; 2020 r.",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38767663,benefit-systems-sa-12-2021-zdarzenia-o-charakterze-jednorazowym-majace-wplyw-na-wyniki-finansowe-za-4-kwartal-2020-r",
+     "date": "18.03.2021"
     },
     {
      "title": "fpp: bon 500+ na posiłki pracowników bez zus, pit dodałby 560 mln zł rolnictwu",
@@ -329,13 +334,18 @@
      "title": "podsumowanie tygodnia",
      "url": "https://stooq.pl/n/?f=1371114&search=+benefit+",
      "date": "24.08.2021"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1370073&search=+benefit+",
+     "date": "18.08.2021"
     }
    ],
    "predictions": {
     "buy": 0,
     "sell": 1
    },
-   "average_daily_volume": "1971"
+   "average_daily_volume": "1953"
   },
   {
    "code": "PLBMDLB00018",
@@ -351,9 +361,9 @@
    },
    "articles": [
     {
-     "title": "dzień na gpw: spadki przybierają na sile; wig20 traci ponad 3 proc.",
-     "url": "https://stooq.pl/n/?f=1410495&search=biomed+",
-     "date": "17.03.2021"
+     "title": "dziwne zachowanie rentowności",
+     "url": "https://stooq.pl/n/?f=1410928&search=biomedu+",
+     "date": "19.03.2021"
     },
     {
      "title": "biomed lublin sa (14/2021) rozpocz&#281;cie negocjacji z abm w sprawie komercjalizacji wynik&#243;w bada&#324; klinicznych dotycz&#261;cych zastosowania terapeutycznego immunoglobuliny anty sars cov 2 u pacjent&#243;w z covid 19",
@@ -364,6 +374,11 @@
      "title": "biomed lublin sa (13/2021) informacja o zmianie praw z papier&#243;w warto&#347;ciowych emitenta",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38736375,biomed-lublin-sa-13-2021-informacja-o-zmianie-praw-z-papierow-wartosciowych-emitenta",
      "date": "15.03.2021"
+    },
+    {
+     "title": "dzień na gpw: spadki przybierają na sile; wig20 traci ponad 3 proc.",
+     "url": "https://stooq.pl/n/?f=1410495&search=biomed+",
+     "date": "17.03.2021"
     },
     {
      "title": "dzień na gpw: wig20 spada ponad 2 proc.; zniżkują niemal wszystkie spółki",
@@ -394,18 +409,13 @@
      "title": "dzień na gpw: indeksy bez większych zmian; jsw traci blisko 4 proc.",
      "url": "https://stooq.pl/n/?f=1410242&search=biomedu+",
      "date": "16.03.2021"
-    },
-    {
-     "title": "dzień na gpw: indeksy lekko rosną, cd projekt liderem wzrostów w wig20, a jsw spadków",
-     "url": "https://stooq.pl/n/?f=1410159&search=biomed+",
-     "date": "16.03.2021"
     }
    ],
    "predictions": {
-    "buy": 15,
-    "sell": 10
+    "buy": 16,
+    "sell": 9
    },
-   "average_daily_volume": "2002038"
+   "average_daily_volume": "2052674"
   },
   {
    "code": "PLBGZ0000010",
@@ -475,7 +485,7 @@
     "buy": 1,
     "sell": 0
    },
-   "average_daily_volume": "2010"
+   "average_daily_volume": "2075"
   },
   {
    "code": "PLBUDMX00013",
@@ -534,18 +544,13 @@
      "title": "przegląd prasy",
      "url": "https://stooq.pl/n/?f=1409520&search=budimex",
      "date": "12.03.2021"
-    },
-    {
-     "title": "&#197;&#154;ląskie - plk zako&#197;&#132;czyły część prac na odcinku czechowice-dziedzice - zabrzeg",
-     "url": "https://stooq.pl/n/?f=1409488&search=budimeks",
-     "date": "11.03.2021"
     }
    ],
    "predictions": {
     "buy": 1,
     "sell": 1
    },
-   "average_daily_volume": "11931"
+   "average_daily_volume": "12550"
   },
   {
    "code": "PLCCC0000016",
@@ -566,6 +571,11 @@
      "date": "18.03.2021"
     },
     {
+     "title": "potrzebna jest interwencja w sprawie czynsz&#243;w dla bran&#380; gastronomicznej, fitness i handlu - borys, pfr",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38771482,potrzebna-jest-interwencja-w-sprawie-czynszow-dla-branz-gastronomicznej-fitness-i-handlu-borys-pfr",
+     "date": "19.03.2021"
+    },
+    {
      "title": "ccc sa (9/2021) uchwa&#322;y podj&#281;te przez zgromadzenie obligatariuszy w dniu 16 marca 2021 r.",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38743597,ccc-sa-9-2021-uchwaly-podjete-przez-zgromadzenie-obligatariuszy-w-dniu-16-marca-2021-r",
      "date": "16.03.2021"
@@ -584,11 +594,6 @@
      "title": "ccc chce sprzeda&#263; cyfrowemu polsatowi i a&amp;r investments &#322;&#261;cznie 20 proc. eobuwie za 1 mld z&#322;",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38708276,ccc-chce-sprzedac-cyfrowemu-polsatowi-i-a-r-investments-lacznie-20-proc-eobuwie-za-1-mld-zl",
      "date": "12.03.2021"
-    },
-    {
-     "title": "ccc sa (8/2021) rozpocz&#281;cie negocjacji z inwestorami w przedmiocie inwestycji w eobuwie.pl s.a.",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38706940,ccc-sa-8-2021-rozpoczecie-negocjacji-z-inwestorami-w-przedmiocie-inwestycji-w-eobuwie-pl-s-a",
-     "date": "11.03.2021"
     },
     {
      "title": "dzień na gpw: indeksy lekko w górę; spółki odzieżowe odrabiają środowe spadki",
@@ -612,7 +617,7 @@
     }
    ],
    "predictions": {
-    "buy": 23,
+    "buy": 22,
     "sell": 18
    },
    "average_daily_volume": 486000000
@@ -631,6 +636,26 @@
    },
    "articles": [
     {
+     "title": "tygodniowy przegląd informacji isbtech z sektora gamingowego",
+     "url": "https://stooq.pl/n/?f=1411063&search=+cd+projekt",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "render cube planuje debiut na newconnect jeszcze w tym roku",
+     "url": "https://stooq.pl/n/?f=1411050&search=+cd+projekt",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=+cd+projekt",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dziwne zachowanie rentowności",
+     "url": "https://stooq.pl/n/?f=1410928&search=+cd+projekt",
+     "date": "19.03.2021"
+    },
+    {
      "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
      "url": "https://stooq.pl/n/?f=1410865&search=+cd+projekt",
      "date": "18.03.2021"
@@ -647,7 +672,7 @@
     },
     {
      "title": "",
-     "url": "https://stooq.pl/nol/?id=17912&search=+cd+projekt",
+     "url": "https://stooq.pl/nol/?id=17912&search=+cd+projekcie",
      "date": "18.03.2021"
     },
     {
@@ -659,33 +684,13 @@
      "title": "dzień na gpw: indeksy odrabiają część spadków",
      "url": "https://stooq.pl/n/?f=1410574&search=+cd+projekt",
      "date": "17.03.2021"
-    },
-    {
-     "title": "dzień na gpw: główne indeksy w dół; spadkom przewodziły paliwa",
-     "url": "https://stooq.pl/n/?f=1410338&search=+cd+projekt",
-     "date": "16.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/nol/?id=17834&search=+cd+projekcie",
-     "date": "16.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410159&search=+cd+projekt",
-     "date": "16.03.2021"
-    },
-    {
-     "title": "komentarz giełdowy: spokojny początek tygodnia na rynku akcji",
-     "url": "https://stooq.pl/n/?f=1410096&search=+cd+projekt",
-     "date": "15.03.2021"
     }
    ],
    "predictions": {
-    "buy": 20,
-    "sell": 33
+    "buy": 19,
+    "sell": 34
    },
-   "average_daily_volume": "1074484"
+   "average_daily_volume": "1067024"
   },
   {
    "code": "PLCIECH00018",
@@ -755,7 +760,7 @@
     "buy": 1,
     "sell": 0
    },
-   "average_daily_volume": "121601"
+   "average_daily_volume": "120556"
   },
   {
    "code": "PLCTINT00018",
@@ -774,7 +779,7 @@
     "buy": 3,
     "sell": 2
    },
-   "average_daily_volume": "1079131"
+   "average_daily_volume": "1063735"
   },
   {
    "code": "PLCLNPH00015",
@@ -818,18 +823,13 @@
      "title": "",
      "url": "https://stooq.pl/n/?f=1410089&search=+celon+pharma",
      "date": "15.03.2021"
-    },
-    {
-     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
-     "url": "https://stooq.pl/n/?f=1409479&search=+celon+pharma",
-     "date": "11.03.2021"
     }
    ],
    "predictions": {
-    "buy": 2,
+    "buy": 3,
     "sell": 1
    },
-   "average_daily_volume": "74835"
+   "average_daily_volume": "75087"
   },
   {
    "code": "PLCOMAR00012",
@@ -859,7 +859,7 @@
     "buy": 1,
     "sell": 0
    },
-   "average_daily_volume": "3091"
+   "average_daily_volume": "3654"
   },
   {
    "code": "PLCMRAY00029",
@@ -878,15 +878,10 @@
      "title": "dzień na gpw: wig20 oddał poranne wzrosty; mwig40, swig80 i wig-leki na nowych szczytach",
      "url": "https://stooq.pl/n/?f=1410084&search=cormay",
      "date": "15.03.2021"
-    },
-    {
-     "title": "pz cormay sa (4/2021) zawiadomienie o zmianie udzia&#322;u w og&#243;lnej liczbie g&#322;os&#243;w w pz cormay s.a.",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38702151,pz-cormay-sa-4-2021-zawiadomienie-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-pz-cormay-s-a",
-     "date": "11.03.2021"
     }
    ],
    "predictions": {
-    "buy": 12,
+    "buy": 10,
     "sell": 2
    },
    "average_daily_volume": 65900000
@@ -905,9 +900,9 @@
    },
    "articles": [
     {
-     "title": "dzień na gpw: indeksy odrabiają część spadków",
-     "url": "https://stooq.pl/n/?f=1410574&search=cyfrowy+polsat",
-     "date": "17.03.2021"
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1411060&search=cyfrowy+polsat",
+     "date": "19.03.2021"
     },
     {
      "title": "cyfrowy polsat sa (6/2021) informacja o zmianie udzia&#322;u w og&#243;lnej liczbie g&#322;os&#243;w na walnym zgromadzeniu sp&#243;&#322;ki cyfrowy polsat s.a.",
@@ -945,21 +940,21 @@
      "date": "12.03.2021"
     },
     {
-     "title": "cyfrowy polsat sa (4/2021) przyst&#261;pienie do wy&#322;&#261;cznych negocjacji w zakresie potencjalnego nabycia pakietu 10% akcji sp&#243;&#322;ki eobuwie.pl s.a.",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38706953,cyfrowy-polsat-sa-4-2021-przystapienie-do-wylacznych-negocjacji-w-zakresie-potencjalnego-nabycia-pakietu-10-akcji-spolki-eobuwie-pl-s-a",
-     "date": "11.03.2021"
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=cyfrowy+polsat",
+     "date": "19.03.2021"
     },
     {
-     "title": "dzień na gpw: główne indeksy w górę; wzrostom w wig20 przewodziły lpp, cdr i alior",
-     "url": "https://stooq.pl/n/?f=1409728&search=cyfrowego+polsatu",
-     "date": "12.03.2021"
+     "title": "netia miała 7,74 mln zł zysku netto, 13,01 mln zł zysku ebit w iv kw. 2020 r.",
+     "url": "https://stooq.pl/n/?f=1410907&search=cyfrowy+polsat",
+     "date": "19.03.2021"
     }
    ],
    "predictions": {
-    "buy": 2,
+    "buy": 1,
     "sell": 1
    },
-   "average_daily_volume": "613347"
+   "average_daily_volume": "613260"
   },
   {
    "code": "PLPILAB00012",
@@ -975,14 +970,19 @@
    },
    "articles": [
     {
-     "title": "przegląd prasy",
-     "url": "https://stooq.pl/n/?f=1410373&search=datawalk",
-     "date": "17.03.2021"
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1411060&search=datawalk",
+     "date": "19.03.2021"
     },
     {
      "title": "datawalk sa (3/2021) uzyskanie patentu w usa. patent obtaining in us.",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38735995,datawalk-sa-3-2021-uzyskanie-patentu-w-usa-patent-obtaining-in-us",
      "date": "15.03.2021"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1410373&search=datawalk",
+     "date": "17.03.2021"
     },
     {
      "title": "przegląd informacji ze spółek",
@@ -993,6 +993,11 @@
      "title": "",
      "url": "https://stooq.pl/n/?f=1410132&search=datawalk",
      "date": "16.03.2021"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1396643&search=datawalk",
+     "date": "30.11.2021"
     }
    ],
    "predictions": {
@@ -1015,9 +1020,9 @@
    },
    "articles": [
     {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410860&search=develia",
-     "date": "18.03.2021"
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1410904&search=develia",
+     "date": "19.03.2021"
     },
     {
      "title": "develia sa (14/2021) zmiana terminu publikacji jednostkowego raportu rocznego i skonsolidowanego raportu rocznego za 2020 rok",
@@ -1040,6 +1045,11 @@
      "date": "17.03.2021"
     },
     {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1410860&search=develia",
+     "date": "18.03.2021"
+    },
+    {
      "title": "",
      "url": "https://stooq.pl/n/?f=1410743&search=develia",
      "date": "18.03.2021"
@@ -1057,11 +1067,6 @@
     {
      "title": "przegląd informacji ze spółek",
      "url": "https://stooq.pl/n/?f=1410621&search=develia",
-     "date": "17.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410547&search=develia",
      "date": "17.03.2021"
     }
    ],
@@ -1136,10 +1141,10 @@
     }
    ],
    "predictions": {
-    "buy": 5,
+    "buy": 4,
     "sell": 12
    },
-   "average_daily_volume": "190166"
+   "average_daily_volume": "189611"
   },
   {
    "code": "PLDMDVL00012",
@@ -1207,9 +1212,9 @@
    ],
    "predictions": {
     "buy": 0,
-    "sell": 13
+    "sell": 12
    },
-   "average_daily_volume": "5657"
+   "average_daily_volume": "5668"
   },
   {
    "code": "PLECHPS00019",
@@ -1255,31 +1260,31 @@
      "date": "15.03.2021"
     },
     {
-     "title": "echo investment sa (8/2021) zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2020 r.",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38706085,echo-investment-sa-8-2021-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2020-r",
-     "date": "11.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1410582&search=+echo+",
+     "date": "17.03.2021"
     },
     {
-     "title": "echo investment sprzeda&#322; nieruchomo&#347;&#263; w warszawie za 86,7 mln euro",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38698284,echo-investment-sprzedal-nieruchomosc-w-warszawie-za-86-7-mln-euro",
-     "date": "11.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1410581&search=+echo+",
+     "date": "17.03.2021"
     },
     {
-     "title": "echo investment sa (7/2021) przekazanie do publicznej wiadomo&#347;ci op&#243;&#378;nionej informacji poufnej dotycz&#261;cej zawarcia przedwst&#281;pnej umowy sprzeda&#380;y nieruchomo&#347;ci po&#322;o&#380;onej w warszawie b&#281;d&#261;cej w u&#380;ytkowaniu wieczystym sp&#243;&#322;ki zale&#380;nej emitenta",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38698258,echo-investment-sa-7-2021-przekazanie-do-publicznej-wiadomosci-opoznionej-informacji-poufnej-dotyczacej-zawarcia-przedwstepnej-umowy-sprzedazy-nieruchomosci-polozonej-w-warszawie-bedacej-w-uzytkowaniu-wieczystym-spolki-zaleznej-emitenta",
-     "date": "11.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1410576&search=+echo+",
+     "date": "17.03.2021"
     },
     {
-     "title": "echo investment sa (6/2021) zawarcie przyrzeczonej umowy sprzeda&#380;y nieruchomo&#347;ci biura przy willi w warszawie",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38698249,echo-investment-sa-6-2021-zawarcie-przyrzeczonej-umowy-sprzedazy-nieruchomosci-biura-przy-willi-w-warszawie",
-     "date": "11.03.2021"
+     "title": "monitor kadrowy - zestawienie od 9 do 15 marca",
+     "url": "https://stooq.pl/n/?f=1410175&search=+echo+",
+     "date": "16.03.2021"
     }
    ],
    "predictions": {
     "buy": 2,
     "sell": 1
    },
-   "average_daily_volume": "62335"
+   "average_daily_volume": "61753"
   },
   {
    "code": "PLENEA000013",
@@ -1370,56 +1375,46 @@
      "date": "17.03.2021"
     },
     {
-     "title": "eurocash nab&#281;dzie 49 proc., a docelowo 50 proc. udzia&#322;&#243;w w sp&#243;&#322;ce prowadz&#261;cej sie&#263; sklep&#243;w arhelan",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38704013,eurocash-nabedzie-49-proc-a-docelowo-50-proc-udzialow-w-spolce-prowadzacej-siec-sklepow-arhelan",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "eurocash sa (3/2020) ujawnienie op&#243;&#378;nionej informacji poufnej - eurocash nab&#281;dzie 49% udzia&#322;&#243;w w sp&#243;&#322;ce prowadz&#261;cej sie&#263; sklep&#243;w arhelan, kt&#243;ra docelowo b&#281;dzie wsp&#243;&#322;pracowa&#263; z grup&#261; eurocash w ramach struktur franczyzowych delikatesy centrum",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38703853,eurocash-sa-3-2020-ujawnienie-opoznionej-informacji-poufnej-eurocash-nabedzie-49-udzialow-w-spolce-prowadzacej-siec-sklepow-arhelan-ktora-docelowo-bedzie-wspolpracowac-z-grupa-eurocash-w-ramach-struktur-franczyzowych-delikatesy-centrum",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "eurocash zak&#322;ada w '21 stabilizacj&#281; wynik&#243;w; i kw. mo&#380;e by&#263; p&#322;aski sprzeda&#380;owo rdr (wywiad)",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38701510,eurocash-zaklada-w-21-stabilizacje-wynikow-i-kw-moze-byc-plaski-sprzedazowo-rdr-wywiad",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "dm bdm sa: eurocash (wyniki 4q'20) -  raport analityczny w ramach gie&#322;dowego programu wsparcia pokrycia analitycznego",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38698022,dm-bdm-sa-eurocash-wyniki-4q-20-raport-analityczny-w-ramach-gieldowego-programu-wsparcia-pokrycia-analitycznego",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "ebitda eurocashu w iv kw. '20 wynios&#322;a 242,2 mln z&#322; wobec konsensusu 228,5 mln z&#322;",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38690932,ebitda-eurocashu-w-iv-kw-20-wyniosla-242-2-mln-zl-wobec-konsensusu-228-5-mln-zl",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "wyniki eurocashu w iv kwartale 2020 roku vs. konsensus pap (tabela)",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38690926,wyniki-eurocashu-w-iv-kwartale-2020-roku-vs-konsensus-pap-tabela",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "eurocash sa raport okresowy roczny rr",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38696080,eurocash-sa-raport-okresowy-roczny-rr",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "eurocash sa raport okresowy roczny skonsolidowany srr",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38696007,eurocash-sa-raport-okresowy-roczny-skonsolidowany-srr",
-     "date": "11.03.2021"
-    },
-    {
      "title": "dzień na gpw: inwestorzy dyskontują potencjalne obostrzenia przed konferencją mz",
      "url": "https://stooq.pl/n/?f=1410534&search=eurocash",
      "date": "17.03.2021"
+    },
+    {
+     "title": "uokik: w 2020 r. 36 postępowa&#197;&#132; wyjaśniających ws. nieuczciwych praktyk w handlu żywnością",
+     "url": "https://stooq.pl/n/?f=1410296&search=eurocash",
+     "date": "16.03.2021"
+    },
+    {
+     "title": "dzień na gpw: poranne wzrosty słabną; nowe rekordy indeksów",
+     "url": "https://stooq.pl/n/?f=1410001&search=eurocash",
+     "date": "15.03.2021"
+    },
+    {
+     "title": "kontrakty i umowy spółek - przegląd tygodniowy",
+     "url": "https://stooq.pl/n/?f=1409933&search=eurocash",
+     "date": "15.03.2021"
+    },
+    {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1409656&search=eurocash",
+     "date": "12.03.2021"
+    },
+    {
+     "title": "ebc planuje większe zakupy",
+     "url": "https://stooq.pl/n/?f=1409541&search=eurocash",
+     "date": "12.03.2021"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1409520&search=eurocash",
+     "date": "12.03.2021"
     }
    ],
    "predictions": {
     "buy": 11,
     "sell": 3
    },
-   "average_daily_volume": "395267"
+   "average_daily_volume": "393415"
   },
   {
    "code": "PLFAMUR00012",
@@ -1435,9 +1430,9 @@
    },
    "articles": [
     {
-     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
-     "url": "https://stooq.pl/n/?f=1410865&search=famur",
-     "date": "18.03.2021"
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=famur",
+     "date": "19.03.2021"
     },
     {
      "title": "famur kupi panele fotowoltaiczne za ok. 25 mln euro",
@@ -1448,6 +1443,16 @@
      "title": "famur sa (10/2021) zawarcie umowy ramowej na dostawy paneli fotowoltaicznych",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38753694,famur-sa-10-2021-zawarcie-umowy-ramowej-na-dostawy-paneli-fotowoltaicznych",
      "date": "17.03.2021"
+    },
+    {
+     "title": "dziwne zachowanie rentowności",
+     "url": "https://stooq.pl/n/?f=1410928&search=famur",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
+     "url": "https://stooq.pl/n/?f=1410865&search=famur",
+     "date": "18.03.2021"
     },
     {
      "title": "dzień na gpw: indeksy lekko w górę; spółki odzieżowe odrabiają środowe spadki",
@@ -1473,23 +1478,13 @@
      "title": "przegląd informacji ze spółek",
      "url": "https://stooq.pl/n/?f=1410621&search=famur",
      "date": "17.03.2021"
-    },
-    {
-     "title": "dzień na gpw: indeksy w dół; spadkom przewodziły spółki odzieżowe i allegro",
-     "url": "https://stooq.pl/n/?f=1410607&search=famur",
-     "date": "17.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410579&search=famur",
-     "date": "17.03.2021"
     }
    ],
    "predictions": {
     "buy": 1,
     "sell": 1
    },
-   "average_daily_volume": "1094607"
+   "average_daily_volume": "1216878"
   },
   {
    "code": "PLGPW0000017",
@@ -1556,10 +1551,10 @@
     }
    ],
    "predictions": {
-    "buy": 1,
+    "buy": 0,
     "sell": 1
    },
-   "average_daily_volume": "82944"
+   "average_daily_volume": "82724"
   },
   {
    "code": "PLZATRM00012",
@@ -1578,7 +1573,7 @@
     "buy": 9,
     "sell": 0
    },
-   "average_daily_volume": "151150"
+   "average_daily_volume": "150121"
   },
   {
    "code": "PLGTC0000037",
@@ -1593,6 +1588,11 @@
     "marketscreener": "https://www.marketscreener.com//quote/stock/GLOBE-TRADE-CENTRE-S-A-1413326/"
    },
    "articles": [
+    {
+     "title": "globe trade centre sa (2/2021) zmiany w istotnej umowie finansowej dotycz&#261;cej finansowania galerii jurajskiej",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38771600,globe-trade-centre-sa-2-2021-zmiany-w-istotnej-umowie-finansowej-dotyczacej-finansowania-galerii-jurajskiej",
+     "date": "19.03.2021"
+    },
     {
      "title": "przegląd informacji ze spółek",
      "url": "https://stooq.pl/n/?f=1395526&search=+gtc+",
@@ -1637,11 +1637,6 @@
      "title": "",
      "url": "https://stooq.pl/n/?f=1387853&search=+gtc+",
      "date": "12.10.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1387285&search=+gtc+",
-     "date": "9.10.2021"
     }
    ],
    "predictions": {
@@ -1718,7 +1713,7 @@
     "buy": 2,
     "sell": 2
    },
-   "average_daily_volume": "43871"
+   "average_daily_volume": "43311"
   },
   {
    "code": "PLBSK0000017",
@@ -1777,18 +1772,13 @@
      "title": "",
      "url": "https://stooq.pl/n/?f=1409891&search=ing+bsk",
      "date": "15.03.2021"
-    },
-    {
-     "title": "przegląd prasy",
-     "url": "https://stooq.pl/n/?f=1409287&search=ing+bsk",
-     "date": "11.03.2021"
     }
    ],
    "predictions": {
     "buy": 1,
     "sell": 0
    },
-   "average_daily_volume": "9694"
+   "average_daily_volume": "9645"
   },
   {
    "code": "PLINTCS00010",
@@ -1818,7 +1808,7 @@
     "buy": 0,
     "sell": 1
    },
-   "average_daily_volume": "2847"
+   "average_daily_volume": "2806"
   },
   {
    "code": "PLJSW0000015",
@@ -1834,9 +1824,14 @@
    },
    "articles": [
     {
-     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
-     "url": "https://stooq.pl/n/?f=1410865&search=+jsw+",
-     "date": "18.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1411037&search=jastrz%C4%99bska+sp%C3%B3%C5%82ka+w%C4%99glowa",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "umowa spo&#322;eczna dot. g&#243;rnictwa uzgodniona niemal w ca&#322;o&#347;ci - sobo&#324;, map",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38772075,umowa-spoleczna-dot-gornictwa-uzgodniona-niemal-w-calosci-sobon-map",
+     "date": "19.03.2021"
     },
     {
      "title": "strata netto j.d. jsw w iv kw. wynios&#322;a 452,6 mln z&#322; wobec konsensusu 398,6 mln z&#322; straty (opis)",
@@ -1869,26 +1864,21 @@
      "date": "18.03.2021"
     },
     {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410860&search=jastrz%C4%99bska+sp%C3%B3%C5%82ka+w%C4%99glowa",
-     "date": "18.03.2021"
-    },
-    {
-     "title": "dzień na gpw: indeksy lekko w górę; spółki odzieżowe odrabiają środowe spadki",
-     "url": "https://stooq.pl/n/?f=1410784&search=+jsw+",
-     "date": "18.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1411036&search=jastrz%C4%99bska+sp%C3%B3%C5%82ka+w%C4%99glowa",
+     "date": "19.03.2021"
     },
     {
      "title": "",
-     "url": "https://stooq.pl/n/?f=1410689&search=jastrz%C4%99bska+sp%C3%B3%C5%82ka+w%C4%99glowa",
-     "date": "18.03.2021"
+     "url": "https://stooq.pl/n/?f=1411035&search=jastrz%C4%99bska+sp%C3%B3%C5%82ka+w%C4%99glowa",
+     "date": "19.03.2021"
     }
    ],
    "predictions": {
-    "buy": 10,
-    "sell": 19
+    "buy": 9,
+    "sell": 18
    },
-   "average_daily_volume": 7360000000
+   "average_daily_volume": 6920000000
   },
   {
    "code": "LU0327357389",
@@ -1909,6 +1899,11 @@
      "date": "15.03.2021"
     },
     {
+     "title": "ipopema securities podwy&#380;sza warto&#347;&#263; godziw&#261; akcji kernela do 75 z&#322;",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38774440,ipopema-securities-podwyzsza-wartosc-godziwa-akcji-kernela-do-75-zl",
+     "date": "19.03.2021"
+    },
+    {
      "title": "bm mbanku podnios&#322;o cen&#281; docelow&#261; akcji kernela do 71,84 z&#322;",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38765045,bm-mbanku-podnioslo-cene-docelowa-akcji-kernela-do-71-84-zl",
      "date": "18.03.2021"
@@ -1920,10 +1915,10 @@
     }
    ],
    "predictions": {
-    "buy": 6,
+    "buy": 5,
     "sell": 1
    },
-   "average_daily_volume": "134646"
+   "average_daily_volume": "133442"
   },
   {
    "code": "PLKETY000011",
@@ -1962,13 +1957,18 @@
      "title": "",
      "url": "https://stooq.pl/nol/?id=16989&search=+k%C4%99ty+",
      "date": "22.11.2021"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1394884&search=+k%C4%99ty+",
+     "date": "17.11.2021"
     }
    ],
    "predictions": {
-    "buy": 1,
+    "buy": 0,
     "sell": 12
    },
-   "average_daily_volume": "5397"
+   "average_daily_volume": "5459"
   },
   {
    "code": "PLKGHM000017",
@@ -1984,19 +1984,19 @@
    },
    "articles": [
     {
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=kghm",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: na parkiecie dominują spadki; w wig20 tracą m.in. spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1410940&search=kghm",
+     "date": "19.03.2021"
+    },
+    {
      "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
      "url": "https://stooq.pl/n/?f=1410865&search=kghm",
      "date": "18.03.2021"
-    },
-    {
-     "title": "kghm w sprawozdaniu rocznym grupy dokona 45 mln z&#322; odpisu dla kopalni franke, 41 mln z&#322; dla wpec w legnicy",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38701342,kghm-w-sprawozdaniu-rocznym-grupy-dokona-45-mln-zl-odpisu-dla-kopalni-franke-41-mln-zl-dla-wpec-w-legnicy",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "kghm polska mied&#377; sa (6/2021) informacja o wynikach przeprowadzonych test&#243;w na utrat&#281; warto&#347;ci",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38701268,kghm-polska-miedz-sa-6-2021-informacja-o-wynikach-przeprowadzonych-testow-na-utrate-wartosci",
-     "date": "11.03.2021"
     },
     {
      "title": "",
@@ -2027,18 +2027,13 @@
      "title": "przegląd prasy",
      "url": "https://stooq.pl/n/?f=1409520&search=kghm",
      "date": "12.03.2021"
-    },
-    {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1409474&search=kghm",
-     "date": "11.03.2021"
     }
    ],
    "predictions": {
     "buy": 2,
     "sell": 10
    },
-   "average_daily_volume": "559869"
+   "average_daily_volume": "558888"
   },
   {
    "code": "PLKRK0000010",
@@ -2054,9 +2049,9 @@
    },
    "articles": [
     {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410481&search=+kruk+",
-     "date": "17.03.2021"
+     "title": "prestashop otwiera lokalny oddział w polsce",
+     "url": "https://stooq.pl/n/?f=1411010&search=+kruk+",
+     "date": "19.03.2021"
     },
     {
      "title": "kruk szacuje zysk netto w '20 na 81 mln z&#322;, rekomenduje 8 z&#322; dywidendy na akcj&#281; (opis)",
@@ -2075,6 +2070,11 @@
     },
     {
      "title": "",
+     "url": "https://stooq.pl/n/?f=1410481&search=+kruk+",
+     "date": "17.03.2021"
+    },
+    {
+     "title": "",
      "url": "https://stooq.pl/n/?f=1410480&search=+kruk+",
      "date": "17.03.2021"
     },
@@ -2087,18 +2087,13 @@
      "title": "dzień na gpw: wig20 spada ponad 2 proc.; zniżkują niemal wszystkie spółki",
      "url": "https://stooq.pl/n/?f=1410428&search=+kruk+",
      "date": "17.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/nol/?id=17762&search=+kruk+",
-     "date": "11.03.2021"
     }
    ],
    "predictions": {
     "buy": 1,
     "sell": 0
    },
-   "average_daily_volume": "26186"
+   "average_daily_volume": "26005"
   },
   {
    "code": "PLLVTSF00010",
@@ -2112,18 +2107,12 @@
     "infostrefa": "http://infostrefa.com/infostrefa/pl/profil/1645,LIVECHAT",
     "marketscreener": "https://www.marketscreener.com//quote/stock/LIVECHAT-SOFTWARE-S-A-16290112/"
    },
-   "articles": [
-    {
-     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
-     "url": "https://stooq.pl/n/?f=1409479&search=livechat",
-     "date": "11.03.2021"
-    }
-   ],
+   "articles": [],
    "predictions": {
     "buy": 0,
     "sell": 2
    },
-   "average_daily_volume": "30076"
+   "average_daily_volume": "29738"
   },
   {
    "code": "PLLOTOS00025",
@@ -2139,9 +2128,9 @@
    },
    "articles": [
     {
-     "title": "obajtek o doniesieniach medialnych: to paskudne manipulacje i jedno wielkie pomówienie",
-     "url": "https://stooq.pl/n/?f=1410763&search=+lotos",
-     "date": "18.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1411055&search=+lotos",
+     "date": "19.03.2021"
     },
     {
      "title": "lotos rozpoczyna przygotowania do reorganizacji grupy w celu realizacji &#347;rodk&#243;w zaradczych",
@@ -2152,6 +2141,21 @@
      "title": "grupa lotos sa (10/2021) rozpocz&#281;cie przygotowa&#324; do reorganizacji grupy lotos s.a.",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38712858,grupa-lotos-sa-10-2021-rozpoczecie-przygotowan-do-reorganizacji-grupy-lotos-s-a",
      "date": "12.03.2021"
+    },
+    {
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=+lotos",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: na parkiecie dominują spadki; w wig20 tracą m.in. spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1410940&search=+lotos",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "obajtek o doniesieniach medialnych: to paskudne manipulacje i jedno wielkie pomówienie",
+     "url": "https://stooq.pl/n/?f=1410763&search=+lotos",
+     "date": "18.03.2021"
     },
     {
      "title": "w porcie gda&#197;&#132;sk zako&#197;&#132;czono kluczową inwestycję - rozbudowę układu drogowo-kolejowego",
@@ -2172,26 +2176,11 @@
      "title": "na zako&#197;&#132;czenie - wsparcie na wig20 do uratowania",
      "url": "https://stooq.pl/nol/?id=17894&search=+lotos",
      "date": "17.03.2021"
-    },
-    {
-     "title": "parlamentarny zespół śledczy ws. daniela obajtka zainaugurował działalność",
-     "url": "https://stooq.pl/n/?f=1410571&search=+lotos",
-     "date": "17.03.2021"
-    },
-    {
-     "title": "dzień na gpw: inwestorzy dyskontują potencjalne obostrzenia przed konferencją mz",
-     "url": "https://stooq.pl/n/?f=1410534&search=+lotos",
-     "date": "17.03.2021"
-    },
-    {
-     "title": "dzień na gpw: spadki przybierają na sile; wig20 traci ponad 3 proc.",
-     "url": "https://stooq.pl/n/?f=1410495&search=+lotos",
-     "date": "17.03.2021"
     }
    ],
    "predictions": {
-    "buy": 15,
-    "sell": 11
+    "buy": 14,
+    "sell": 10
    },
    "average_daily_volume": 11500000000
   },
@@ -2209,9 +2198,9 @@
    },
    "articles": [
     {
-     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
-     "url": "https://stooq.pl/n/?f=1410865&search=+lpp+",
-     "date": "18.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17944&search=+lpp+",
+     "date": "19.03.2021"
     },
     {
      "title": "dm bdm sa: lpp raport analityczny (kupuj z cen&#261; docelow&#261; 10 440 pln)",
@@ -2229,9 +2218,19 @@
      "date": "12.03.2021"
     },
     {
-     "title": "lpp uruchomi magazyn do obs&#322;ugi e-commerce w rosji",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38699014,lpp-uruchomi-magazyn-do-obslugi-e-commerce-w-rosji",
-     "date": "11.03.2021"
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=+lpp+",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: na parkiecie dominują spadki; w wig20 tracą m.in. spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1410940&search=+lpp+",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
+     "url": "https://stooq.pl/n/?f=1410865&search=+lpp+",
+     "date": "18.03.2021"
     },
     {
      "title": "dzień na gpw: indeksy lekko w górę; spółki odzieżowe odrabiają środowe spadki",
@@ -2247,23 +2246,13 @@
      "title": "bez podwyżek stóp w 2023 r.?",
      "url": "https://stooq.pl/n/?f=1410678&search=+lpp+",
      "date": "18.03.2021"
-    },
-    {
-     "title": "dzień na gpw: indeksy w dół; spadkom przewodziły spółki odzieżowe i allegro",
-     "url": "https://stooq.pl/n/?f=1410607&search=+lpp+",
-     "date": "17.03.2021"
-    },
-    {
-     "title": "na zako&#197;&#132;czenie - wsparcie na wig20 do uratowania",
-     "url": "https://stooq.pl/nol/?id=17894&search=+lpp+",
-     "date": "17.03.2021"
     }
    ],
    "predictions": {
     "buy": 0,
     "sell": 3
    },
-   "average_daily_volume": "2156"
+   "average_daily_volume": "2163"
   },
   {
    "code": "PLMBION00016",
@@ -2279,9 +2268,9 @@
    },
    "articles": [
     {
-     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
-     "url": "https://stooq.pl/n/?f=1410865&search=mabion",
-     "date": "18.03.2021"
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=mabion",
+     "date": "19.03.2021"
     },
     {
      "title": "mabion odwo&#322;a&#322; nwz ws. drugiej emisji akcji; przeanalizuje strategi&#281; finansowania",
@@ -2309,28 +2298,28 @@
      "date": "15.03.2021"
     },
     {
-     "title": "mabion sa (22/2021) powiadomienie o transakcjach na akcjach mabion s.a. dokonanych przez osob&#281; pe&#322;ni&#261;c&#261; obowi&#261;zki zarz&#261;dcze",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38697779,mabion-sa-22-2021-powiadomienie-o-transakcjach-na-akcjach-mabion-s-a-dokonanych-przez-osobe-pelniaca-obowiazki-zarzadcze",
-     "date": "11.03.2021"
+     "title": "dzień na gpw: na parkiecie dominują spadki; w wig20 tracą m.in. spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1410940&search=mabion",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dziwne zachowanie rentowności",
+     "url": "https://stooq.pl/n/?f=1410928&search=mabion",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
+     "url": "https://stooq.pl/n/?f=1410865&search=mabion",
+     "date": "18.03.2021"
     },
     {
      "title": "przegląd prasy",
      "url": "https://stooq.pl/n/?f=1410655&search=mabion",
      "date": "18.03.2021"
-    },
-    {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410621&search=mabion",
-     "date": "17.03.2021"
-    },
-    {
-     "title": "dzień na gpw: inwestorzy dyskontują potencjalne obostrzenia przed konferencją mz",
-     "url": "https://stooq.pl/n/?f=1410534&search=mabion",
-     "date": "17.03.2021"
     }
    ],
    "predictions": {
-    "buy": 24,
+    "buy": 27,
     "sell": 10
    },
    "average_daily_volume": 61500000
@@ -2349,9 +2338,9 @@
    },
    "articles": [
     {
-     "title": "gatnar z rpp:można rozważyć euro, gdy polska zrówna się w rozwoju ze strefą euro",
-     "url": "https://stooq.pl/n/?f=1410845&search=+mbank+",
-     "date": "18.03.2021"
+     "title": "radpol chce wrócić do regularnej wypłaty dywidendy; planuje przedstawić nową strategię w '22",
+     "url": "https://stooq.pl/n/?f=1411006&search=+mbank+",
+     "date": "19.03.2021"
     },
     {
      "title": "kolejne banki mog&#261; przyst&#281;powa&#263; do plan&#243;w naprawczych; op&#322;aty i prowizje bankowe b&#281;d&#261; ros&#322;y - prezesi",
@@ -2384,26 +2373,26 @@
      "date": "12.03.2021"
     },
     {
+     "title": "radpol chce wypłacić 6 groszy dywidendy na akcję",
+     "url": "https://stooq.pl/n/?f=1410887&search=+mbank+",
+     "date": "18.03.2021"
+    },
+    {
+     "title": "gatnar z rpp:można rozważyć euro, gdy polska zrówna się w rozwoju ze strefą euro",
+     "url": "https://stooq.pl/n/?f=1410845&search=+mbank+",
+     "date": "18.03.2021"
+    },
+    {
      "title": "gatnar z rpp: po pandemii banki centralne nie będą skłonne do podwyżek stóp",
      "url": "https://stooq.pl/n/?f=1410844&search=+mbank+",
      "date": "18.03.2021"
-    },
-    {
-     "title": "gatnar z rpp: niskie stopy procentowe mogą utrzymywać się przez długi czas",
-     "url": "https://stooq.pl/n/?f=1410836&search=+mbank+",
-     "date": "18.03.2021"
-    },
-    {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410621&search=+mbank+",
-     "date": "17.03.2021"
     }
    ],
    "predictions": {
-    "buy": 5,
+    "buy": 4,
     "sell": 8
    },
-   "average_daily_volume": "73501"
+   "average_daily_volume": "72610"
   },
   {
    "code": "PLMRCTR00015",
@@ -2419,9 +2408,19 @@
    },
    "articles": [
     {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410860&search=mercator",
-     "date": "18.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1411052&search=mercator",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "mercator medical obserwuje podobne ceny r&#281;kawic w i kw. wzgl&#281;dem iv kw.",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38772895,mercator-medical-obserwuje-podobne-ceny-rekawic-w-i-kw-wzgledem-iv-kw",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "mercator chce przeprowadzi&#263; buyback w formie wezwania i zako&#324;czy&#263; go na prze&#322;omie ii i iii kw.",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38773710,mercator-chce-przeprowadzic-buyback-w-formie-wezwania-i-zakonczyc-go-na-przelomie-ii-i-iii-kw",
+     "date": "19.03.2021"
     },
     {
      "title": "mercator medical chce przeznaczy&#263; zysk netto za '20 w kwocie 312 mln z&#322; na skup akcji w&#322;asnych",
@@ -2454,26 +2453,16 @@
      "date": "12.03.2021"
     },
     {
-     "title": "dzień na gpw: wzrosty głównych indeksów; najwięcej w wig20 zyskuje pge i santander",
-     "url": "https://stooq.pl/n/?f=1410687&search=mercator",
-     "date": "18.03.2021"
-    },
-    {
      "title": "",
-     "url": "https://stooq.pl/n/?f=1410674&search=mercator",
-     "date": "18.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410672&search=mercator",
-     "date": "18.03.2021"
+     "url": "https://stooq.pl/n/?f=1411045&search=mercator",
+     "date": "19.03.2021"
     }
    ],
    "predictions": {
-    "buy": 30,
+    "buy": 29,
     "sell": 6
    },
-   "average_daily_volume": "93828"
+   "average_daily_volume": "93478"
   },
   {
    "code": "PLBIG0000016",
@@ -2489,9 +2478,9 @@
    },
    "articles": [
     {
-     "title": "dzień na fx/fi: eur/pln może próbować przebić poziom 4,64; rentowności pójdą w górę",
-     "url": "https://stooq.pl/n/?f=1410846&search=millennium",
-     "date": "18.03.2021"
+     "title": "dzień na fx/fi: kurs eur/pln może testować poziom 4,63; rentowności spw stabilne",
+     "url": "https://stooq.pl/n/?f=1410944&search=millennium",
+     "date": "19.03.2021"
     },
     {
      "title": "bank millennium sa (10/2021) zg&#322;oszenie bankowi millennium s.a. przez akcjonariusza nationale-nederlanden ofe projektu uchwa&#322;y obejmuj&#261;cej kandydatur&#281; do rady nadzorczej banku nowej kadencji.",
@@ -2529,21 +2518,21 @@
      "date": "16.03.2021"
     },
     {
-     "title": "przegląd prasy",
-     "url": "https://stooq.pl/n/?f=1410655&search=millennium",
+     "title": "dzień na fx/fi: eur/pln może próbować przebić poziom 4,64; rentowności pójdą w górę",
+     "url": "https://stooq.pl/n/?f=1410846&search=millennium",
      "date": "18.03.2021"
     },
     {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410621&search=millennium",
-     "date": "17.03.2021"
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1410655&search=millennium",
+     "date": "18.03.2021"
     }
    ],
    "predictions": {
     "buy": 1,
     "sell": 0
    },
-   "average_daily_volume": "2505347"
+   "average_daily_volume": "2485265"
   },
   {
    "code": "PLTRFRM00018",
@@ -2559,7 +2548,7 @@
    },
    "articles": [
     {
-     "title": "paweł kuśmierowski zrezygnował z funkcji członka zarządu neuki",
+     "title": "",
      "url": "https://stooq.pl/n/?f=1410710&search=neuca",
      "date": "18.03.2021"
     },
@@ -2571,9 +2560,9 @@
    ],
    "predictions": {
     "buy": 4,
-    "sell": 10
+    "sell": 9
    },
-   "average_daily_volume": "2270"
+   "average_daily_volume": "2256"
   },
   {
    "code": "PLTLKPL00017",
@@ -2589,6 +2578,41 @@
    },
    "articles": [
     {
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1411060&search=+orange+",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "orange polska celuje we wzrost przychod&#243;w, ebitdaal; chce trwale poprawia&#263; zysk netto",
+     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38772358,orange-polska-celuje-we-wzrost-przychodow-ebitdaal-chce-trwale-poprawiac-zysk-netto",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "francja - operatorzy telekomunikacyjni uruchamiają sieć 5g w paryżu",
+     "url": "https://stooq.pl/n/?f=1411046&search=+orange+",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=+orange+",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1410998&search=+orange+",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: na parkiecie dominują spadki; w wig20 tracą m.in. spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1410940&search=+orange+",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1410904&search=+orange+",
+     "date": "19.03.2021"
+    },
+    {
      "title": "dzień na gpw: wig20 spada ponad 2 proc.; zniżkują niemal wszystkie spółki",
      "url": "https://stooq.pl/n/?f=1410428&search=+orange+",
      "date": "17.03.2021"
@@ -2600,10 +2624,10 @@
     }
    ],
    "predictions": {
-    "buy": 11,
-    "sell": 8
+    "buy": 12,
+    "sell": 7
    },
-   "average_daily_volume": "2258386"
+   "average_daily_volume": "2247373"
   },
   {
    "code": "PLPEKAO00016",
@@ -2619,9 +2643,9 @@
    },
    "articles": [
     {
-     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
-     "url": "https://stooq.pl/n/?f=1410865&search=pekao",
-     "date": "18.03.2021"
+     "title": "druga połowa roku decydująca dla skali odbicia pkb w 2021 r. wg analityków",
+     "url": "https://stooq.pl/n/?f=1411030&search=pekao",
+     "date": "19.03.2021"
     },
     {
      "title": "bank pekao 30 iii przedstawi strategi&#281; na lata 2021-2024",
@@ -2644,36 +2668,36 @@
      "date": "12.03.2021"
     },
     {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410860&search=pekao",
-     "date": "18.03.2021"
-    },
-    {
-     "title": "na zako&#197;&#132;czenie - przetrwać wied&#197;&#186;my i od poniedziałku nowe rozdanie",
-     "url": "https://stooq.pl/nol/?id=17929&search=pekao",
-     "date": "18.03.2021"
-    },
-    {
-     "title": "borys z pfr: ryzyko lockdownów może spaść prawie do zera na przełomie v/ vi",
-     "url": "https://stooq.pl/n/?f=1410806&search=pekao",
-     "date": "18.03.2021"
-    },
-    {
-     "title": "perspektywy sektora przemysłowego pozostają dobre w br. wg analityków",
-     "url": "https://stooq.pl/n/?f=1410783&search=pekao",
-     "date": "18.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/n/?f=1411004&search=pekao",
+     "date": "19.03.2021"
     },
     {
      "title": "",
-     "url": "https://stooq.pl/n/?f=1410758&search=pekao",
+     "url": "https://stooq.pl/n/?f=1410992&search=pekao",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na fx/fi: kurs eur/pln może testować poziom 4,63; rentowności spw stabilne",
+     "url": "https://stooq.pl/n/?f=1410944&search=pekao",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1410904&search=pekao",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
+     "url": "https://stooq.pl/n/?f=1410865&search=pekao",
      "date": "18.03.2021"
     }
    ],
    "predictions": {
-    "buy": 5,
-    "sell": 0
+    "buy": 4,
+    "sell": 1
    },
-   "average_daily_volume": "919580"
+   "average_daily_volume": "921085"
   },
   {
    "code": "PLPGER000010",
@@ -2689,9 +2713,9 @@
    },
    "articles": [
     {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410860&search=polska+grupa+energetyczna",
-     "date": "18.03.2021"
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1411060&search=+pge+",
+     "date": "19.03.2021"
     },
     {
      "title": "produkcja energii z mikroinstalacji oze wzros&#322;a w '20 trzykrotnie &#8211; ure",
@@ -2714,6 +2738,11 @@
      "date": "12.03.2021"
     },
     {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1410860&search=polska+grupa+energetyczna",
+     "date": "18.03.2021"
+    },
+    {
      "title": "dolnośląskie - władze bogatyni i związki zawodowe kompleksu turów z apelem do przewodniczącej ke",
      "url": "https://stooq.pl/n/?f=1410838&search=+pge+",
      "date": "18.03.2021"
@@ -2732,15 +2761,10 @@
      "title": "dolnośląskie - greenpeace zako&#197;&#132;czył protest w kopalni węgla brunatnego turów",
      "url": "https://stooq.pl/n/?f=1410748&search=+pge+",
      "date": "18.03.2021"
-    },
-    {
-     "title": "dolnośląskie - greenpeace kontynuuje protest w kopalni węgla brunatnego turów",
-     "url": "https://stooq.pl/n/?f=1410721&search=+pge+",
-     "date": "18.03.2021"
     }
    ],
    "predictions": {
-    "buy": 19,
+    "buy": 18,
     "sell": 2
    },
    "average_daily_volume": 41800000000
@@ -2759,14 +2783,24 @@
    },
    "articles": [
     {
-     "title": "sasin: dobre wiadomości z luksemburga ws. gazociągu opal",
-     "url": "https://stooq.pl/n/?f=1410863&search=pgnig",
-     "date": "18.03.2021"
+     "title": "grupa azoty została głównym partnerem żużlowej unii tarnów na sezon 2021",
+     "url": "https://stooq.pl/n/?f=1411028&search=pgnig",
+     "date": "19.03.2021"
     },
     {
      "title": "pgnig sa (11/2021) powo&#322;anie pana artura cie&#347;lika na stanowisko wiceprezesa zarz&#261;du pgnig sa - uzupe&#322;nienie informacji do raportu bie&#380;&#261;cego nr 10/2021",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38738618,pgnig-sa-11-2021-powolanie-pana-artura-cieslika-na-stanowisko-wiceprezesa-zarzadu-pgnig-sa-uzupelnienie-informacji-do-raportu-biezacego-nr-10-2021",
      "date": "16.03.2021"
+    },
+    {
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1410904&search=pgnig",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "sasin: dobre wiadomości z luksemburga ws. gazociągu opal",
+     "url": "https://stooq.pl/n/?f=1410863&search=pgnig",
+     "date": "18.03.2021"
     },
     {
      "title": "przegląd informacji ze spółek",
@@ -2797,23 +2831,13 @@
      "title": "sobo&#197;&#132;: będzie porozumienie z wykonawcą ostrołęki c",
      "url": "https://stooq.pl/n/?f=1410454&search=pgnig",
      "date": "17.03.2021"
-    },
-    {
-     "title": "cez spodziewa się w kwietniu wiążących ofert na aktywa w polsce",
-     "url": "https://stooq.pl/n/?f=1410136&search=pgnig",
-     "date": "16.03.2021"
-    },
-    {
-     "title": "dzień na gpw: poranne wzrosty słabną; nowe rekordy indeksów",
-     "url": "https://stooq.pl/n/?f=1410001&search=pgnig",
-     "date": "15.03.2021"
     }
    ],
    "predictions": {
     "buy": 0,
-    "sell": 2
+    "sell": 1
    },
-   "average_daily_volume": "3953628"
+   "average_daily_volume": "3946296"
   },
   {
    "code": "PLPKN0000018",
@@ -2829,9 +2853,9 @@
    },
    "articles": [
     {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410860&search=+pkn+",
-     "date": "18.03.2021"
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=+pkn+",
+     "date": "19.03.2021"
     },
     {
      "title": "pepees sprzeda orlenowi udzia&#322;y w chp energia",
@@ -2869,21 +2893,21 @@
      "date": "12.03.2021"
     },
     {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410815&search=+pkn+",
-     "date": "18.03.2021"
+     "title": "dzień na gpw: na parkiecie dominują spadki; w wig20 tracą m.in. spółki paliwowe",
+     "url": "https://stooq.pl/n/?f=1410940&search=+pkn+",
+     "date": "19.03.2021"
     },
     {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410805&search=+pkn+",
-     "date": "18.03.2021"
+     "title": "przegląd prasy",
+     "url": "https://stooq.pl/n/?f=1410904&search=+orlen+",
+     "date": "19.03.2021"
     }
    ],
    "predictions": {
     "buy": 44,
     "sell": 9
    },
-   "average_daily_volume": "1379915"
+   "average_daily_volume": "1375133"
   },
   {
    "code": "PLPKO0000016",
@@ -2899,9 +2923,9 @@
    },
    "articles": [
     {
-     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
-     "url": "https://stooq.pl/n/?f=1410865&search=+pko+",
-     "date": "18.03.2021"
+     "title": "dzień na gpw: indeksy kontynuują spadki; w wig20 najbardziej traci jsw",
+     "url": "https://stooq.pl/n/?f=1411016&search=+pko+",
+     "date": "19.03.2021"
     },
     {
      "title": "pko bp przyj&#261;&#322; polityk&#281; dywidendow&#261;; zak&#322;ada mo&#380;liwo&#347;&#263; buybacku",
@@ -2934,26 +2958,26 @@
      "date": "12.03.2021"
     },
     {
+     "title": "dzień na fx/fi: kurs eur/pln może testować poziom 4,63; rentowności spw stabilne",
+     "url": "https://stooq.pl/n/?f=1410944&search=+pko+",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "dzień na gpw: indeksy odbiły po środowych spadkach; w górę odzież i banki",
+     "url": "https://stooq.pl/n/?f=1410865&search=+pko+",
+     "date": "18.03.2021"
+    },
+    {
      "title": "przegląd informacji ze spółek",
      "url": "https://stooq.pl/n/?f=1410860&search=+pko+",
-     "date": "18.03.2021"
-    },
-    {
-     "title": "na zako&#197;&#132;czenie - przetrwać wied&#197;&#186;my i od poniedziałku nowe rozdanie",
-     "url": "https://stooq.pl/nol/?id=17929&search=+pko+",
-     "date": "18.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410848&search=+pko+",
      "date": "18.03.2021"
     }
    ],
    "predictions": {
-    "buy": 10,
+    "buy": 8,
     "sell": 13
    },
-   "average_daily_volume": "2859189"
+   "average_daily_volume": "2855625"
   },
   {
    "code": "PLPKPCR00011",
@@ -2972,15 +2996,10 @@
      "title": "dzień na gpw: główne indeksy w dół; spadkom przewodziły paliwa",
      "url": "https://stooq.pl/n/?f=1410338&search=pkp+cargo",
      "date": "16.03.2021"
-    },
-    {
-     "title": "pkp chce zwiększyć udział transportu kolejowego w przewozie żywności",
-     "url": "https://stooq.pl/n/?f=1409472&search=pkp+cargo",
-     "date": "11.03.2021"
     }
    ],
    "predictions": {
-    "buy": 15,
+    "buy": 12,
     "sell": 6
    },
    "average_daily_volume": 3160000000
@@ -2999,13 +3018,23 @@
    },
    "articles": [
     {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1410860&search=playway",
-     "date": "18.03.2021"
+     "title": "tygodniowy przegląd informacji isbtech z sektora gamingowego",
+     "url": "https://stooq.pl/n/?f=1411063&search=playway",
+     "date": "19.03.2021"
     },
     {
      "title": "ignibit chce zadebiutowa&#263; na newconnect w iv kw. '21",
      "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38760501,ignibit-chce-zadebiutowac-na-newconnect-w-iv-kw-21",
+     "date": "18.03.2021"
+    },
+    {
+     "title": "live motion games pozyskał 4 mln zł w ofecie publicznej",
+     "url": "https://stooq.pl/n/?f=1410925&search=playway",
+     "date": "19.03.2021"
+    },
+    {
+     "title": "przegląd informacji ze spółek",
+     "url": "https://stooq.pl/n/?f=1410860&search=playway",
      "date": "18.03.2021"
     },
     {
@@ -3037,18 +3066,13 @@
      "title": "ultimate games: wishlist outstanding w sklepie steam wynosi 1,14 mln graczy",
      "url": "https://stooq.pl/n/?f=1409894&search=playway",
      "date": "15.03.2021"
-    },
-    {
-     "title": "tygodniowy przegląd informacji isbtech z sektora gamingowego",
-     "url": "https://stooq.pl/n/?f=1409652&search=playway",
-     "date": "12.03.2021"
     }
    ],
    "predictions": {
     "buy": 1,
     "sell": 1
    },
-   "average_daily_volume": "4291"
+   "average_daily_volume": "4283"
   },
   {
    "code": "PLPZU0000011",
@@ -3064,9 +3088,9 @@
    },
    "articles": [
     {
-     "title": "wartość aktywów ofe wzrosła w lutym o 2,3 proc. mdm",
-     "url": "https://stooq.pl/n/?f=1410869&search=pzu",
-     "date": "18.03.2021"
+     "title": "tygodniowy przegląd informacji isbtech z sektora tmt",
+     "url": "https://stooq.pl/n/?f=1411060&search=pzu",
+     "date": "19.03.2021"
     },
     {
      "title": "ofe pzu warto&#347;&#263; jednostki rozrachunkowej",
@@ -3094,14 +3118,9 @@
      "date": "12.03.2021"
     },
     {
-     "title": "ofe pzu warto&#347;&#263; jednostki rozrachunkowej",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38703435,ofe-pzu-wartosc-jednostki-rozrachunkowej",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "grupa pzu planuje wkr&#243;tce przyj&#261;&#263; strategi&#281; zr&#243;wnowa&#380;onego rozwoju uwzgl&#281;dniaj&#261;c&#261; czynniki esg",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38699179,grupa-pzu-planuje-wkrotce-przyjac-strategie-zrownowazonego-rozwoju-uwzgledniajaca-czynniki-esg",
-     "date": "11.03.2021"
+     "title": "wartość aktywów ofe wzrosła w lutym o 2,3 proc. mdm",
+     "url": "https://stooq.pl/n/?f=1410869&search=pzu",
+     "date": "18.03.2021"
     },
     {
      "title": "bank pekao przedstawi 30 marca strategię na lata 2021-2024",
@@ -3112,13 +3131,18 @@
      "title": "dzień na gpw: indeksy w dół; spadkom przewodziły spółki odzieżowe i allegro",
      "url": "https://stooq.pl/n/?f=1410607&search=pzu",
      "date": "17.03.2021"
+    },
+    {
+     "title": "dzień na gpw: spadki przybierają na sile; wig20 traci ponad 3 proc.",
+     "url": "https://stooq.pl/n/?f=1410495&search=pzu",
+     "date": "17.03.2021"
     }
    ],
    "predictions": {
     "buy": 22,
-    "sell": 4
+    "sell": 3
    },
-   "average_daily_volume": "2143991"
+   "average_daily_volume": "2144188"
   },
   {
    "code": "PLBZ00000044",
@@ -3185,10 +3209,10 @@
     }
    ],
    "predictions": {
-    "buy": 1,
-    "sell": 14
+    "buy": 0,
+    "sell": 13
    },
-   "average_daily_volume": "88960"
+   "average_daily_volume": "88275"
   },
   {
    "code": "PLTAURN00011",
@@ -3204,9 +3228,9 @@
    },
    "articles": [
     {
-     "title": "poważne ostrzeżenie dla wi-energia",
-     "url": "https://stooq.pl/nol/?id=17893&search=tauron",
-     "date": "17.03.2021"
+     "title": "100 szkół wzięło udział w projekcie kształcenia kadr dla energetyki",
+     "url": "https://stooq.pl/n/?f=1411047&search=tauron",
+     "date": "19.03.2021"
     },
     {
      "title": "produkcja energii z mikroinstalacji oze wzros&#322;a w '20 trzykrotnie &#8211; ure",
@@ -3249,9 +3273,9 @@
      "date": "15.03.2021"
     },
     {
-     "title": "tauron ma mo&#380;liwo&#347;&#263; emisji obligacji do kwoty 450 mln z&#322; w ramach umowy z bgk",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38703564,tauron-ma-mozliwosc-emisji-obligacji-do-kwoty-450-mln-zl-w-ramach-umowy-z-bgk",
-     "date": "11.03.2021"
+     "title": "",
+     "url": "https://stooq.pl/nol/?id=17945&search=tauron",
+     "date": "19.03.2021"
     }
    ],
    "predictions": {
@@ -3274,9 +3298,9 @@
    },
    "articles": [
     {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1410868&search=ten+square+games",
-     "date": "18.03.2021"
+     "title": "dzień na gpw: wig20 w konsolidacji; spodziewana kontynuacja ruchu w dół",
+     "url": "https://stooq.pl/n/?f=1410921&search=ten+square+games",
+     "date": "19.03.2021"
     },
     {
      "title": "niegot&#243;wkowa korekta obni&#380;y zysk operacyjny ten square games w '20 o 30,2 mln z&#322;",
@@ -3290,15 +3314,20 @@
     },
     {
      "title": "",
+     "url": "https://stooq.pl/n/?f=1410868&search=ten+square+games",
+     "date": "18.03.2021"
+    },
+    {
+     "title": "",
      "url": "https://stooq.pl/nol/?id=17813&search=ten+square+games",
      "date": "15.03.2021"
     }
    ],
    "predictions": {
     "buy": 0,
-    "sell": 15
+    "sell": 14
    },
-   "average_daily_volume": "28260"
+   "average_daily_volume": "28095"
   },
   {
    "code": "PLWRTPL00027",
@@ -3313,11 +3342,6 @@
     "marketscreener": "https://www.marketscreener.com//quote/stock/WIRTUALNA-POLSKA-HOLDING-22094633/"
    },
    "articles": [
-    {
-     "title": "wirtualna polska holding sa (6/2021) wydanie akcji zwyk&#322;ych na okaziciela serii d i f i zmiana wysoko&#347;ci kapita&#322;u zak&#322;adowego sp&#243;&#322;ki wirtualna polska holding s.a.",
-     "url": "http://infostrefa.com/infostrefa/pl/wiadomosci/38703618,wirtualna-polska-holding-sa-6-2021-wydanie-akcji-zwyklych-na-okaziciela-serii-d-i-f-i-zmiana-wysokosci-kapitalu-zakladowego-spolki-wirtualna-polska-holding-s-a",
-     "date": "11.03.2021"
-    },
     {
      "title": "haitong: aukcja 5g i potencjalne transakcje infrastrukturalne kluczowe w 2021",
      "url": "https://stooq.pl/n/?f=1394694&search=wirtualna+polska",
@@ -3363,7 +3387,7 @@
     "buy": 0,
     "sell": 1
    },
-   "average_daily_volume": "9934"
+   "average_daily_volume": "9787"
   },
   {
    "code": "PLXTRDM00011",
@@ -3392,38 +3416,13 @@
      "title": "",
      "url": "https://stooq.pl/nol/?id=17777&search=+xtb+",
      "date": "12.03.2021"
-    },
-    {
-     "title": "dzień na gpw: mimo sprzyjających globalnych nastrojów krajowe indeksy pod kreską",
-     "url": "https://stooq.pl/n/?f=1409479&search=+xtb+",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "przegląd informacji ze spółek",
-     "url": "https://stooq.pl/n/?f=1409474&search=+x-trade",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "dzień na gpw: wig20 najsłabszym europejskim indeksem; spadkom przewodzą banki",
-     "url": "https://stooq.pl/n/?f=1409377&search=+xtb+",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1409353&search=+xtb+",
-     "date": "11.03.2021"
-    },
-    {
-     "title": "",
-     "url": "https://stooq.pl/n/?f=1409352&search=+xtb+",
-     "date": "11.03.2021"
     }
    ],
    "predictions": {
-    "buy": 37,
-    "sell": 9
+    "buy": 36,
+    "sell": 8
    },
-   "average_daily_volume": "699009"
+   "average_daily_volume": "690422"
   }
  ]
 }
