@@ -17,12 +17,18 @@ def main():
 
 @app.route('/<ticker>')
 def stock(ticker):
-    return stockPage(ticker)
+    reload = request.args.get('reload')
+    if reload:
+        reload = reload.split(',')
+        reload = [r for r in reload if r in ['articles', 'predictions', 'volume', 'graphs']]
+    return stockPage(ticker, reload)
 
 
 @app.route('/graphs/<img>')
 def image(img):
     return send_file('graphs/' + img, mimetype='image/png')
+
+# TODO add sorting by buy-sell ratio
 
 
 if __name__ == '__main__':

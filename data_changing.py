@@ -129,8 +129,6 @@ def prediction(d):
             'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36'
         }
         resp = requests.get(url, headers=headers)
-        with open('test.html', 'w+') as f:
-            f.write(str(resp.text))
         root = html.fromstring(resp.text)
         buy1 = int(re.split('\(|\)', str(etree.tostring(
             root.xpath('//*[@id="maBuy"]')[0]), 'utf-8'))[1])
@@ -205,6 +203,27 @@ Downloads simple graphs for each stock
 def getAllSimpleGraphs(timeframe):
     for d in getData():
         graphSimple(d, timeframe)
+
+
+"""
+Runs most of above methods, to collect all current data of one specified stock
+"""
+def getChangingData(d, reload):
+    if 'articles' in reload:
+        print('\033[33;1mGetting articles ...\033[0m')
+        d = articles(d)
+    if 'predictions' in reload:
+        print('\033[33;1mGetting predictions ...\033[0m')
+        d = prediction(d)
+    if 'volume' in reload:
+        print('\033[33;1mGetting volume ...\033[0m')
+        d = avgVolume(d)
+    if 'graphs' in reload:
+        print('\033[33;1mGetting graphs ...\033[0m')
+        graphSimple(d, '1d')
+        graphSimple(d, '5d')
+        graphSimple(d, '1m')
+        graphAdvanced(d, 1)
 
 
 """

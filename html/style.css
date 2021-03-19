@@ -1,0 +1,92 @@
+/* main page */
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.stock {
+    display: block;
+    padding: 20px 0;
+    border: 1px solid #555;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+.stock img {
+    grid-area: img;
+    height: 25vh;
+}
+.stock .data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#t {
+    font-weight: bold;
+}
+#t .sector {
+    font-weight: normal;
+    font-style: italic;
+    padding: 5px 10px;
+    background: #ddd;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+.stock .data > * {
+    margin: 5px;
+    padding: 0;
+}
+
+/* both */
+.green {
+    font-weight: bold;
+    color: green;
+}
+.red {
+    color: red;
+}
+
+/* page of one stock */
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 100%;
+}
+.main .graph-btns {
+    display: flex;
+    justify-content: space-evenly;
+}
+.main .graph-btns p {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+    margin: 0;
+}
+.main .bottom {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.main .data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 50px;
+}
+.main .data p {
+    margin: 0;
+}
+.main .data #t {
+    margin-bottom: 20px;
+}
+.main .articles {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin-top: 34px;
+}

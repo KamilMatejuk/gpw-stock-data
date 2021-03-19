@@ -8,6 +8,7 @@ python main.py
 ```
 Open webpage in browser, with attributes you want to reload<br/>
 http://127.0.0.1:5000/?reload=articles,predictions,volume,graphs<br/>
+http://127.0.0.1:5000/11b?reload=articles,predictions,volume,graphs<br/>
 *Note: reload may take some time*
 
 ## Sources
