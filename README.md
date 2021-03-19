@@ -1,6 +1,15 @@
 # Warsaw Stock Exchange (GPW)
 This is a program written for [INDEX Investment Chellange](https://iichallenge.gpw.pl/). Program scrapes basic data about stocks at GPW (Warsaw Stock Exchange) avaliable for trading in above challange and displays it as html.
 
+## Running
+Run Flask application
+```code=bash
+python main.py
+```
+Open webpage in browser, with attributes you want to reload<br/>
+http://127.0.0.1:5000/?reload=articles,predictions,volume,graphs<br/>
+*Note: reload may take some time*
+
 ## Sources
 * [stooq.pl](https://stooq.pl/q/g/?s=11B')
 * [gpw.pl](https://www.gpw.pl/ajaxindex.php?start=indicatorsTab&format=html&action=GPWListaSp&gls_isin=PL11BTS00015&lang=EN)
