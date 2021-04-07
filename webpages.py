@@ -8,11 +8,11 @@ def mainPage(reload):
         getAllChangingData(reload)
     data = getData()
     data = sortByPrediction(data)
-    html = f'<style>{getStyle()}</style><div class="grid">'
+    html = f'<div class="grid">'
     for d in data:
         html += getStockSummary(d)
     html += '</div>'
-    return html
+    return wrapHtml(html, title='GPW Stocks', style=getStyle())
 
 
 def stockPage(ticker, reload):
@@ -29,15 +29,15 @@ def stockPage(ticker, reload):
         getChangingData(stock, reload)
     # create html
     try:
-        daily_volume = 100 * int(d["average_daily_volume"]) / d['number_of_shares']
+        daily_volume = 100 * int(stock["average_daily_volume"]) / stock['number_of_shares']
     except:
         daily_volume = 0
-    buy = d["predictions"]["buy"]
-    sell = d["predictions"]["sell"]
+    buy = stock["predictions"]["buy"]
+    sell = stock["predictions"]["sell"]
     css = 'green' if buy > sell else 'red'
-    return f'''<style>{getStyle()}</style><div class="main">
+    html = f'''<div class="main">
             <div>
-                <img id="graph-img" src="graphs/{d["ticker"]}-5d-simple.png">
+                <img id="graph-img" src="graphs/{stock["ticker"]}-5d-simple.png">
                 <div class="graph-btns">
                     <p onclick=graph("{stock["ticker"]}-1d-simple")>1d</p>
                     <p onclick=graph("{stock["ticker"]}-5d-simple")>5d</p>
@@ -54,8 +54,8 @@ def stockPage(ticker, reload):
                 </div>
                 <div class="articles">{getArticles(stock)}</div>
             </div>
-        </div>
-        <script>{getScript()}</script>'''
+        </div>'''
+    return wrapHtml(html, title=f'({ticker}) {stock["name"]}', style=getStyle(), script=getScript())
 
 
 def sortByPrediction(data):
@@ -111,3 +111,22 @@ def getArticles(d):
     for a in art:
         html += f'<a href="{a["url"]}" target="_blank">({a["date"]}) {a["title"]}</a>'
     return html
+
+
+def wrapHtml(html, title='Webpage', style='', script=''):
+    return f'''
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{title}</title>
+    </head>
+    <body>
+        <style>{style}</style>
+        {html}
+        <script>{script}</script>
+    </body>
+    </html>
+    '''
