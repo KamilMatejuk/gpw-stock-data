@@ -54,7 +54,7 @@
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    min-height: 100%;
+    min-height: 100vh;
 }
 .main .graph-btns {
     display: flex;
